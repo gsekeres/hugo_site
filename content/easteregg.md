@@ -45,6 +45,17 @@ Hi! Thanks for clicking on me! I hope you enjoyed the experience. You have three
     margin-top: 20px !important;
     width: 100% !important;
 }
+
+@media screen and (max-width: 768px) {
+    .button-container {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+    
+    .easter-button {
+        max-width: 80% !important;  /* Makes buttons wider on mobile */
+    }
+}
 </style>
 
 <div class="button-container">
