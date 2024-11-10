@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Gabe Sekeres</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Gabe Sekeres</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microeconomic Theory</title>
+      <link>http://localhost:1313/tags/microeconomic-theory/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/microeconomic-theory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Policy Momentum</title>
+      <link>http://localhost:1313/tags/policy-momentum/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/policy-momentum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Political Economy</title>
+      <link>http://localhost:1313/tags/political-economy/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/political-economy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anesthesiology</title>
+      <link>http://localhost:1313/tags/anesthesiology/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/anesthesiology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medicine</title>
+      <link>http://localhost:1313/tags/medicine/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/medicine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Race</title>
+      <link>http://localhost:1313/tags/race/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/race/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+.profile img {
+    border-radius: 40% 60% 55% 45% / 40% 45% 55% 60%;  /* Creates an oval shape */
+    max-width: 400px;  /* Maintains your current max width */
+    height: auto;  /* Maintains aspect ratio */
+    transition: border-radius 0.3s ease;  /* Optional: adds smooth transition if you want hover effects */
+}
+
+.terms-tags li {
+    margin: 0.5em;
+    padding: 0.5em 1em;
+    font-size: 0.9em;
+    background: #eee;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.terms-tags a:hover {
+    background: #ddd;
+}
+
+a[href="/"] {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #eee;
+    border-radius: 4px;
+    text-decoration: none;
+    color: inherit;
+    transition: background-color 0.3s ease;
+}
+
+a[href="/"]:hover {
+    background-color: #ddd;
+}

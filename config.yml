@@ -1,0 +1,115 @@
+baseURL: "https://gabesekeres.com/" 
+title: Gabe Sekeres
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Research
+          url: research/
+          weight: 3
+        - name: Teaching
+          url: teaching/
+          weight: 4
+        - name: Resources
+          url: resources/
+          weight: 5
+        - name: Papers
+          url: papers/
+          weight: 2
+        - name: Tags
+          url: tags/
+          weight: 6
+        - name: Archive
+          url: archive/
+          weight: 7
+
+params:
+    description: "Gabe Sekeres's academic website."
+    author: Gabe Sekeres
+    # googleAnalyticsID: "G-XXXXX"
+    customCSS: ["/assets/css/common/custom.css"]
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["papers","research","teaching","resources","tags","archive"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Gabe Sekeres
+          subtitle: "I'm a first year PhD student at Cornell University, focusing on microeconomic theory and its applications to health, science, and technology. <br><br>Currently, I'm thinking about science of science and the decision problems that researchers face. I'm also interested in the connections between formal microeconomic theory, econometrics, and machine learning (especially fairness). Feel free to reach out, I'm always happy to chat!"
+          imageUrl: "headshot.jpg"
+          # imageWidth: 160
+          # imageHeight: 160
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: Research
+              url: research/
+            - name: Teaching
+              url: teaching/
+            - name: Resources
+              url: resources/
+            - name: Tags
+              url: tags/
+            - name: Archive
+              url: archive/
+    socialIcons:
+        - name: CV
+          url: gabe_sekeres_cv.pdf
+        - name: Email
+          url: mailto:gs754@cornell.edu
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=l0QBiTIAAAAJ&hl=en
+        - name: GitHub
+          url: https://github.com/gsekeres
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/gabriel-sekeres-0526aa174/
+        - name: Twitter
+          url: https://twitter.com/GabeSekeres
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: officehours/
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Gabe Sekeres"
+      icon: favicon.png
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
