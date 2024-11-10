@@ -99,7 +99,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Gabe Sekeres"
-      icon: favicon.png
+      icon: favicon/favicon.ico
       iconHeight: 18
 
 markup:
