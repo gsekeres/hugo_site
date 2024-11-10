@@ -1,8 +1,31 @@
-.profile img {
-    border-radius: 40% 60% 55% 45% / 40% 45% 55% 60%;  /* Creates an oval shape */
-    max-width: 400px;  /* Maintains your current max width */
-    height: auto;  /* Maintains aspect ratio */
-    transition: border-radius 0.3s ease;  /* Optional: adds smooth transition if you want hover effects */
+.profile-image-link {
+    display: block;
+    width: 150px;
+    height: 200px;
+}
+
+.profile-image {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    border-radius: 45% / 55% !important;
+    transition: all 0.3s ease;
+}
+
+.profile-image:hover {
+    animation: bounce 0.5s ease;
+    cursor: pointer;
+}
+
+@keyframes bounce {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+}
+
+.profile img,
+.profile .profile_inner img,
+.profile_inner a img {
+    border-radius: 45% / 55% !important;
 }
 
 .terms-tags li {
