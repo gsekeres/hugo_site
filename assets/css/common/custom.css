@@ -55,3 +55,19 @@ a[href="/"] {
 a[href="/"]:hover {
     background-color: #ddd;
 }
+
+/* Style links in the profile subtitle */
+.profile-subtitle a {
+    text-decoration: underline;
+    color: var(--primary);
+}
+
+/* Add more spacing between paragraphs in the profile subtitle */
+.profile-subtitle p {
+    margin-bottom: 2em;
+}
+
+/* Optional: style links on hover */
+.profile-subtitle a:hover {
+    opacity: 0.8;
+}
