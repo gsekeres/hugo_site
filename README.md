@@ -21,8 +21,8 @@ My CV is available [here](cv/gabe_sekeres_cv.pdf), and the TeX source is availab
 
 I benchmarked the performance of the website on [PageSpeed Insights](https://pagespeed.web.dev/) on 11.11.24. Here are the results for mobile:
 
-![PageSpeed Insights mobile performance score](static/pagespeed/pagespeed_mobile.png "Mobile performance score"){width=470 height=265 loading="lazy" alt="PageSpeed Insights mobile performance results showing perfect scores across all metrics"}
+![PageSpeed Insights mobile performance score](static/pagespeed/pagespeed_mobile.png "Mobile performance score")
 
 And here are the results for desktop:
 
-![PageSpeed Insights desktop performance score](static/pagespeed/pagespeed_desktop.png "Desktop performance score"){width=470 height=265 loading="lazy" alt="PageSpeed Insights desktop performance results showing perfect scores across all metrics"}
+![PageSpeed Insights desktop performance score](static/pagespeed/pagespeed_desktop.png "Desktop performance score")
