@@ -6,6 +6,7 @@ tags: []
 author: ["Gabriel Sekeres"]
 description: "My CV with template." 
 summary: "My CV with template." 
+aliases: ["/cv.html"]
 ---
 ## CV
 
