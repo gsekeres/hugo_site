@@ -16,8 +16,9 @@ editPost:
 
 ##### Download
 
-+ [Paper](gsekeres_slippery_slope_paper.pdf)
-+ [Appendix](gsekeres_slippery_slope_appendix.pdf)
++ [Paper](/papers/slippery_slope/gsekeres_slippery_slope.pdf)
++ [Appendix](/papers/slippery_slope/gsekeres_slippery_slope_appendix.pdf)
+
 
 ---
 
