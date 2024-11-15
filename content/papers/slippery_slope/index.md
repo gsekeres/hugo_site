@@ -48,7 +48,7 @@ slippery slope dynamic.
 
 ##### Citation
 
-Parameswaran, Giri, Gabriel Sekeres, and Haya Goldblatt. Forthcoming. "The Politics of the Slippery Slope." *Journal of Politics*.
+Parameswaran, Giri, Gabriel Sekeres, and Haya Goldblatt. Forthcoming. "The Politics of the Slippery Slope." *Journal of Politics*. doi: [10.1086/732965](https://doi.org/10.1086/732965)
 
 ```BibTeX
 @article{PSG24,
@@ -56,6 +56,7 @@ author = {Giri Parameswaran and Gabriel Sekeres and Haya Goldblatt},
 year = {2024},
 title ={The Politics of the Slippery Slope},
 journal = {Journal of Politics},
+url = {https://doi.org/10.1086/732965}
 }
 ```
 

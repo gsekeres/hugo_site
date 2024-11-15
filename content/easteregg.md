@@ -64,4 +64,14 @@ Hi! Thanks for clicking on me! I hope you enjoyed the experience. You have three
     <a href="https://zoo.sandiegozoo.org/cams/ape-cam" class="easter-button">Ape Cam</a>
 </div>
 
-## Choose wisely!
+## Choose wisely! Enjoy some birds while you're here.
+
+
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/x10vL6_47Dw?autoplay=1&mute=1&playsinline=1" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
