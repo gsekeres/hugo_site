@@ -1,6 +1,6 @@
 ---
 title: "Notes" 
-date: 2024-11-03
+date: 2024-12-09
 lastmod: 2024-12-09
 tags: []
 author: ["Gabriel Sekeres"]
@@ -25,19 +25,6 @@ I've included more complete course materials in the [private](/resources/private
 
 - [Microeconomics I](/resources/notes/econ_6090_notes.pdf), taught by [David Easley](https://easley.economics.cornell.edu/), [Philipp Kircher](https://philippkircher.com/), [Adam Harris](https://adamharris.phd/), [Larry Blume](https://sites.santafe.edu/~leb/), [Levon Barseghyan](https://barseghyan.economics.cornell.edu/), and [Marco Battaglini](https://www.mbattaglini.com/). Covers the canonical first semester of PhD Microeconomics: choice theory, consumer theory, producer theory, uncertainty, and asymmetric information theory.
 - [Econometrics I](/resources/notes/econ_6190_notes.pdf), taught by [Chen Qiu](https://sites.google.com/view/chen-qiu). Covers the first semester of Econometrics: introduction to statistical inference, asymptotics, estimation, hypothesis testing, and confidence intervals.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
