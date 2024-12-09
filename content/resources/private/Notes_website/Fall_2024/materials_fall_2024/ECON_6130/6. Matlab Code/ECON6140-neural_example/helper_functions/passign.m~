@@ -1,0 +1,3 @@
+function our = passign(struct)
+
+f = fieldnames(struct);
