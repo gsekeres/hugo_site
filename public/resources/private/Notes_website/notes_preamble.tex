@@ -1,0 +1,182 @@
+%% Packages
+\usepackage[margin=1in, top=0.75in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{amssymb, amsfonts, amsmath, mathrsfs, enumitem, tcolorbox, bbm, graphicx, fullpage, parskip, mathtools, float, amsthm}
+\usepackage{tikz,sgame,bbm,todonotes, setspace, soul, array}
+\usepackage[english]{babel}
+\usepackage{pdfpages}
+\setcounter{tocdepth}{3}
+% Links (and references)
+\definecolor{linkblue}{RGB}{40, 50, 200}
+\usepackage[colorlinks=true, allcolors={linkblue}]{hyperref}
+
+%% Math operators
+\newcommand*{\ones}{\text{\usefont{U}{bbold}{m}{n}1}}
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\rationals}{\mathbb{Q}}
+\newcommand{\integers}{\mathbb{Z}}
+\newcommand{\naturals}{\mathbb{N}}
+\newcommand{\complex}{\mathbb{C}}
+\newcommand{\normal}{\mathcal{N}}
+
+% General math
+\newcommand{\abs}[1]{\mathop{\left|#1\right|}} % absolute value
+\newcommand{\inv}{^{-1}} % inverse
+\let\oldST\st
+\newcommand{\strikethrough}{\oldST}
+\renewcommand{\st}{\;\text{s.t.}\;} % math operator for "such that"
+\newcommand{\eg}{\emph{e.g.} }
+\newcommand{\ie}{\emph{i.e.} }
+\newcommand{\interior}{\mathop{\rm int}}
+
+% Optimization
+\newcommand{\argmax}{\mathop{\rm argmax}}
+\newcommand{\argmin}{\mathop{\rm argmin}}
+\newcommand{\opt}{^\star}
+% Analysis, vector spaces, and topology
+\newcommand{\set}[1]{\left\{#1\right\}} % set notation
+\newcommand{\seq}[1]{_{#1}^{\infty}} % add sequence notiation to set (or to a summation symbol for series)
+\newcommand{\setless}{\mathop{\backslash}} % A \ B notation
+\newcommand{\pow}{\mathop{\mathcal{P}}} % power set
+\newcommand{\im}{\mathop{\rm im}} % image
+\newcommand{\spans}{\mathop{\rm span}} % span
+\newcommand{\rank}{\mathop{\rm rank}} % rank
+\newcommand{\topo}{\mathop{\mathcal{T}}} % topology
+\newcommand{\cont}{\mathop{\bf C}} % continuously differentiable
+
+% Matrices
+\newcommand\colvector[1]{\begin{bmatrix}#1\end{bmatrix}}
+\newcommand\rowvector[1]{\begin{bmatrix}#1\end{bmatrix}}
+\newcommand\matrixc[1]{\begin{bmatrix}#1\end{bmatrix}}
+\newcommand\matrixp[1]{\begin{pmatrix}#1\end{pmatrix}}
+\newcommand\detmatrix[1]{\begin{vmatrix}#1\end{vmatrix}}
+\newcommand\rankmatrix{\begin{bmatrix}I_r & \rvline & \mathbf{0}_1\\\hline \mathbf{0}_2 & \rvline & \mathbf{0}_3 \end{bmatrix}}
+
+% Statistics
+\newcommand{\cov}{\mathop{\rm cov}} % covariance
+\newcommand{\corr}{\mathop{\rm corr}} % correlation
+\newcommand{\expect}{\mathop{\mathbb{E}}} % expectation
+\newcommand{\indep}{\perp \hspace{-1.4ex} \perp} % independence symbol
+\newcommand{\distiid}{\mathop{\overset{\text{i.i.d.}}\sim}} % i.i.d.
+\newcommand{\oversim}[1]{\mathop{\overset{\text{#1}}\sim}} % general text over \sim
+\newcommand{\prob}{\mathbb{P}}
+\newcommand{\mse}{\mathop{\rm MSE}}
+\newcommand{\var}{\mathop{\rm Var}}
+\newcommand{\sd}{\mathop{\rm sd}}
+\newcommand{\se}{\mathop{\rm se}}
+\newcommand{\bias}{\mathop{\rm bias}}
+\newcommand{\toprob}{\overset{p}{\to}}
+\newcommand{\toas}{\overset{a.s.}{\to}}
+\newcommand{\todist}{\overset{d}{\to}}
+\newcommand{\hyp}{\mathbb{H}}
+
+% Economics
+\newcommand{\choice}{\mathop{C_{\succsim}}} % choice correspondence
+
+% Update existing operators
+\let\oldExists\exists
+\renewcommand{\exists}{\oldExists\;}
+\let\oldForall\forall
+\renewcommand{\forall}{\;\oldForall\;}
+\let\oldEmptyset\emptyset
+\renewcommand{\emptyset}{\mathop{\varnothing}}
+\newcommand{\parl}{\left(}
+\newcommand{\parr}{\right)}
+\newcommand{\midbar}{\middle|}
+\newcommand{\barl}{\left[}
+\newcommand{\barr}{\right]}
+\newcommand{\curll}{\left\{}
+\newcommand{\curlr}{\right\}}
+
+
+%% Presentation environments
+% Proofs, counterexamples, and disproofs
+\renewcommand\qedsymbol{$\openbox$}
+\renewenvironment{proof}{{\raggedright \textit{\textbf{Proof.}}}}{\qed} % Proof
+\newenvironment{pf}{\begin{proof}}{\end{proof}} % Proof (shorthand)
+
+\newenvironment{disproof}{{\raggedright \textit{\textbf{Disproof.}}}}{$\qed$} % Disproof
+\newenvironment{counterex}{{\raggedright \textit{\textbf{Counterexample.}}}}{} % Counterexample
+
+% Theorem styles
+\theoremstyle{plain}
+\newtheorem{result}{Result}
+\newtheorem{lemma}{Lemma}[section]
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{axiom}{Axiom}[section]
+\theoremstyle{definition}
+\newtheorem*{example}{Example}
+\newtheorem*{definition}{Definition}
+\newtheorem*{exercise}{Exercise}
+\newtheorem*{model}{Model}
+\newtheorem*{proposition*}{Proposition}
+\newtheorem*{model*}{Model}
+\newtheorem*{solution}{Solution}
+\newtheorem*{remark}{Remark}
+\newtheorem*{question}{Question}
+\newtheorem*{answer}{Answer}
+\newtheorem*{algorithm}{Algorithm}
+\newtheorem{assumption}{Assumption}[section]
+
+\newcommand{\blue}[1]{\textcolor{blue}{\emph{#1}}}
+\newcommand{\red}[1]{\textcolor{red}{\emph{#1}}}
+
+
+
+
+\newcommand{\gabe}[1]{\todo[inline,color=green!20!white]{\textbf{GS:} #1}}
+
+
+%% Header
+\makeatletter
+\newcommand{\course}[1]{\def\@course{#1}}
+\newcommand{\term}[1]{\def\@term{#1}}
+\renewcommand{\title}[1]{\def\@entitle{#1}}
+\renewcommand{\maketitle}{
+    \begin{tcolorbox}[colframe=darkgray]
+        \begin{center}
+            \textbf{\@course} \\[0.25em]
+            {\Large\textit{\@entitle}} \\[0.5em]
+            \@author \\[0.5em]
+            \@term
+        \end{center}
+    \end{tcolorbox}
+    \vspace{1em}
+}
+\makeatother
+
+
+%% Code
+\usepackage{listings}
+\usepackage{beramono}
+\lstdefinelanguage{Julia}%
+  {morekeywords={abstract,break,case,catch,const,continue,do,else,elseif,%
+      end,export,false,for,function,immutable,import,importall,if,in,%
+      macro,module,otherwise,quote,return,switch,true,try,type,typealias,%
+      using,while},%
+   sensitive=true,%
+   alsoother={$},%
+   morecomment=[l]\#,%
+   morecomment=[n]{\#=}{=\#},%
+   morestring=[s]{"}{"},%
+   morestring=[m]{'}{'},%
+   breaklines=true,%
+}[keywords,comments,strings]%
+
+\lstset{%
+    language         = Julia,
+    basicstyle       = \ttfamily,
+    keywordstyle     = \bfseries\color{blue},
+    stringstyle      = \color{magenta},
+    commentstyle     = \color{ForestGreen},
+    showstringspaces = false,
+}
+
+
+
+

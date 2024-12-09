@@ -20,13 +20,13 @@ All of the material in these notes is the property of the professors who taught 
 
 I've included more complete course materials in the [private](/resources/private) section of this website. If you are interested in accessing them, and are a Cornell student,[^1] please [email me](mailto:gs754@cornell.edu) and I can get you a password.
 
+[^1]: Or a SIEPR predoc, or a Stanford student, or a friend of a friend, etc. I'm not trying to be particularly restrictive, but these materials are not meant to be public.
+
 
 ## First Year PhD Notes
 
-- [Microeconomics I](/resources/notes/econ_6090_notes.pdf), taught by [David Easley](https://easley.economics.cornell.edu/), [Philipp Kircher](https://philippkircher.com/), [Adam Harris](https://adamharris.phd/), [Larry Blume](https://sites.santafe.edu/~leb/), [Levon Barseghyan](https://barseghyan.economics.cornell.edu/), and [Marco Battaglini](https://www.mbattaglini.com/). Covers the canonical first semester of PhD Microeconomics: choice theory, consumer theory, producer theory, uncertainty, and asymmetric information theory.
-- [Macroeconomics I](/resources/notes/econ_6130_notes.pdf), taught by [Mathieu Taschereau-Dumouchel](https://www.mathtd.info/) and [Ryan Chahrour](https://www.chahrour.net/). Prof. Taschereau-Dumouchel's part covered canonical macroeconomic models, and Prof. Chahrour's part covered several solution methods to the Labor Search and Real Business Cycle models.
-- [Econometrics I](/resources/notes/econ_6190_notes.pdf), taught by [Chen Qiu](https://sites.google.com/view/chen-qiu). Covers the first semester of Econometrics: introduction to statistical inference, asymptotics, estimation, hypothesis testing, and confidence intervals.
+- [Microeconomics I](/resources/private/Notes_website/Fall_2024/econ_6090_notes.pdf), taught by [David Easley](https://easley.economics.cornell.edu/), [Philipp Kircher](https://philippkircher.com/), [Adam Harris](https://adamharris.phd/), [Larry Blume](https://sites.santafe.edu/~leb/), [Levon Barseghyan](https://barseghyan.economics.cornell.edu/), and [Marco Battaglini](https://www.mbattaglini.com/). Covers the canonical first semester of PhD Microeconomics: choice theory, consumer theory, producer theory, uncertainty, and asymmetric information theory.
+- [Macroeconomics I](/resources/private/Notes_website/Fall_2024/econ_6130_notes.pdf), taught by [Mathieu Taschereau-Dumouchel](https://www.mathtd.info/) and [Ryan Chahrour](https://www.chahrour.net/). Prof. Taschereau-Dumouchel's part covered canonical macroeconomic models, and Prof. Chahrour's part covered several solution methods to the Labor Search and Real Business Cycle models.
+- [Econometrics I](/resources/private/Notes_website/Fall_2024/econ_6190_notes.pdf), taught by [Chen Qiu](https://sites.google.com/view/chen-qiu). Covers the first semester of Econometrics: introduction to statistical inference, asymptotics, estimation, hypothesis testing, and confidence intervals.
 
 
-
-[^1]: Or a SIEPR predoc, or a Stanford student, or a friend of a friend, etc. I'm not trying to be particularly restrictive, but these materials are not meant to be public.
