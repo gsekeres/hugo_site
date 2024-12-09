@@ -1,13 +1,44 @@
 ---
 title: "Notes" 
 date: 2024-11-03
-lastmod: 2024-11-03
+lastmod: 2024-12-09
 tags: []
 author: ["Gabriel Sekeres"]
-description: "My own class notes." 
-summary: "My own class notes." 
+description: "Public Notes." 
+summary: "Notes from the courses I've taken." 
 ---
 
-## Under Construction
+## Motivation
 
-I will be posting as many of my notes as is possible here. I need to clean them (a project for Summer 2025) and talk with my professors about proper crediting / how much I can post. I will do as much as possible, especially since many of the notes are from textbooks and not my professors.
+I like to write my notes in courses in LaTeX, and to review I often go through the entire course and clean them up. After I've used them for exams, I'll post them here, for anyone to use. 
+
+## Ownership
+
+All of the material in these notes is the property of the professors who taught the courses, and I claim no ownership of it. I do feel as if I've sufficiently modified and contributed to be able to share them, but if any professors object, please let me know and I'll be happy to remove them (or put them in a private repository).
+
+## Other Material
+
+I've included more complete course materials in the [private](/resources/private) section of this website. If you are interested in accessing them, and are a Cornell student,[^1] please [email me](mailto:gs754@cornell.edu) and I can get you a password.
+
+
+## First Year PhD Notes
+
+- [Microeconomics I](/resources/notes/econ_6090_notes.pdf), taught by [David Easley](https://easley.economics.cornell.edu/), [Philipp Kircher](https://philippkircher.com/), [Adam Harris](https://adamharris.phd/), [Larry Blume](https://sites.santafe.edu/~leb/), [Levon Barseghyan](https://barseghyan.economics.cornell.edu/), and [Marco Battaglini](https://www.mbattaglini.com/). Covers the canonical first semester of PhD Microeconomics: choice theory, consumer theory, producer theory, uncertainty, and asymmetric information theory.
+- [Econometrics I](/resources/notes/econ_6190_notes.pdf), taught by [Chen Qiu](https://sites.google.com/view/chen-qiu). Covers the first semester of Econometrics: introduction to statistical inference, asymptotics, estimation, hypothesis testing, and confidence intervals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^1]: Or a SIEPR predoc, or a Stanford student, or a friend of a friend, etc. I'm not trying to be particularly restrictive, but these materials are not meant to be public.
