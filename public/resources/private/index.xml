@@ -6,20 +6,7 @@
     <description>Recent content in Private Materials on Gabe Sekeres</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/resources/private/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/resources/private/notes_website/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/private/notes_website/readme/</guid>
-      <description>&lt;h1 id=&#34;clean-notes&#34;&gt;Clean Notes&lt;/h1&gt;
-&lt;p&gt;Contained in here are clean versions of my notes from the first year Economics sequence at Cornell University. They are divided by term and then by course.&lt;/p&gt;
-&lt;h1 id=&#34;updates&#34;&gt;Updates&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;12/01/24: Created repo, added structure for micro notes (will be collaborative). Micro notes contain through Easley&amp;rsquo;s section.&lt;/li&gt;
-&lt;li&gt;12/06/24: Completed micro sem 1 notes except for final day / pset. Completed and uploaded Metrics notes.&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
   </channel>
 </rss>

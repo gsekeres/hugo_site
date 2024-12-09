@@ -2607,12 +2607,104 @@ Our final result is that an equilibrium may not exist in pure strategies. It may
 
 Similarly to signaling, the low type is worse off with screening than without. High types, however, are always better off in a separating equilibrium. The issue is that a separating equilibrium may not exist.
 
+\begin{remark}
+	To see why, note that since separating equilibria are unique, under certain conditions the agents will want to deviate to a pooling equilibrium, from which they again want to deviate. It's a cycle.
+\end{remark}
 
 
+\subsection{Mechanism Design}
+
+\begin{definition}
+	A \blue{mechanism} is a message space $M$ and a mapping $h(\cdot)$ from $M$ to the space of outcomes which can be written as $h(m) = (Q(m),t(m))$, an allocation and a transfer, for all $m \in M$. In a typical case like above, a mechanism will set an allocation and a transfer for the high-skill and low-skill types.
+\end{definition}
+
+\begin{remark}
+	We can think of the message space as the controls the agent has on the mechanism -- Marco used ``a big table with lots of buttons'' -- each of which matches to an allocation.
+\end{remark}
+
+\begin{proposition}
+	Any mechanism induces an allocation rule
+\end{proposition}
+
+\begin{example}
+	Assume here quasilinear preferences $\theta v(Q) - t)$, and let
+	\[
+	m\opt(\theta) \in \argmax_{m \in M} \theta v(Q(m)) - t(m)
+	\]
+	Then the induced allocation rule is
+	\[
+	a(\theta) = Q(m\opt(\theta)),t(m\opt(\theta)))
+	\]
+\end{example}
+
+\begin{definition}
+	A \blue{direct mechanism} is a mechanism in which $M_i = \Theta_i$, meaning that the message space for $i$ is $i$'s type space.
+\end{definition}
+
+\begin{question}
+	Is there loss of generality in restricting attention to only direct mechanisms? We will see that the answer is no.
+\end{question}
+
+\begin{definition}
+	A \blue{direct revelation mechanism} is a mapping $g(\cdot)$ from the space of types to the space of outcomes which is written as $g(\theta_i) = (q(\theta_i),T(\theta_i))$. Essentially, the principal commits to offer $q(\theta_i)$ at a price $T(\theta_i)$ if the agent reports type $\theta_i$.
+\end{definition}
+
+\begin{definition}
+	An agent $\theta$ finds it \blue{incentive compatible} to announce their type truthfully if and only if
+	\[
+	\theta v(q(\theta)) - T(\theta) \ge \theta v(q(\theta')) - T(\theta') \forall \theta'
+	\]
+	A direct revelation mechanism is \blue{truthful} if it is incentive compatible for any agent to announce their true type.
+\end{definition}
+
+\begin{definition}
+	A direct revelation mechanism $g$ is \blue{individually rational} if $\theta v(q(\theta)) - T(\theta) \ge \bar{u}$ where $\bar{u}$ is the reservation utility.
+\end{definition}
 
 
+\begin{theorem}
+	\red{(The Revelation Principle)} Any possible allocation rule $a(\theta)$ obtained with a mechanism $\{M,h(\cdot)\}$ can also be implemented with a truthful direct revelation mechanism.
+\end{theorem}
+
+\begin{remark}
+	This is shockingly powerful and useful! It gives us a way to directly characterize an optimal mechanism. Essentially, we can use a direct revelation mechanism to find what allocation is optimal, and then find a simple mechanism that attains that optimal allocation.
+\end{remark}
 
 
+\begin{proof}
+	Assume that we can obtain an allocation $a(\theta)$ with mechanism $\{M,h(\cdot)\}$. This mechanism induces an outcome function
+	\[
+	g(\theta) = (Q(m\opt(\theta)),T(m\opt(\theta)))
+	\]
+	We can construct the functions $\hat{Q} = Q \circ m\opt$ and $\hat{T} = T \circ m\opt$. Is this mechanism truthful? Since
+	\[
+	m\opt(\theta_i) \in \argmax_m \theta_i v(Q(m)) - t(m)
+	\]
+	it must be the case that
+	\[
+	\theta_i v\parl \hat{Q}(\theta_i)\parr  - \hat{T}(\theta_i) \ge \theta_i v\parl \hat{Q}(\theta')\parr  - \hat{T}(\theta') \forall \theta'
+	\]
+	Thus, this direct mechanism is incentive compatible. The proof for individual rationality follows from the same argument.
+\end{proof}
+
+\begin{example}
+	The optimal direct mechanism with two types. The principal is a monopolist, trying to sell a good to a buyer. The seller's problem can be written as
+	\[
+	\max_{T_i,q_i} \beta(T_L - cq_L) + (1-\beta) (T_H - cq_H)
+	\]
+	subject to incentive compatibility and individual rationality. To find a mechanism that maximizes the monopolist's profits, we proceed in steps. The standard approach is to first note that the individual rationality of the low type and incentive compatibility of the high type imply individual rationality of the high type. We can eliminate the individual rationality of the high type constraint. Next, we can consider a relaxed version of this problem where the incentive compatibility constraint of the low type does not bind. If we find a solution of this problem that also satisfies incentive compatibility of the low type, then we will have a solution to the original problem. 
+	
+	Now we have a simple problem with two constraints, which must both hold with equality. We can substitute, and get an unconstrained optimization problem in just $q_L,q_H$ which is easy to solve with first order conditions. We will find that solution, and then verify that incentive compatibility for the low type is satisfied. If it is, we have a solution to the original problem.
+	\end{example}
+	
+\begin{remark}
+	We don't necessarily have concavity here -- be careful with corners!
+\end{remark}
+
+
+\begin{remark}
+	The solution here will tell us that high types buy more than low types; high types will buy efficiently and low types will be less than efficient; and the low types will have a surplus of zero, high types receive a positive surplus. This result is very generalizable! It holds with multiple types, and even under continuous types -- in those cases, the highest type will be efficient, and everyone else will be less than efficient.
+\end{remark}
 
 
 
@@ -5178,6 +5270,157 @@ See the outside questions in Section 7.4.3, on the same topics.
 		\end{enumerate}
 	\end{enumerate}
 \end{enumerate}
+
+
+\paragraph{Solutions.} (Gabe's solutions, not graded, not including Problem 2 (b) and (c), which we did not learn)
+
+\begin{enumerate}
+	\item Monopolists and quality
+	\begin{enumerate}
+		\item In this case, where there is full information, the monopolist can choose a different quality level for each consumer type $\theta$, and maximize profit for that consumer type. Fix some $\theta > 0$. The consumer's utility from purchasing a good of quality $s$ at price $T$ is
+		\[
+		u(s,T ; \theta) = s \cdot \theta - T
+		\]
+		and the monopolist's profit is
+		\[
+		\pi_\theta(s,T) = T - 5s^2
+		\]
+		Note that if we were being precise here, these would be defined piecewise, if the consumer purchases the good or not. This is not necessary now, as we will show that the consumer $\theta$ will always purchase the good. The monopolist will ensure this by ensuring that $s \cdot \theta - T \ge 0$. In fact, to maximize profit, we will have that $s \cdot \theta - T = 0 \Longrightarrow T = s \cdot \theta$. This implies that profit is
+		\[
+		\pi_\theta(s,T) = s\cdot\theta - 5s^2
+		\]
+		Taking first order conditions, we get that the optimal quality is where
+		\[
+		\theta - 10s = 0 \Longrightarrow s\opt = \frac{\theta}{10}
+		\]
+		Substituting back, we get that the optimal price is
+		\[
+		T\opt = \theta \cdot  \frac{\theta}{10} = \frac{\theta^2}{10}
+		\]
+		The monopolist will extract all of the surplus of each consumer, so $u(s\opt,T\opt;\theta) = 0$ for all $\theta$, and for a certain $\theta$, 
+		\[
+		\pi_\theta(s\opt,t\opt) = T\opt - 5(s\opt)^2 = \frac{\theta^2}{10} - \frac{\theta^2}{20} = \frac{\theta^2}{20}
+		\]
+		\item Now, we suppose that the seller cannot observe $\theta$. We will assume that they produce goods of two qualities, $s_H$ and $s_L$, designated for each type of $\theta$, and priced at $T_H$, $T_L$. We will need the classic two constraints to hold: individual rationality and incentive compatibility. First, for the choice of each type of consumer to purchase to be rational, we need that
+		\[
+		\theta_Ls_L - T_L \ge 0 \qquad \text{ and } \qquad \theta_H s_H - T_H \ge 0
+		\]
+		Next, for the consumers to want their designated good rather than the other's, we need that
+		\[
+		\theta_Ls_L - T_L \ge \theta_L s_H - T_H \qquad \text{ and } \qquad \theta_Hs_H - T_H \ge \theta_H s_L - T_L
+		\]
+		The monopolist maximizes profit subject to these constraints, where expected profit is
+		\[
+		\Pi = \beta (T_L - 5s_L^2) + (1-\beta)(T_H - 5s_H^2)
+		\]
+		We will make the standard assumptions that the individual rationality constraint for the low type and the incentive compatibility constraint for the high type each hold with equality. This implies that
+		\[
+		T_L = \theta_Ls_L \quad \text{ and } \quad T_H = \theta_H(s_H - s_L) + \theta_Ls_L
+		\]
+		Substituting, the monopolist's profit becomes
+		\[
+		\Pi = \beta(\theta_Ls_L - 5s_L^2) + (1-\beta)(\theta_H(s_H - s_L) + \theta_Ls_L - 5s_H^2)
+		\]
+		To find the optimal choice of $s_L$ and $s_H$, we take first order conditions, and get that
+		\[
+		\frac{\partial \Pi}{\partial s_L} = \beta (\theta_L - 10s_L) + (1-\beta)(\theta_L - \theta_H) = 0 \Longrightarrow s_L\opt = \frac{\theta_L - (1-\beta)\theta_H}{10\beta}
+		\]
+		and
+		\[
+		\frac{\partial \Pi}{\partial s_H} = (1-\beta)\theta_H - (1-\beta)10s_H = 0 \Longrightarrow s_H\opt = \frac{\theta_H}{10}
+		\]
+		From the binding constraints, we can calculate the optimal prices. We have that
+		\[
+		T_L\opt = \theta_L \cdot \frac{\theta_L - (1-\beta)\theta_H}{10\beta} = \frac{\theta_L^2 - (1-\beta)\theta_H\theta_L}{10\beta}
+		\]
+		and
+		\[
+		T_H\opt = \theta_H \parl \frac{\theta_H}{10} - \frac{\theta_L - (1-\beta)\theta_H}{10\beta}\parr + \frac{\theta_L^2 - (1-\beta)\theta_H\theta_L}{10\beta} = \frac{\theta_H^2 - (2-\beta)\theta_H\theta_L + \theta_L^2}{10\beta}
+		\]
+		Note that these solutions admit a corner. We have that the fully described solution is:
+		\begin{align*}
+		s_L\opt &= \begin{cases} \frac{\theta_L - (1-\beta)\theta_H}{10\beta} &\theta_L \ge (1-\beta)\theta_H \\ 0 & \text{otherwise} \end{cases} \\
+		s_H\opt &= \begin{cases} \frac{\theta_H}{10} & \theta_H^2 + \theta_L^2 \ge (2-\beta)\theta_H\theta_L \\ 0 & \text{otherwise} \end{cases} \\
+		T_L\opt &= \begin{cases} \frac{\theta_L^2 - (1-\beta)\theta_H\theta_L}{10\beta} &  \theta_L \ge (1-\beta)\theta_H \\ 0 & \text{otherwise}\end{cases} \\
+		T_H\opt &= \begin{cases} \frac{\theta_H^2 - (2-\beta)\theta_H\theta_L + \theta_L^2}{10\beta}& \theta_H^2 + \theta_L^2 \ge (2-\beta)\theta_H\theta_L \\ 0 & \text{otherwise} \end{cases}
+		\end{align*}
+		The informational rents are as follows. Since the low types' individual rationality constraint binds, they will attain no utility in equilibrium, which is the same as in the full information case. The high types, meanwhile, will (when we are not in the corner) attain utility:
+		\[
+		u(s\opt_H \mid \theta_H) = \theta_H \cdot s\opt_H - T\opt_H = \frac{\theta_H^2}{10} - \frac{\theta_H^2 - (2-\beta)\theta_H\theta_L + \theta_L^2}{10\beta} = \frac{\theta_L^2 - (1-\beta)\theta_H^2 - (2-\beta)\theta_L\theta_H}{10\beta}
+		\]
+		This is the informational rent the monopolist pays.
+	\end{enumerate}
+	\item Constructing a bridge
+	\begin{enumerate}
+		\item The government is attempting to minimize the cost, subject to the monopolist attaining their reservation utility. They will ensure that the monopolist's utility is exactly equal to their reservation, which functions as in individual rationality constraint. We need that
+		\[
+		\bar{u} = t  - \frac{e^2}{2} = t  - \frac{e^2}{2} \Longrightarrow t = \bar{u} + \frac{e^2}{2}
+		\]
+		The government is minimizing the total cost, which is the cost function $t + c$, subject to the constraint. Recalling that $c = \theta - e$, we get that they minimize
+		\[
+		C = \bar{u} + \frac{e^2}{2} + \theta - e
+		\]
+		Taking first order conditions to find the ideal induced effort, we get that
+		\[
+		\frac{\partial C}{\partial e} = e - 1 = 0 \Longrightarrow e^{FB} = 1
+		\]
+		The transfer that induces $e^{FB}$ is $t^{FB} = \bar{u} + \frac{1}{2}$. Note that the costs are different for each type. We have that $C^{FB}(5) = \bar{u} + 4.5$, and $C^{FB}(8) = \bar{u} + 7.5$.
+		\item (Not able to figure out)
+	\end{enumerate}
+	\item MWG 13.C.5
+	\begin{enumerate}
+		\item Since the consumer is risk-neutral, they will buy the product if and only if its expected valuation is greater than its price. Mathematically, they will buy if and only if
+		\[
+		p \le \lambda v_H + (1-\lambda)v_L
+		\]
+		\item There can be no separating equilibrium. To see why, assume that we do have a separating equilibrium, in which high-quality firms spend $A$ on advertising and low-quality firms spend 0. Low-quality firms will spend 0 because in a separating equilibrium they will be immediately identified, so it is better to spend nothing than to advertise at all, since because $p > v_L$, nobody will buy their product. For incentive compatibility to hold for the high quality firms, it must be the case that $p - c_H - A > 0$. However, since $c_L < c_H$, in this case it would improve a low-quality firm's outcomes to deviate and spend $A$ pretending to be a high-quality firm, since $p - c_L - A > p - c_H - A > 0$. Thus, there will be deviation, so this is not a separating equilibrium.
+	\end{enumerate}
+	\item MWG 13.C.6
+	\begin{enumerate}
+		\item Note first that since banks are risk-neutral and competitive, the equilibrium level of $R$ will be the actuarily fair level of $R$. The expected payout to the bank for a funded project will be equal to $(1+r)$, the cost to fund a project. For an arbitrary project, funded at rate $R$, the expected payout means that
+		\[
+		\lambda \parl p_G R + (1-p_G)0\parr + (1-\lambda)\parl p_B R + (1-p_B)0\parr = 1+r
+		\]
+		which implies that
+		\[
+		\lambda p_G R + (1-\lambda)p_BR = 1 + r \Longrightarrow R = \frac{1+r}{\lambda p_G + (1-\lambda)p_B}
+		\]
+		A good entrepreneur will pursue a project if
+		\[
+		p_G(\Pi - R) \ge 0 \Longrightarrow \Pi \ge \frac{1+r}{\lambda p_G + (1-\lambda)p_B}
+		\]
+		and a bad entrepreneur will pursue a project if
+		\[
+		p_B(\Pi - R) \ge 0 \Longrightarrow \Pi \ge \frac{1+r}{\lambda p_G + (1-\lambda)p_B}
+		\]
+		Thus, if $R$ is low enough (meaning if the proportion of good projects is high enough), every entrepreneur's project will be both funded and pursued. If not, nobody's project will go forward.
+		\item Suppose that the entrepreneur can contribute some of their own funds.
+		\begin{enumerate}
+			\item A good entrepreneur's expected payout is
+			\[
+			p_G (\Pi - (1-x)R) + (1-p_G)0 - x(1+\rho) = p_G(\Pi - R)+ x(p_GR - (1+\rho))
+			\]
+			A bad entrepreneur's expected payout is
+			\[
+			p_B (\Pi - (1-x)R) + (1-p_B)0 - x(1+\rho) = p_B(\Pi - R)+ x(p_BR - (1+\rho))
+			\]
+			\item Note first that since the rate that entrepreneurs borrow money is higher than banks, the best separating Bayesian equilibrium will be the one with the minimal $x$ that separates the good and bad entrepreneurs. In a separating equilibrium, banks will offer good entrepreneurs the actuarily fair rate $R = \frac{1+r}{p_G} < \Pi$, and will offer bad entrepreneurs the actuarily fair rate $R = \frac{1+r}{p_B} > \Pi$. In this equilibrium, no bad entrepreneurs will accept this rate. We can find $x$ by identifying the level above which a bad entrepreneur will attain negative utility if offered the good entrepreneurs' rate (rather than 0 from offering $x = 0$ and not pursuing the project). This will be the case if
+			\[
+			p_B\parl \Pi - \frac{1+r}{p_G}\parr + x\parl p_B \frac{1+r}{p_G} - (1+\rho)\parr = 0
+			\]
+			This implies that
+			\[
+			x\opt = \frac{p_B \Pi - p_B \frac{1+r}{p_G}}{(1+\rho) -  p_B \frac{1+r}{p_G}} = \frac{p_Gp_B\Pi - p_B(1+r)}{p_G(1+\rho) - p_B(1+r)}
+			\]
+			which is less than 1 since $p_B\Pi < 1+r < 1 + \rho$. Thus, our perfect separating Bayesian equilibrium is:
+			
+			Bad entrepreneurs will contribute $x = 0$ and accept the bank's offer if $R \le \Pi$. Good entrepreneurs will contribute $x = \frac{p_Gp_B\Pi - p_B(1+r)}{p_G(1+\rho) - p_B(1+r)} = x\opt$ and accept the bank's offer if $R \le \frac{1+r}{p_G}$. The bank will offer $R = \frac{1+r}{p_B}$ if the entrepreneur contributes 0 and $R = \frac{1+r}{p_G}$ if the entrepreneur contributes $x\opt$. All good projects will be funded, all bad projects will be abandoned.
+			\item Bad entrepreneurs will be (weakly) worse off in the separating equilibrium, since they were sometimes funded previously (depending on $\lambda$) and are never funded now. Good entrepreneurs will be better off for small $\lambda$, since they now get funded, but worse off for large $\lambda$ since contributing their own funds is costly.
+		\end{enumerate}
+	\end{enumerate}
+\end{enumerate}
+
+
 
 
 

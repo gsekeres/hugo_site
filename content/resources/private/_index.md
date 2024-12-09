@@ -8,18 +8,25 @@ description: "Private materials."
 summary: "Private materials." 
 ---
 
-## Access Restricted
+<div id="prePassword">
+  <h2>Access Restricted</h2>
+  <p>This section contains private materials. Please enter a password.</p>
 
-This section contains private materials. To access these materials, you will need to enter the password provided by the author.
+  <div id="passwordForm">
+    <form onsubmit="checkPassword(); return false;" style="display: flex; align-items: center;">
+      <label for="password">Password:</label>
+      <input type="password" id="password" name="password" required 
+             style="margin-right: 10px; padding: 8px; border: 1px solid var(--border); border-radius: 4px; background-color: var(--entry);">
+      <button type="submit" class="easter-button" style="padding: 10px 15px; min-height: auto; max-width: 100px;">Submit</button>
+    </form>
+    <p id="errorMessage" style="color: red; display: none;">Not the correct password</p>
+  </div>
 
-<div id="passwordForm">
-  <form onsubmit="checkPassword(); return false;" style="display: flex; align-items: center;">
-    <label for="password">Password:</label>
-    <input type="password" id="password" name="password" required 
-           style="margin-right: 10px; padding: 8px; border: 1px solid var(--border); border-radius: 4px; background-color: var(--entry);">
-    <button type="submit" class="easter-button" style="padding: 10px 15px; min-height: auto; max-width: 100px;">Submit</button>
-  </form>
-  <p id="errorMessage" style="color: red; display: none;">Not the correct password</p>
+<br><br>
+
+
+If you are a Cornell student, SIEPR predoc, Stanford student, or a friend of a friend, please [email me](mailto:gs754@cornell.edu) to request the password.
+
 </div>
 
 <style>
@@ -49,8 +56,13 @@ This section contains private materials. To access these materials, you will nee
 </style>
 
 <div id="privateContent" style="display: none;">
-  <!-- Your private content goes here -->
-  [Private content will be shown here once I add it.]
+  <h2>Content</h2>
+
+  <p>Included here are full course materials for my graduate courses, divided into semesters. Clicking the links below will download a .zip file containing the course materials, as well as a readme file with instructions for how to use them and what is included. These materials contain problem set solutions, code, and lecture notes provided directly by professors. These are not meant to be public materials, please do not post them online. Feel free to share them directly with others.</p>
+
+  <ul>
+    <li><a href="/resources/private/Notes_website/Fall_2024/">Fall 2024</a>: Includes materials for ECON 6090: Microeconomics I, ECON 6130: Macroeconomics I, ECON 6170: Intermediate Mathematics for Economists, and ECON 6190: Econometrics I.</li>
+  </ul>
 </div>
 
 <script>
@@ -62,7 +74,7 @@ function checkPassword() {
     
     if (password === 'urishall') {
         errorMessage.style.display = 'none';
-        passwordForm.style.display = 'none';
+        prePassword.style.display = 'none';
         privateContent.style.display = 'block';
     } else {
         errorMessage.style.display = 'block';
@@ -70,8 +82,3 @@ function checkPassword() {
     }
 }
 </script>
-
-<br><br>
-
-
-If you are a Cornell student, SIEPR predoc, Stanford student, or a friend of a friend, please [email me](mailto:gs754@cornell.edu) to request the password.
