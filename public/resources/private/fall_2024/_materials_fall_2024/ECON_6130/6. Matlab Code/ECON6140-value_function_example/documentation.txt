@@ -1,0 +1,6 @@
+To get started
+
+>> linear_model
+>> solve_vf
+
+For more details, see comment in solve_vf. 

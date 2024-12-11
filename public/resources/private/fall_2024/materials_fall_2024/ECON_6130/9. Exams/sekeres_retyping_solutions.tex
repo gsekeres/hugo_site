@@ -1,0 +1,121 @@
+\documentclass[10pt]{article}
+
+\input{../../../../notes_preamble.tex}
+
+\title{Chahrour Exam Questions}
+\author{Gabe Sekeres}
+\course{ECON 6130}
+\term{Fall 2024}
+
+\singlespacing
+
+\begin{document}
+\maketitle
+
+
+\tableofcontents
+
+\newpage
+
+\section{Qual 2024}
+
+\subsection{Questions}
+
+Consider an economy populated by identical consumer-worker households with preferences for consumption and labor effort given by
+\[
+\expect_0 \sum_{t=0}^\infty \beta^t \curll \frac{C_t^{1-\sigma} - 1}{1-\sigma} - \gamma_s S_t - \gamma_n N_t \curlr
+\]
+Notice that now the household supplies search effort $S_t$ and work effort $N_t$ at constant marginal disutilities $\gamma_s$ and $\gamma_n$ respectively. The household earns income from the wages, $W_t$, paid to currently-employed workers $N_t$ and any profits $\pi_t$ earned by the firm, which it owns. In making their decisions, both the household and the firm take the wage as exogenous.
+
+Unlike in class, assume that workers who match with an employer today start productive work in the following period. From the household perspective, this means that $N_t$ evolves according to
+\[
+N_{t+1} = (1-\delta_n)N_t+p_tS_t
+\]
+where $\delta_n$ is the worker separation rate and $p_t$ is the household probability that a unit of search effort results in a job. 
+
+Firms hire workers to produce output, according to the production function
+\[
+Y_t = A_tN_t
+\]
+In order to hire a worker, firms must post a vacancy at cost $\phi$. A vacancy results in a match (and a future employed worker) with probability $q_t$, so that from the firm's perspective
+\[
+N_{t+1} = (1-\delta_n) N_t + q_tV_t
+\]
+The firm's objective is to maximize the discounted present value of profits, given by
+\[
+V_0 = \expect_0 \sum_{t=0}^\infty \beta^t \curll \frac{\lambda_{1t}}{\lambda_{10}}\pi_t \curlr 
+\]
+where $\lambda_t$ is the marginal utility of consumption in period $t$. 
+
+Equilibrium matches are determined by an aggregate matching function $M(V_t,S_t) = \chi V_t^\varepsilon S_t^{1-\varepsilon}$. Each vacancy has an equal chance of being matched, so that in equilibrium
+\[
+q_t = M(V_t,S_t) / V_t = \chi (V_t / S_t)^{\varepsilon - 1}
+\]
+Conversely,
+\[
+p_t = M(V_t,S_t) / S_t = \chi (V_t / S_t)^{\varepsilon}
+\]
+
+Finally, technology is purely exogenous and evolves according to an AR(1) process in logs,
+\[
+\log(A_t) = \rho \log(A_{t-1}) + \varepsilon_t
+\]
+
+
+
+\begin{enumerate}
+	\item In the language of the course, list separately the endogenous jump variables, the endogenous state variables, and the exogenous state variables in this model. Finally, make a list of all of the exogenous parameters of this economy. (5 points)
+	\item Write the \underline{household}'s Lagrangian optimization problem and find the first order necessary conditions for optimality of the household. Denote the multipliers on the household budget constraint and labor evolution constraint with $\lambda_{1t}$ and $\lambda_{2t}$ respectively. (10 points)
+	\item Write the \underline{firm}'s Lagrangian optimization problem and find the first order necessary conditions for optimality. Denote the multipliers on constraints (2) and (3) with $\theta_{1,t}$ and $\theta_{2,t}$ respectively. (10 points)
+	\item Now write the Bellman equation that corresponds to the \underline{social planner}'s optimization problem in this economy and find the first order necessary conditions for optimality using the envelope theorem. (10 points)
+	\item Log-linearize the \underline{vacancy posting condition} (first order condition for $V_t$) from the firm problem. You should proceed from first principals (\ie replace $V$ with $\exp(v)$, etc and compute a first-order Taylor approximation). You should log-linearize the equations around the steady-state, and you may treat the steady-state values of endogenous variables, like $N$, $C$, $V$, etc, as parameters. (5 points)
+	\item Suppose I wanted to see what would happen over time to employment in the economy in response to temporary increase in the level of risk-aversion ($\sigma$) in the economy. Decide which of the four solution algorithms (linearization, shooting, value function, or projection) that we studied you would use to answer this question, and explain why you chose that method. Your response should include a brief description of the method you choose, and an explanation of why other methods are not as well-suited to the question. (20 points)
+\end{enumerate}
+\subsection{Solutions}
+
+(Ryan's Solutions)
+
+\begin{enumerate}
+	\item We have that the one exogenous state variable is $A_t$, the one endogenous state variable is $N_t$, and the jump variables are $C_t$, $V_t$, $Y_t$, $q_t$, $p_t$, and $S_t$. The parameters are $W_t$, $\beta$, $\sigma$, $\gamma_s$, $\gamma_n$, $\delta_n$, $\chi$, $\varepsilon$, $\rho$, and $\varepsilon_t$.
+	\item The household's problem is
+	\[
+	\max_{\{C_t,S_t,N_{t+1}\}} \expect_0 \sum_{t=0}^\infty \beta^t \Bigg\{ \frac{C_t^{1-\sigma} - 1}{1-\sigma} - \gamma_s S_t - \gamma_n N_t + \lambda_{1,t}\parl \pi_t + W_tN_t - C_t\parr + \lambda_{2,t}\parl (1-\delta_n) N_t + p_tS_t - N_{t+1}\parr\Bigg\}
+	\]
+	Which admits the first order conditions
+	\begin{align*}
+		C_t^{-\sigma} &= \lambda_{1,t} &&(C_t) \\
+		\gamma_s &= p_t\lambda_{2,t} &&(S_t) \\
+		\lambda_{2,t} &= \beta \expect_{t}\Big[ \lambda_{1,t+1} W_{t+1} - \gamma_n + \lambda_{2,t+1}(1-\delta_n)  \Big] &&(N_{t+1})
+	\end{align*}
+	\item The firm's problem is 
+	\[
+	\max_{\{Y_t,V_t,N_{t+1}\}} \expect_0 \sum_{t=0}^\infty \beta^t \curll \frac{\lambda_{1,t}}{\lambda_{1,0}} (\underbrace{Y_t - W_tN_t - \phi V_t}_{\pi_t}) + \theta_{1,t}(A_tN_t - Y_t) + \theta_{2,t} ((1-\delta_n)N_t + q_tV_t - N_{t+1})\curlr 
+	\]
+	Which admits the first order conditions
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
