@@ -12,7 +12,7 @@ _build:
 
 ## Download
 
-- [Full zip download](/resources/private/fall_2024/materials_fall_2024.zip)
+- [Full zip download](/resources/private/fall_2024/_materials_fall_2024.zip)
 
 ## Contents
 
