@@ -1,0 +1,40 @@
+\documentclass[12pt]{article}
+
+\input{/Users/gabe/Dropbox/LaTeX_Docs/pset_preamble.tex}
+
+\course{ECON 6090}
+\pset{3.5}
+\begin{document}
+\maketitle
+
+I tend to think of probability formally, to a fault. I would, if left to my own devices, define the sample space $\Omega$ of all possible outcomes, equip it with a measure $P$ such that $P(\Omega) = 1$, and define a $\sigma$-algebra over $\Omega$. This formulation is quite beautiful mathematically, especially in how naturally it incorporates conditional probabilities as a set-theoretic formulation.\footnote{My probability background comes almost entirely from reading Joe Blitzstein and Carl Morris' graduate probability notes. There are definitely holes there, I've never taken a very rigorous probability class.} I additionally often rely on intuition from continuous distributions -- I am far more likely to think of discrete random variables as special cases of continuous ones (\eg, rolling a six-sided die is, to me, closer to considering only the cases where $U[0,6]$ is an integer than considering a uniform distribution over $\{1,2,3,4,5,6\}$), and I think of the summation as a specific case of the integral. 
+
+This formulation has some distinct failings. First, naturally, is that it makes sense only to me. When I attempt to explain this intuition, even to my friends in statistics, I get mostly horrified responses. I've faced that response often when explaining my other mathematical intuition, so it doesn't particularly bother me anymore. More importantly, the real world is not continuous in any meaningful way. It is lovely to think about the weather tomorrow as a draw from a normal distribution, but fundamentally it will either be sunny or cloudy, and we can only approximate any continuous distribution over the weather (and only \emph{badly}. See: weathermen). 
+
+Most importantly, however, probabilities don't exist. The world is not stochastic.\footnote{Except perhaps at the atomic level. I'll leave that to the physicists, they seem to enjoy those sorts of things.} Events happen as they happen. Given infinite time and a perfect understanding of neurochemistry, I could predict everything my own brain would do -- it's all electrical signals. Probabilities are useful only insofar as humans are not omniscient.
+
+Sadly, I am not omniscient. I need to use probabilities as heuristics in my own life, and I need to use them in my models because, as far as I know, nobody else is omniscient. And again, and this is very important to me, probabilities are beautiful. I love being able to integrate over all Bayesian priors, and it's really fun to say the phrase ``Anscombe-Aumann Acts.'' That, as well as my aesthetic love for the greek letter $\pi$, might be all that probability means to me.
+
+\[
+\pi\parl \text{I enjoyed this assignment} \mid \text{I wrote 413 words}\parr = 1
+\]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

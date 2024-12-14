@@ -1,0 +1,5057 @@
+%PDF-1.1
+%пстл
+1 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+/Outlines 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Outlines
+/Count 0
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/MediaBox [ 0 0 612 792 ]
+/Count 11
+/Kids [ 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R ]
+>>
+endobj
+4 0 obj
+[ /PDF /Text /ImageC ] 
+endobj
+5 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources << /Font << /F1 27 0 R /F2 29 0 R /F3 32 0 R /F4 35 0 R /F5 38 0 R >> /ProcSet 4 0 R >>
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 51 0 R
+>>
+stream
+q
+Q q
+BT
+/F1 1 Tf
+16.80 0.00 0.00 16.80 0.00 0.00 Tm
+ 11.243 31.129 Td (What) Tj
+ 2.600 0 Td (Use) Tj
+ 2.043 0 Td (is) Tj
+ 1.000 0 Td (Economic) Tj
+ 4.657 0 Td (Theory?) Tj
+/F2 1 Tf
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 24.940 41.200 Td (by) Tj
+/F1 1 Tf
+14.40 0.00 0.00 14.40 0.00 0.00 Tm
+ 18.283 32.333 Td (Hal) Tj
+ 1.783 0 Td (R.) Tj
+ 1.267 0 Td (Varian) Tj
+/F3 1 Tf
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 18.360 37.000 Td (University) Tj
+ 4.620 0 Td (of) Tj
+ 0.980 0 Td (California) Tj
+ 4.280 0 Td (at) Tj
+ 1.020 0 Td (Berkeley) Tj
+/F2 1 Tf
+ -6.640 -2.380 Td (August,) Tj
+ 3.780 0 Td (1989) Tj
+/F4 1 Tf
+ -20.400 -6.000 Td (Abstract.) Tj
+/F2 1 Tf
+ 4.440 0 Td (I) Tj
+ 0.620 0 Td (examine) Tj
+ 4.020 0 Td (how) Tj
+ 2.240 0 Td (neoclassical) Tj
+ 5.500 0 Td (economic) Tj
+ 4.480 0 Td (theory) Tj
+ 3.160 0 Td (is) Tj
+ 1 0 Td (useful) Tj
+ 3.020 0 Td (to) Tj
+ 1.160 0 Td (the) Tj
+ 1.680 0 Td (understanding) Tj
+ 6.800 0 Td (of) Tj
+ -38.120 -1.180 Td (economic) Tj
+ 4.440 0 Td (policy.) Tj
+ 3.220 0 Td (I) Tj
+ 0.580 0 Td (also) Tj
+ 2.000 0 Td (describe) Tj
+ 3.900 0 Td (what) Tj
+ 2.480 0 Td (I) Tj
+ 0.580 0 Td (view) Tj
+ 2.400 0 Td (as) Tj
+ 1.160 0 Td (the) Tj
+ 1.620 0 Td (role) Tj
+ 1.960 0 Td (of) Tj
+ 1.120 0 Td (economic) Tj
+ 4.440 0 Td (theory) Tj
+ 3.120 0 Td (in) Tj
+ 1.100 0 Td (economics.) Tj
+ -34.120 -1.200 Td (This) Tj
+ 2.300 0 Td (talk) Tj
+ 2.060 0 Td (was) Tj
+ 2.140 0 Td (prepared) Tj
+ 4.440 0 Td (for) Tj
+ 1.680 0 Td (the) Tj
+ 1.760 0 Td (conference) Tj
+ 5.140 0 Td (``Is) Tj
+ 1.720 0 Td (Economics) Tj
+ 5.140 0 Td (Becoming) Tj
+ 4.780 0 Td (a) Tj
+ 0.880 0 Td (Hard) Tj
+ 2.740 0 Td (Science?'') Tj
+ -34.780 -1.200 Td (29--30) Tj
+ 3 0 Td (October,) Tj
+ 4.140 0 Td (1992,) Tj
+ 2.620 0 Td (Paris,) Tj
+ 2.820 0 Td (France.) Tj
+ 3.760 0 Td (An) Tj
+ 1.700 0 Td (earlier) Tj
+ 3.160 0 Td (version) Tj
+ 3.620 0 Td (of) Tj
+ 1.220 0 Td (this) Tj
+ 1.980 0 Td (paper) Tj
+ 2.920 0 Td (was) Tj
+ 2.100 0 Td (published) Tj
+ 4.760 0 Td (\(in) Tj
+ -37.800 -1.200 Td (French\)) Tj
+ 3.720 0 Td (in) Tj
+ 1.220 0 Td (A.) Tj
+ 1.380 0 Td (Autume) Tj
+ 4.000 0 Td (and) Tj
+ 2.040 0 Td (J.) Tj
+ 0.940 0 Td (Cartelier,) Tj
+ 4.480 0 Td (ed.) Tj
+/F3 1 Tf
+ 1.900 0 Td (L'Economie) Tj
+ 5.080 0 Td (Devient-Elle) Tj
+ 5.440 0 Td (Une) Tj
+ 2.080 0 Td (Science) Tj
+ 3.320 0 Td (Dure?'') Tj
+/F2 1 Tf
+ 3.160 0 Td (,) Tj
+ -38.760 -1.200 Td (Economica,) Tj
+ 5.320 0 Td (Paris.) Tj
+/F4 1 Tf
+ -5.320 -3.580 Td (Keywords.) Tj
+/F2 1 Tf
+ 5.600 0 Td (methodology,) Tj
+ 6.380 0 Td (economic) Tj
+ 4.460 0 Td (theory,) Tj
+ 3.360 0 Td (neoclassical) Tj
+ 5.460 0 Td (economics) Tj
+/F4 1 Tf
+ -25.260 -5.980 Td (Address.) Tj
+/F2 1 Tf
+ 6.000 0 Td (School) Tj
+ 3.460 0 Td (of) Tj
+ 1.400 0 Td (Information) Tj
+ 5.840 0 Td (Mangement) Tj
+ 5.840 0 Td (and) Tj
+ 2.200 0 Td (Systems,) Tj
+ 4.460 0 Td (102) Tj
+ 2.020 0 Td (South) Tj
+ 3.100 0 Td (Hall) Tj
+ 2.440 0 Td (4600,) Tj
+ -36.760 -1.200 Td (University) Tj
+ 4.820 0 Td (of) Tj
+ 1.040 0 Td (California,) Tj
+ 4.840 0 Td (Berkeley,) Tj
+ 4.260 0 Td (CA) Tj
+ 1.640 0 Td (94720.) Tj
+ 2.960 0 Td (URL:) Tj
+/F5 1 Tf
+ 2.440 0 Td (http://www.sims.berkeley.edu) Tj
+/F2 1 Tf
+ 16.800 0 Td (.) Tj
+ -38.800 -1.180 Td (Email:) Tj
+/F5 1 Tf
+ 3.060 0 Td (hal@sims.berkeley.edu) Tj
+ET
+Q
+endstream
+endobj
+7 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources << /Font << /F4 35 0 R /F2 29 0 R /F3 32 0 R >> /ProcSet 4 0 R >>
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 52 0 R
+>>
+stream
+q
+Q q
+BT
+/F4 1 Tf
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 19.220 59.000 Td (What) Tj
+ 2.680 0 Td (Use) Tj
+ 1.960 0 Td (is) Tj
+ 1.040 0 Td (Economic) Tj
+ 4.660 0 Td (Theory?) Tj
+/F2 1 Tf
+ -6.320 -2.380 Td (Hal) Tj
+ 1.860 0 Td (R.) Tj
+ 1.180 0 Td (Varian) Tj
+ -20.280 -4.200 Td (Why) Tj
+ 2.580 0 Td (is) Tj
+ 1.140 0 Td (economic) Tj
+ 4.640 0 Td (theory) Tj
+ 3.320 0 Td (a) Tj
+ 0.940 0 Td (worthwhile) Tj
+ 5.580 0 Td (thing) Tj
+ 2.780 0 Td (to) Tj
+ 1.300 0 Td (do?) Tj
+ 2.420 0 Td (There) Tj
+ 2.980 0 Td (can) Tj
+ 1.960 0 Td (be) Tj
+ 1.480 0 Td (many) Tj
+ 2.940 0 Td (answers) Tj
+ 4.080 0 Td (to) Tj
+ -38.140 -1.800 Td (this) Tj
+ 1.940 0 Td (question.) Tj
+ 4.520 0 Td (One) Tj
+ 2.160 0 Td (obvious) Tj
+ 3.840 0 Td (answer) Tj
+ 3.540 0 Td (is) Tj
+ 1.040 0 Td (that) Tj
+ 2.040 0 Td (it) Tj
+ 0.940 0 Td (is) Tj
+ 1.040 0 Td (a) Tj
+ 0.820 0 Td (challenging) Tj
+ 5.460 0 Td (intellectual) Tj
+ 5.220 0 Td (enterprise) Tj
+ 4.760 0 Td (and) Tj
+ -37.320 -1.800 Td (interesting) Tj
+ 4.920 0 Td (on) Tj
+ 1.340 0 Td (its) Tj
+ 1.260 0 Td (own) Tj
+ 2.160 0 Td (merits.) Tj
+ 3.280 0 Td (A) Tj
+ 1 0 Td (well-constructed) Tj
+ 7.580 0 Td (economic) Tj
+ 4.420 0 Td (model) Tj
+ 3.020 0 Td (has) Tj
+ 1.720 0 Td (an) Tj
+ 1.280 0 Td (aesthetic) Tj
+ 4.060 0 Td (appeal) Tj
+ -36.040 -1.780 Td (well-captured) Tj
+ 6.420 0 Td (by) Tj
+ 1.340 0 Td (the) Tj
+ 1.640 0 Td (following) Tj
+ 4.500 0 Td (lines) Tj
+ 2.300 0 Td (from) Tj
+ 2.400 0 Td (Wordsworth:) Tj
+ -17.100 -2.120 Td (``Mighty) Tj
+ 4.040 0 Td (is) Tj
+ 0.960 0 Td (the) Tj
+ 1.640 0 Td (charm) Tj
+ -6.640 -1.180 Td (Of) Tj
+ 1.360 0 Td (these) Tj
+ 2.520 0 Td (abstractions) Tj
+ 5.540 0 Td (to) Tj
+ 1.120 0 Td (a) Tj
+ 0.760 0 Td (mind) Tj
+ 2.600 0 Td (beset) Tj
+ -13.900 -1.200 Td (With) Tj
+ 2.440 0 Td (images,) Tj
+ 3.620 0 Td (and) Tj
+ 1.920 0 Td (haunted) Tj
+ 3.920 0 Td (by) Tj
+ 1.360 0 Td (herself) Tj
+ -13.260 -1.200 Td (And) Tj
+ 2.200 0 Td (specially) Tj
+ 4.120 0 Td (delightful) Tj
+ 4.600 0 Td (unto) Tj
+ 2.300 0 Td (me) Tj
+ -13.220 -1.200 Td (Was) Tj
+ 2.160 0 Td (that) Tj
+ 1.980 0 Td (clear) Tj
+ 2.340 0 Td (synthesis) Tj
+ 4.320 0 Td (built) Tj
+ 2.320 0 Td (up) Tj
+ 1.440 0 Td (aloft) Tj
+ -14.560 -1.200 Td (So) Tj
+ 1.320 0 Td (gracefully.'') Tj
+ -1.320 -3.580 Td (No) Tj
+ 1.880 0 Td (one) Tj
+ 2.100 0 Td (complains) Tj
+ 5.060 0 Td (about) Tj
+ 3.020 0 Td (poetry,) Tj
+ 3.720 0 Td (music,) Tj
+ 3.460 0 Td (number) Tj
+ 3.980 0 Td (theory,) Tj
+ 3.700 0 Td (or) Tj
+ 1.460 0 Td (astronomy) Tj
+ 5.240 0 Td (as) Tj
+ 1.420 0 Td (being) Tj
+ -36.540 -1.800 Td (``useless,'') Tj
+ 4.680 0 Td (but) Tj
+ 1.700 0 Td (one) Tj
+ 1.800 0 Td (often) Tj
+ 2.480 0 Td (hears) Tj
+ 2.580 0 Td (complaints) Tj
+ 5.080 0 Td (about) Tj
+ 2.740 0 Td (economic) Tj
+ 4.400 0 Td (theory) Tj
+ 3.100 0 Td (as) Tj
+ 1.120 0 Td (being) Tj
+ 2.660 0 Td (overly) Tj
+ 3.040 0 Td (esoteric.) Tj
+ -35.380 -1.800 Td (I) Tj
+ 0.680 0 Td (think) Tj
+ 2.660 0 Td (that) Tj
+ 2.060 0 Td (one) Tj
+ 1.940 0 Td (could) Tj
+ 2.820 0 Td (argue) Tj
+ 2.860 0 Td (a) Tj
+ 0.840 0 Td (reasonable) Tj
+ 5.060 0 Td (case) Tj
+ 2.180 0 Td (for) Tj
+ 1.600 0 Td (economic) Tj
+ 4.540 0 Td (theory) Tj
+ 3.220 0 Td (on) Tj
+ 1.460 0 Td (purely) Tj
+ 3.240 0 Td (aesthetic) Tj
+ -35.160 -1.800 Td (grounds.) Tj
+ 4.340 0 Td (Indeed,) Tj
+ 3.660 0 Td (when) Tj
+ 2.760 0 Td (pressed,) Tj
+ 3.960 0 Td (most) Tj
+ 2.480 0 Td (economic) Tj
+ 4.480 0 Td (theorists) Tj
+ 4.080 0 Td (admit) Tj
+ 2.900 0 Td (that) Tj
+ 2.040 0 Td (they) Tj
+ 2.220 0 Td (do) Tj
+ 1.460 0 Td (economics) Tj
+ -34.380 -1.780 Td (because) Tj
+ 3.720 0 Td (it) Tj
+ 0.860 0 Td (is) Tj
+ 0.960 0 Td (fun.) Tj
+ -4.040 -1.800 Td (But) Tj
+ 1.820 0 Td (I) Tj
+ 0.620 0 Td (think) Tj
+ 2.620 0 Td (purely) Tj
+ 3.220 0 Td (aesthetic) Tj
+ 4.120 0 Td (considerations) Tj
+ 6.720 0 Td (would) Tj
+ 3.160 0 Td (not) Tj
+ 1.740 0 Td (provide) Tj
+ 3.760 0 Td (a) Tj
+ 0.800 0 Td (complete) Tj
+ 4.320 0 Td (account) Tj
+ 3.720 0 Td (of) Tj
+ -38.120 -1.800 Td (economic) Tj
+ 4.480 0 Td (theory.) Tj
+ 3.500 0 Td (For) Tj
+ 1.780 0 Td (theory) Tj
+ 3.160 0 Td (has) Tj
+ 1.780 0 Td (a) Tj
+/F3 1 Tf
+ 0.800 0 Td (role) Tj
+/F2 1 Tf
+ 1.780 0 Td (in) Tj
+ 1.160 0 Td (economics.) Tj
+ 5.240 0 Td (It) Tj
+ 0.940 0 Td (is) Tj
+ 1 0 Td (not) Tj
+ 1.740 0 Td (just) Tj
+ 1.860 0 Td (an) Tj
+ 1.380 0 Td (intellectual) Tj
+ 5.160 0 Td (pursuit) Tj
+ -35.760 -1.800 Td (for) Tj
+ 1.540 0 Td (its) Tj
+ 1.320 0 Td (own) Tj
+ 2.240 0 Td (sake,) Tj
+ 2.480 0 Td (but) Tj
+ 1.760 0 Td (it) Tj
+ 0.880 0 Td (plays) Tj
+ 2.640 0 Td (an) Tj
+ 1.360 0 Td (essential) Tj
+ 4.060 0 Td (part) Tj
+ 2.080 0 Td (in) Tj
+ 1.160 0 Td (economic) Tj
+ 4.480 0 Td (research.) Tj
+ 4.260 0 Td (The) Tj
+ 1.940 0 Td (essential) Tj
+ 4.060 0 Td (theme) Tj
+ -36.260 -1.800 Td (of) Tj
+ 1.160 0 Td (this) Tj
+ 1.900 0 Td (essay) Tj
+ 2.660 0 Td (that) Tj
+ 2.020 0 Td (economics) Tj
+ 4.900 0 Td (is) Tj
+ 1 0 Td (a) Tj
+/F3 1 Tf
+ 0.780 0 Td (policy) Tj
+ 2.680 0 Td (science) Tj
+/F2 1 Tf
+ 3.100 0 Td (and,) Tj
+ 2.220 0 Td (as) Tj
+ 1.220 0 Td (such,) Tj
+ 2.580 0 Td (the) Tj
+ 1.660 0 Td (contribution) Tj
+ 5.760 0 Td (of) Tj
+ 1.160 0 Td (economic) Tj
+ -34.800 -1.780 Td (theory) Tj
+ 3.100 0 Td (to) Tj
+ 1.100 0 Td (economics) Tj
+ 4.840 0 Td (should) Tj
+ 3.280 0 Td (be) Tj
+ 1.260 0 Td (measured) Tj
+ 4.580 0 Td (on) Tj
+ 1.360 0 Td (how) Tj
+ 2.180 0 Td (well) Tj
+ 2.120 0 Td (economic) Tj
+ 4.420 0 Td (theory) Tj
+ 3.100 0 Td (contributes) Tj
+ 5.180 0 Td (to) Tj
+ 1.100 0 Td (the) Tj
+ -37.620 -1.800 Td (understanding) Tj
+ 6.760 0 Td (and) Tj
+ 1.940 0 Td (conduct) Tj
+ 3.800 0 Td (of) Tj
+ 1.120 0 Td (economic) Tj
+ 4.440 0 Td (policy.) Tj
+/F4 1 Tf
+ -18.060 -3.020 Td (1.) Tj
+ 1.240 0 Td (Economics) Tj
+ 5.120 0 Td (as) Tj
+ 1.200 0 Td (a) Tj
+ 0.740 0 Td (policy) Tj
+ 3.080 0 Td (science) Tj
+/F2 1 Tf
+ -11.380 -2.400 Td (Part) Tj
+ 2.140 0 Td (of) Tj
+ 1.180 0 Td (the) Tj
+ 1.700 0 Td (attraction) Tj
+ 4.540 0 Td (and) Tj
+ 2.020 0 Td (the) Tj
+ 1.700 0 Td (promise) Tj
+ 3.920 0 Td (of) Tj
+ 1.180 0 Td (economics) Tj
+ 4.940 0 Td (is) Tj
+ 1.040 0 Td (that) Tj
+ 2.040 0 Td (it) Tj
+ 0.940 0 Td (claims) Tj
+ 3.140 0 Td (to) Tj
+ 1.180 0 Td (describe) Tj
+ 3.980 0 Td (policies) Tj
+ -35.640 -1.780 Td (that) Tj
+ 2.040 0 Td (will) Tj
+ 2.020 0 Td (improve) Tj
+ 4.080 0 Td (peoples') Tj
+ 4.000 0 Td (lives.) Tj
+ 2.760 0 Td (This) Tj
+ 2.220 0 Td (is) Tj
+ 1.020 0 Td (unlike) Tj
+ 3.120 0 Td (most) Tj
+ 2.480 0 Td (other) Tj
+ 2.640 0 Td (physical) Tj
+ 4.000 0 Td (and) Tj
+ 2.020 0 Td (social) Tj
+ 2.800 0 Td (sciences.) Tj
+ -35.200 -1.800 Td (Sociology) Tj
+ 4.720 0 Td (and) Tj
+ 2.120 0 Td (political) Tj
+ 4.000 0 Td (science) Tj
+ 3.580 0 Td (have) Tj
+ 2.560 0 Td (a) Tj
+ 0.920 0 Td (policy) Tj
+ 3.160 0 Td (component,) Tj
+ 5.700 0 Td (but) Tj
+ 1.920 0 Td (for) Tj
+ 1.700 0 Td (the) Tj
+ 1.820 0 Td (most) Tj
+ 2.620 0 Td (part) Tj
+ 2.240 0 Td (they) Tj
+ -37.060 -1.800 Td (are) Tj
+ 1.780 0 Td (concerned) Tj
+ 4.940 0 Td (with) Tj
+ 2.420 0 Td (understanding) Tj
+ 6.920 0 Td (the) Tj
+ 1.780 0 Td (functioning) Tj
+ 5.520 0 Td (of) Tj
+ 1.280 0 Td (their) Tj
+ 2.460 0 Td (respective) Tj
+ 4.880 0 Td (subject) Tj
+ 3.460 0 Td (matters.) Tj
+ -16.180 -2.400 Td (1) Tj
+ET
+Q
+endstream
+endobj
+9 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources << /Font << /F2 29 0 R /F4 35 0 R >> /ProcSet 4 0 R >>
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 53 0 R
+>>
+stream
+q
+Q q
+BT
+/F2 1 Tf
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 6 59 Td (Physical) Tj
+ 3.940 0 Td (science,) Tj
+ 3.620 0 Td (of) Tj
+ 1.140 0 Td (course,) Tj
+ 3.380 0 Td (has) Tj
+ 1.760 0 Td (the) Tj
+ 1.640 0 Td (potential) Tj
+ 4.180 0 Td (to) Tj
+ 1.120 0 Td (improve) Tj
+ 4 0 Td (peoples') Tj
+ 3.940 0 Td (standards) Tj
+ 4.600 0 Td (of) Tj
+ 1.140 0 Td (living,) Tj
+ 3.060 0 Td (but) Tj
+ -37.520 -1.800 Td (this) Tj
+ 1.860 0 Td (is) Tj
+ 0.960 0 Td (really) Tj
+ 2.760 0 Td (a) Tj
+ 0.740 0 Td (by-product) Tj
+ 5.200 0 Td (of) Tj
+ 1.120 0 Td (science) Tj
+ 3.380 0 Td (as) Tj
+ 1.180 0 Td (an) Tj
+ 1.320 0 Td (intellectual) Tj
+ 5.140 0 Td (activity.) Tj
+ -22.160 -1.820 Td (In) Tj
+ 1.320 0 Td (my) Tj
+ 1.860 0 Td (view,) Tj
+ 2.860 0 Td (many) Tj
+ 2.940 0 Td (methodologists) Tj
+ 7.220 0 Td (have) Tj
+ 2.540 0 Td (missed) Tj
+ 3.520 0 Td (this) Tj
+ 2.020 0 Td (essential) Tj
+ 4.200 0 Td (feature) Tj
+ 3.520 0 Td (of) Tj
+ 1.300 0 Td (economic) Tj
+ -34.800 -1.800 Td (science.) Tj
+ 4.060 0 Td (It) Tj
+ 1.040 0 Td (is) Tj
+ 1.120 0 Td (a) Tj
+ 0.880 0 Td (mistake) Tj
+ 3.840 0 Td (to) Tj
+ 1.260 0 Td (compare) Tj
+ 4.220 0 Td (economics) Tj
+ 5.020 0 Td (to) Tj
+ 1.260 0 Td (physics;) Tj
+ 4.020 0 Td (a) Tj
+ 0.880 0 Td (better) Tj
+ 2.940 0 Td (comparison) Tj
+ 5.580 0 Td (would) Tj
+ -36.120 -1.800 Td (be) Tj
+ 1.380 0 Td (to) Tj
+ 1.220 0 Td (engineering.) Tj
+ 6.080 0 Td (Similarly,) Tj
+ 4.640 0 Td (it) Tj
+ 0.960 0 Td (is) Tj
+ 1.060 0 Td (a) Tj
+ 0.860 0 Td (mistake) Tj
+ 3.800 0 Td (to) Tj
+ 1.220 0 Td (compare) Tj
+ 4.200 0 Td (economics) Tj
+ 4.980 0 Td (to) Tj
+ 1.220 0 Td (biology;) Tj
+ 3.980 0 Td (a) Tj
+ 0.860 0 Td (better) Tj
+ -36.460 -1.800 Td (comparison) Tj
+ 5.520 0 Td (is) Tj
+ 1.040 0 Td (to) Tj
+ 1.200 0 Td (medicine.) Tj
+ 4.780 0 Td (I) Tj
+ 0.660 0 Td (think) Tj
+ 2.640 0 Td (that) Tj
+ 2.060 0 Td (Keynes) Tj
+ 3.560 0 Td (was) Tj
+ 2.080 0 Td (only) Tj
+ 2.300 0 Td (half) Tj
+ 2.020 0 Td (joking) Tj
+ 3.080 0 Td (when) Tj
+ 2.800 0 Td (he) Tj
+ 1.380 0 Td (said) Tj
+ 2.160 0 Td (that) Tj
+ -37.280 -1.800 Td (economists) Tj
+ 5.100 0 Td (should) Tj
+ 3.220 0 Td (be) Tj
+ 1.200 0 Td (more) Tj
+ 2.460 0 Td (like) Tj
+ 1.780 0 Td (dentists.) Tj
+ 3.920 0 Td (Dentists) Tj
+ 3.780 0 Td (claims) Tj
+ 3.000 0 Td (that) Tj
+ 1.900 0 Td (they) Tj
+ 2.100 0 Td (can) Tj
+ 1.700 0 Td (make) Tj
+ 2.580 0 Td (make) Tj
+ 2.580 0 Td (peoples') Tj
+ -35.320 -1.800 Td (lives) Tj
+ 2.280 0 Td (better;) Tj
+ 3.040 0 Td (so) Tj
+ 1.220 0 Td (do) Tj
+ 1.400 0 Td (economists.) Tj
+ 5.420 0 Td (The) Tj
+ 1.900 0 Td (methodological) Tj
+ 7.120 0 Td (premise) Tj
+ 3.780 0 Td (of) Tj
+ 1.120 0 Td (dentistry) Tj
+ 4.220 0 Td (and) Tj
+ 1.920 0 Td (economics) Tj
+ 4.860 0 Td (is) Tj
+ -38.280 -1.800 Td (similar:) Tj
+ 3.600 0 Td (we) Tj
+ 1.580 0 Td (value) Tj
+ 2.680 0 Td (what) Tj
+ 2.500 0 Td (is) Tj
+ 0.980 0 Td (useful.) Tj
+ 3.280 0 Td (None) Tj
+ 2.700 0 Td (of) Tj
+ 1.140 0 Td (the) Tj
+ 1.640 0 Td (``policy) Tj
+ 3.540 0 Td (subjects''---) Tj
+ 5.300 0 Td (engineering,) Tj
+ 5.760 0 Td (medicine,) Tj
+ -34.700 -1.800 Td (or) Tj
+ 1.380 0 Td (dentistry---is) Tj
+ 6.140 0 Td (much) Tj
+ 2.940 0 Td (concerned) Tj
+ 4.980 0 Td (about) Tj
+ 2.980 0 Td (methodology,) Tj
+ 6.640 0 Td (and) Tj
+ 2.120 0 Td (economists,) Tj
+ 5.680 0 Td (by) Tj
+ 1.540 0 Td (and) Tj
+ 2.140 0 Td (large,) Tj
+ -36.540 -1.800 Td (aren't) Tj
+ 2.800 0 Td (either.) Tj
+ -1.300 -1.820 Td (When) Tj
+ 3.040 0 Td (you) Tj
+ 2.120 0 Td (think) Tj
+ 2.760 0 Td (about) Tj
+ 2.940 0 Td (it,) Tj
+ 1.320 0 Td (it) Tj
+ 1.040 0 Td (is) Tj
+ 1.120 0 Td (quite) Tj
+ 2.680 0 Td (surprising) Tj
+ 4.960 0 Td (that) Tj
+ 2.160 0 Td (there) Tj
+ 2.660 0 Td (isn't) Tj
+ 2.320 0 Td (more) Tj
+ 2.720 0 Td (work) Tj
+ 2.740 0 Td (on) Tj
+ 1.540 0 Td (the) Tj
+ -37.620 -1.800 Td (methodology) Tj
+ 6.340 0 Td (of) Tj
+ 1.320 0 Td (engineering) Tj
+ 5.680 0 Td (or) Tj
+ 1.380 0 Td (medicine.) Tj
+ 5.120 0 Td (These) Tj
+ 3.020 0 Td (subjects) Tj
+ 3.900 0 Td (have) Tj
+ 2.560 0 Td (exerted) Tj
+ 3.720 0 Td (an) Tj
+ 1.520 0 Td (enormous) Tj
+ -34.560 -1.800 Td (influence) Tj
+ 4.480 0 Td (on) Tj
+ 1.520 0 Td (twentieth) Tj
+ 4.620 0 Td (century) Tj
+ 3.780 0 Td (life,) Tj
+ 2.080 0 Td (yet) Tj
+ 1.760 0 Td (are) Tj
+ 1.780 0 Td (almost) Tj
+ 3.360 0 Td (totally) Tj
+ 3.240 0 Td (ignored) Tj
+ 3.840 0 Td (by) Tj
+ 1.520 0 Td (philosophers) Tj
+ 6.140 0 Td (of) Tj
+ -38.120 -1.800 Td (science.) Tj
+ 3.900 0 Td (This) Tj
+ 2.240 0 Td (neglect) Tj
+ 3.480 0 Td (should) Tj
+ 3.380 0 Td (be) Tj
+ 1.360 0 Td (contrasted) Tj
+ 4.960 0 Td (with) Tj
+ 2.360 0 Td (with) Tj
+ 2.360 0 Td (other) Tj
+ 2.640 0 Td (social) Tj
+ 2.840 0 Td (sciences) Tj
+ 3.880 0 Td (where) Tj
+ 3.100 0 Td (much) Tj
+ -36.500 -1.800 Td (time) Tj
+ 2.200 0 Td (and) Tj
+ 1.900 0 Td (energy) Tj
+ 3.260 0 Td (is) Tj
+ 0.920 0 Td (spent) Tj
+ 2.640 0 Td (on) Tj
+ 1.340 0 Td (methodological) Tj
+ 7.080 0 Td (debate.) Tj
+ 3.420 0 Td (Philosophy) Tj
+ 5.240 0 Td (of) Tj
+ 1.080 0 Td (science,) Tj
+ 3.620 0 Td (as) Tj
+ 1.140 0 Td (practiced) Tj
+ 4.300 0 Td (in) Tj
+ -38.140 -1.800 Td (philosophy) Tj
+ 5.220 0 Td (departments,) Tj
+ 6.040 0 Td (seems) Tj
+ 2.900 0 Td (to) Tj
+ 1.080 0 Td (be) Tj
+ 1.240 0 Td (basically) Tj
+ 4.060 0 Td (concerned) Tj
+ 4.740 0 Td (with) Tj
+ 2.240 0 Td (physics,) Tj
+ 3.780 0 Td (with) Tj
+ 2.240 0 Td (a) Tj
+ 0.720 0 Td (smattering) Tj
+ -34.260 -1.800 Td (of) Tj
+ 1.120 0 Td (philosophers) Tj
+ 6.000 0 Td (concerned) Tj
+ 4.780 0 Td (with) Tj
+ 2.280 0 Td (psychology,) Tj
+ 5.580 0 Td (biology,) Tj
+ 3.820 0 Td (and) Tj
+ 1.940 0 Td (a) Tj
+ 0.760 0 Td (few) Tj
+ 1.880 0 Td (social) Tj
+ 2.740 0 Td (sciences.) Tj
+ -29.400 -1.820 Td (I) Tj
+ 0.520 0 Td (think) Tj
+ 2.520 0 Td (that) Tj
+ 1.920 0 Td (many) Tj
+ 2.700 0 Td (economists) Tj
+ 5.120 0 Td (and) Tj
+ 1.880 0 Td (philosopher) Tj
+ 5.520 0 Td (who) Tj
+ 2.140 0 Td (have) Tj
+ 2.320 0 Td (written) Tj
+ 3.400 0 Td (on) Tj
+ 1.320 0 Td (economic) Tj
+ 4.400 0 Td (method-) Tj
+ -35.260 -1.800 Td (ology) Tj
+ 2.920 0 Td (have) Tj
+ 2.540 0 Td (not) Tj
+ 1.880 0 Td (given) Tj
+ 2.900 0 Td (sufficient) Tj
+ 4.520 0 Td (emphasis) Tj
+ 4.600 0 Td (to) Tj
+ 1.300 0 Td (the) Tj
+ 1.800 0 Td (policy) Tj
+ 3.160 0 Td (orientation) Tj
+ 5.280 0 Td (of) Tj
+ 1.300 0 Td (most) Tj
+ 2.600 0 Td (economic) Tj
+ -34.800 -1.800 Td (research.) Tj
+ 4.540 0 Td (One) Tj
+ 2.220 0 Td (reason) Tj
+ 3.280 0 Td (for) Tj
+ 1.640 0 Td (this) Tj
+ 2 0 Td (is) Tj
+ 1.080 0 Td (the) Tj
+ 1.760 0 Td (lack) Tj
+ 2.140 0 Td (of) Tj
+ 1.260 0 Td (an) Tj
+ 1.440 0 Td (adequate) Tj
+ 4.420 0 Td (model) Tj
+ 3.160 0 Td (to) Tj
+ 1.240 0 Td (follow.) Tj
+ 3.700 0 Td (There) Tj
+ 2.920 0 Td (is) Tj
+ 1.080 0 Td (no) Tj
+ -37.880 -1.820 Td (philosophy) Tj
+ 5.300 0 Td (of) Tj
+ 1.160 0 Td (engineering,) Tj
+ 5.820 0 Td (philosophy) Tj
+ 5.280 0 Td (of) Tj
+ 1.180 0 Td (medicine) Tj
+ 4.340 0 Td (or) Tj
+ 1.220 0 Td (philosophy) Tj
+ 5.300 0 Td (of) Tj
+ 1.180 0 Td (dentistry---there) Tj
+ 7.500 0 Td (is) Tj
+ -38.280 -1.800 Td (no) Tj
+ 1.460 0 Td (model) Tj
+ 3.120 0 Td (of) Tj
+ 1.220 0 Td (methodology) Tj
+ 6.220 0 Td (for) Tj
+ 1.600 0 Td (a) Tj
+ 0.820 0 Td (policy) Tj
+ 3.060 0 Td (science) Tj
+ 3.460 0 Td (on) Tj
+ 1.460 0 Td (which) Tj
+ 3.040 0 Td (we) Tj
+ 1.640 0 Td (can) Tj
+ 1.860 0 Td (build) Tj
+ 2.660 0 Td (an) Tj
+ 1.420 0 Td (analysis.) Tj
+ 4.300 0 Td (The) Tj
+ -37.340 -1.800 Td (task) Tj
+ 2.020 0 Td (of) Tj
+ 1.120 0 Td (constructing) Tj
+ 5.720 0 Td (such) Tj
+ 2.280 0 Td (a) Tj
+ 0.720 0 Td (theory) Tj
+ 3.100 0 Td (falls) Tj
+ 2.080 0 Td (to) Tj
+ 1.080 0 Td (economists.) Tj
+ 5.420 0 Td (This) Tj
+ 2.140 0 Td (is,) Tj
+ 1.200 0 Td (in) Tj
+ 1.100 0 Td (my) Tj
+ 1.660 0 Td (view,) Tj
+ 2.640 0 Td (one) Tj
+ 1.840 0 Td (of) Tj
+ 1.100 0 Td (the) Tj
+ 1.600 0 Td (most) Tj
+ -36.820 -1.800 Td (interesting) Tj
+ 4.960 0 Td (problems) Tj
+ 4.380 0 Td (for) Tj
+ 1.520 0 Td (those) Tj
+ 2.580 0 Td (concerned) Tj
+ 4.780 0 Td (with) Tj
+ 2.260 0 Td (methodological) Tj
+ 7.100 0 Td (issues) Tj
+ 2.880 0 Td (and) Tj
+ 1.920 0 Td (the) Tj
+ 1.620 0 Td (philosophy) Tj
+ -34.000 -1.800 Td (of) Tj
+ 1.120 0 Td (the) Tj
+ 1.640 0 Td (social) Tj
+ 2.740 0 Td (sciences.) Tj
+/F4 1 Tf
+ -5.500 -3.080 Td (2.) Tj
+ 1.240 0 Td (Role) Tj
+ 2.360 0 Td (of) Tj
+ 1.180 0 Td (theory) Tj
+ 3.200 0 Td (in) Tj
+ 1.180 0 Td (a) Tj
+ 0.740 0 Td (policy) Tj
+ 3.080 0 Td (science) Tj
+/F2 1 Tf
+ -12.980 -2.440 Td (Given) Tj
+ 3.120 0 Td (my) Tj
+ 1.860 0 Td (view) Tj
+ 2.600 0 Td (that) Tj
+ 2.180 0 Td (economics) Tj
+ 5.060 0 Td (is) Tj
+ 1.160 0 Td (a) Tj
+ 0.920 0 Td (policy) Tj
+ 3.160 0 Td (science,) Tj
+ 3.880 0 Td (if) Tj
+ 1.060 0 Td (I) Tj
+ 0.780 0 Td (want) Tj
+ 2.680 0 Td (to) Tj
+ 1.300 0 Td (defend) Tj
+ 3.520 0 Td (a) Tj
+ 0.940 0 Td (practice) Tj
+ 3.920 0 Td (in) Tj
+ -38.140 -1.800 Td (economics,) Tj
+ 5.120 0 Td (then) Tj
+ 2.200 0 Td (I) Tj
+ 0.560 0 Td (must) Tj
+ 2.460 0 Td (defend) Tj
+ 3.340 0 Td (it) Tj
+ 0.840 0 Td (from) Tj
+ 2.380 0 Td (a) Tj
+ 0.740 0 Td (policy) Tj
+ 2.960 0 Td (perspective.) Tj
+ 5.560 0 Td (So) Tj
+ 1.300 0 Td (I) Tj
+ 0.580 0 Td (need) Tj
+ 2.380 0 Td (to) Tj
+ 1.100 0 Td (argue) Tj
+ 2.760 0 Td (about) Tj
+ 2.760 0 Td (how) Tj
+ -17.780 -2.400 Td (2) Tj
+ET
+Q
+endstream
+endobj
+11 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources << /Font << /F2 29 0 R /F3 32 0 R /F6 40 0 R /F7 44 0 R /F8 46 0 R >> /ProcSet 4 0 R >>
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 54 0 R
+>>
+stream
+q
+Q q
+BT
+/F2 1 Tf
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 6 59 Td (economic) Tj
+ 4.560 0 Td (theory) Tj
+ 3.240 0 Td (is) Tj
+/F3 1 Tf
+ 1.060 0 Td (useful) Tj
+/F2 1 Tf
+ 2.800 0 Td (in) Tj
+ 1.240 0 Td (policy.) Tj
+ 3.540 0 Td (The) Tj
+ 2.040 0 Td (remainder) Tj
+ 4.940 0 Td (of) Tj
+ 1.240 0 Td (the) Tj
+ 1.740 0 Td (paper) Tj
+ 2.940 0 Td (will) Tj
+ 2.060 0 Td (consists) Tj
+ 3.800 0 Td (of) Tj
+ 1.240 0 Td (list) Tj
+ 1.680 0 Td (of) Tj
+ -38.120 -1.800 Td (several) Tj
+ 3.400 0 Td (such) Tj
+ 2.300 0 Td (ways.) Tj
+ 2.880 0 Td (The) Tj
+ 1.940 0 Td (list) Tj
+ 1.600 0 Td (is) Tj
+ 0.980 0 Td (no) Tj
+ 1.380 0 Td (doubt) Tj
+ 2.900 0 Td (incomplete,) Tj
+ 5.440 0 Td (and) Tj
+ 1.960 0 Td (I) Tj
+ 0.600 0 Td (would) Tj
+ 3.140 0 Td (welcome) Tj
+ 4.220 0 Td (additions.) Tj
+ 4.720 0 Td (But) Tj
+ -37.460 -1.800 Td (perhaps) Tj
+ 3.860 0 Td (it) Tj
+ 0.920 0 Td (can) Tj
+ 1.820 0 Td (help) Tj
+ 2.240 0 Td (focus) Tj
+ 2.640 0 Td (some) Tj
+ 2.620 0 Td (discussion) Tj
+ 4.920 0 Td (on) Tj
+/F3 1 Tf
+ 1.420 0 Td (why) Tj
+/F2 1 Tf
+ 2.020 0 Td (economists) Tj
+ 5.220 0 Td (do) Tj
+ 1.460 0 Td (what) Tj
+ 2.520 0 Td (the) Tj
+ 1.680 0 Td (do,) Tj
+ 1.720 0 Td (and) Tj
+ 1.980 0 Td (how) Tj
+ -37.040 -1.800 Td (theory) Tj
+ 3.120 0 Td (helps) Tj
+ 2.620 0 Td (them) Tj
+ 2.520 0 Td (do) Tj
+ 1.400 0 Td (it.) Tj
+/F3 1 Tf
+ -9.660 -3.080 Td (Theory) Tj
+ 3.080 0 Td (as) Tj
+ 1.080 0 Td (a) Tj
+ 0.680 0 Td (substitute) Tj
+ 4.260 0 Td (for) Tj
+ 1.360 0 Td (data) Tj
+/F2 1 Tf
+ -10.460 -2.440 Td (In) Tj
+ 1.120 0 Td (many) Tj
+ 2.740 0 Td (cases) Tj
+ 2.460 0 Td (we) Tj
+ 1.520 0 Td (are) Tj
+ 1.580 0 Td (forced) Tj
+ 3.020 0 Td (to) Tj
+ 1.080 0 Td (use) Tj
+ 1.720 0 Td (theory) Tj
+ 3.080 0 Td (because) Tj
+ 3.680 0 Td (the) Tj
+ 1.600 0 Td (data) Tj
+ 2.140 0 Td (that) Tj
+ 1.940 0 Td (we) Tj
+ 1.520 0 Td (need) Tj
+ 2.360 0 Td (are) Tj
+ 1.580 0 Td (not) Tj
+ 1.660 0 Td (available.) Tj
+ -34.800 -1.800 Td (Suppose,) Tj
+ 4.340 0 Td (for) Tj
+ 1.580 0 Td (example,) Tj
+ 4.320 0 Td (we) Tj
+ 1.620 0 Td (want) Tj
+ 2.560 0 Td (to) Tj
+ 1.180 0 Td (determine) Tj
+ 4.820 0 Td (how) Tj
+ 2.280 0 Td (a) Tj
+ 0.800 0 Td (market) Tj
+ 3.440 0 Td (price) Tj
+ 2.520 0 Td (will) Tj
+ 2.020 0 Td (respond) Tj
+ 3.940 0 Td (to) Tj
+ 1.180 0 Td (a) Tj
+ 0.820 0 Td (tax.) Tj
+ -37.420 -1.800 Td (We) Tj
+ 1.800 0 Td (could) Tj
+ 2.800 0 Td (estimate) Tj
+ 4.020 0 Td (this) Tj
+ 1.940 0 Td (effect) Tj
+ 2.720 0 Td (by) Tj
+ 1.420 0 Td (running) Tj
+ 3.900 0 Td (a) Tj
+ 0.820 0 Td (regression) Tj
+ 4.880 0 Td (of) Tj
+ 1.200 0 Td (market) Tj
+ 3.460 0 Td (price) Tj
+ 2.520 0 Td (against) Tj
+ 3.500 0 Td (tax) Tj
+ 1.660 0 Td (rates,) Tj
+ -36.640 -1.800 Td (controlling) Tj
+ 5.120 0 Td (for) Tj
+ 1.540 0 Td (as) Tj
+ 1.220 0 Td (many) Tj
+ 2.780 0 Td (other) Tj
+ 2.600 0 Td (variables) Tj
+ 4.280 0 Td (as) Tj
+ 1.200 0 Td (possible.) Tj
+ 4.200 0 Td (This) Tj
+ 2.180 0 Td (would) Tj
+ 3.160 0 Td (give) Tj
+ 2.160 0 Td (us) Tj
+ 1.320 0 Td (an) Tj
+ 1.360 0 Td (equation) Tj
+ 4.160 0 Td (that) Tj
+ -37.280 -1.800 Td (we) Tj
+ 1.560 0 Td (could) Tj
+ 2.740 0 Td (use) Tj
+ 1.740 0 Td (to) Tj
+ 1.120 0 Td (predict) Tj
+ 3.380 0 Td (how) Tj
+ 2.200 0 Td (prices) Tj
+ 2.880 0 Td (respond) Tj
+ 3.880 0 Td (to) Tj
+ 1.120 0 Td (changes) Tj
+ 3.800 0 Td (in) Tj
+ 1.120 0 Td (taxes.) Tj
+ -24.040 -1.820 Td (We) Tj
+ 1.740 0 Td (rarely) Tj
+ 2.880 0 Td (have) Tj
+ 2.380 0 Td (data) Tj
+ 2.200 0 Td (like) Tj
+ 1.880 0 Td (this;) Tj
+ 2.160 0 Td (taxes) Tj
+ 2.500 0 Td (just) Tj
+ 1.860 0 Td (don't) Tj
+ 2.600 0 Td (change) Tj
+ 3.400 0 Td (enough.) Tj
+ 3.900 0 Td (But) Tj
+ 1.800 0 Td (if) Tj
+ 0.900 0 Td (people) Tj
+ 3.260 0 Td (only) Tj
+ 2.220 0 Td (care) Tj
+ -37.180 -1.800 Td (about) Tj
+ 2.860 0 Td (the) Tj
+ 1.740 0 Td (total) Tj
+ 2.340 0 Td (price) Tj
+ 2.540 0 Td (of) Tj
+ 1.220 0 Td (a) Tj
+ 0.860 0 Td (good,) Tj
+ 2.860 0 Td (inclusive) Tj
+ 4.320 0 Td (of) Tj
+ 1.220 0 Td (tax---a) Tj
+ 3.180 0 Td (theory---then) Tj
+ 6.180 0 Td (we) Tj
+ 1.660 0 Td (can) Tj
+ 1.860 0 Td (use) Tj
+ 1.860 0 Td (estimated) Tj
+ -34.700 -1.800 Td (price) Tj
+ 2.460 0 Td (elasticities) Tj
+ 4.780 0 Td (to) Tj
+ 1.120 0 Td (forecast) Tj
+ 3.680 0 Td (the) Tj
+ 1.640 0 Td (response) Tj
+ 4.160 0 Td (of) Tj
+ 1.120 0 Td (price) Tj
+ 2.460 0 Td (to) Tj
+ 1.120 0 Td (the) Tj
+ 1.620 0 Td (imposition) Tj
+ 5.020 0 Td (of) Tj
+ 1.120 0 Td (a) Tj
+ 0.760 0 Td (tax.) Tj
+ -29.560 -1.820 Td (This) Tj
+ 2.280 0 Td (uses) Tj
+ 2.280 0 Td (a) Tj
+ 0.880 0 Td (theory) Tj
+ 3.240 0 Td (about) Tj
+ 2.900 0 Td (behavior---people) Tj
+ 8.260 0 Td (will) Tj
+ 2.060 0 Td (respond) Tj
+ 4.000 0 Td (to) Tj
+ 1.240 0 Td (the) Tj
+ 1.760 0 Td (imposition) Tj
+ 5.140 0 Td (of) Tj
+ 1.260 0 Td (a) Tj
+ 0.860 0 Td (tax) Tj
+ -37.660 -1.800 Td (in) Tj
+ 1.200 0 Td (the) Tj
+ 1.720 0 Td (same) Tj
+ 2.600 0 Td (way) Tj
+ 2.220 0 Td (that) Tj
+ 2.060 0 Td (they) Tj
+ 2.260 0 Td (respond) Tj
+ 3.960 0 Td (to) Tj
+ 1.200 0 Td (a) Tj
+ 0.820 0 Td (price) Tj
+ 2.540 0 Td (increase---in) Tj
+ 5.780 0 Td (order) Tj
+ 2.740 0 Td (to) Tj
+ 1.200 0 Td (allow) Tj
+ 2.780 0 Td (data) Tj
+ 2.260 0 Td (on) Tj
+ 1.460 0 Td (price) Tj
+ -36.800 -1.800 Td (responses) Tj
+ 4.640 0 Td (to) Tj
+ 1.160 0 Td (be) Tj
+ 1.340 0 Td (useful.) Tj
+ 3.360 0 Td (We) Tj
+ 1.780 0 Td (can) Tj
+ 1.820 0 Td (use) Tj
+ 1.800 0 Td (the) Tj
+ 1.680 0 Td (theory) Tj
+ 3.160 0 Td (to) Tj
+ 1.180 0 Td (forecast) Tj
+ 3.720 0 Td (the) Tj
+ 1.680 0 Td (outcome) Tj
+ 4.120 0 Td (of) Tj
+ 1.180 0 Td (an) Tj
+ 1.360 0 Td (experiment) Tj
+ -33.980 -1.800 Td (that) Tj
+ 1.980 0 Td (has) Tj
+ 1.740 0 Td (never) Tj
+ 2.740 0 Td (been) Tj
+ 2.340 0 Td (done.) Tj
+ -7.300 -1.800 Td (Here) Tj
+ 2.500 0 Td (is) Tj
+ 1.040 0 Td (another,) Tj
+ 3.980 0 Td (slightly) Tj
+ 3.640 0 Td (more) Tj
+ 2.600 0 Td (esoteric) Tj
+ 3.700 0 Td (example.) Tj
+ 4.460 0 Td (Consider) Tj
+ 4.340 0 Td (the) Tj
+ 1.720 0 Td (assumption) Tj
+ 5.480 0 Td (of) Tj
+ 1.200 0 Td (transi-) Tj
+ -36.160 -1.800 Td (tivity) Tj
+ 2.640 0 Td (of) Tj
+ 1.160 0 Td (preferences) Tj
+ 5.360 0 Td (mentioned) Tj
+ 5.040 0 Td (briefly) Tj
+ 3.180 0 Td (above.) Tj
+ 3.240 0 Td (This) Tj
+ 2.180 0 Td (theory) Tj
+ 3.160 0 Td (asserts) Tj
+ 3.260 0 Td (that) Tj
+ 2.000 0 Td (if) Tj
+ 0.920 0 Td (A) Tj
+ 1.060 0 Td (chosen) Tj
+ 3.340 0 Td (when) Tj
+/F6 1 Tf
+ -36.540 -1.800 Td (f) Tj
+/F7 1 Tf
+ 0.460 0 Td (A) Tj
+/F8 1 Tf
+ 0.620 0 Td (;) Tj
+/F7 1 Tf
+ 0.580 0 Td (B) Tj
+/F6 1 Tf
+ 0.660 0 Td (g) Tj
+/F2 1 Tf
+ 0.660 0 Td (is) Tj
+ 0.940 0 Td (available) Tj
+ 4.200 0 Td (and) Tj
+ 1.920 0 Td (B) Tj
+ 0.840 0 Td (is) Tj
+ 0.940 0 Td (chosen) Tj
+ 3.280 0 Td (when) Tj
+/F6 1 Tf
+ 2.720 0 Td (f) Tj
+/F7 1 Tf
+ 0.460 0 Td (B) Tj
+/F8 1 Tf
+ 0.660 0 Td (;) Tj
+/F7 1 Tf
+ 0.500 0 Td (C) Tj
+/F6 1 Tf
+ 0.720 0 Td (g) Tj
+/F2 1 Tf
+ 0.600 0 Td (is) Tj
+ 0.960 0 Td (available,) Tj
+ 4.440 0 Td (then) Tj
+ 2.200 0 Td (we) Tj
+ 1.540 0 Td (can) Tj
+ 1.760 0 Td (predict) Tj
+ 3.360 0 Td (A) Tj
+ 1.020 0 Td (will) Tj
+ 1.940 0 Td (be) Tj
+ -37.980 -1.800 Td (chosen) Tj
+ 3.300 0 Td (when) Tj
+/F6 1 Tf
+ 2.740 0 Td (f) Tj
+/F7 1 Tf
+ 0.460 0 Td (A) Tj
+/F8 1 Tf
+ 0.620 0 Td (;) Tj
+/F7 1 Tf
+ 0.500 0 Td (C) Tj
+/F6 1 Tf
+ 0.720 0 Td (g) Tj
+/F2 1 Tf
+ 0.680 0 Td (is) Tj
+ 0.980 0 Td (available.) Tj
+ 4.480 0 Td (This) Tj
+ 2.160 0 Td (is) Tj
+ 0.980 0 Td (certainly) Tj
+ 4.100 0 Td (a) Tj
+ 0.760 0 Td (theory) Tj
+ 3.140 0 Td (about) Tj
+ 2.780 0 Td (behavior;) Tj
+ 4.400 0 Td (it) Tj
+ 0.880 0 Td (may) Tj
+ 2.200 0 Td (or) Tj
+ 1.180 0 Td (may) Tj
+ -37.060 -1.800 Td (not) Tj
+ 1.700 0 Td (be) Tj
+ 1.280 0 Td (true.) Tj
+ -1.480 -1.820 Td (If) Tj
+ 0.960 0 Td (we) Tj
+ 1.580 0 Td (had) Tj
+ 1.980 0 Td (data) Tj
+ 2.220 0 Td (on) Tj
+ 1.420 0 Td (choices) Tj
+ 3.480 0 Td (between) Tj
+ 4.020 0 Td (all) Tj
+ 1.360 0 Td (pairs) Tj
+ 2.500 0 Td (of) Tj
+ 1.160 0 Td (A,) Tj
+ 1.320 0 Td (B,) Tj
+ 1.140 0 Td (and) Tj
+ 1.980 0 Td (C,) Tj
+ 1.240 0 Td (then) Tj
+ 2.260 0 Td (the) Tj
+ 1.660 0 Td (theory) Tj
+ 3.160 0 Td (wouldn't) Tj
+ -34.940 -1.800 Td (be) Tj
+ 1.300 0 Td (necessary.) Tj
+ 4.800 0 Td (When) Tj
+ 2.880 0 Td (we) Tj
+ 1.580 0 Td (want) Tj
+ 2.500 0 Td (to) Tj
+ 1.120 0 Td (predict) Tj
+ 3.400 0 Td (the) Tj
+ 1.640 0 Td (choice) Tj
+ 3.040 0 Td (out) Tj
+ 1.740 0 Td (of) Tj
+ 1.140 0 Td (the) Tj
+ 1.640 0 Td (set) Tj
+/F6 1 Tf
+ 1.480 0 Td (f) Tj
+/F7 1 Tf
+ 0.460 0 Td (A) Tj
+/F8 1 Tf
+ 0.620 0 Td (;) Tj
+/F7 1 Tf
+ 0.520 0 Td (C) Tj
+/F6 1 Tf
+ 0.720 0 Td (g) Tj
+/F2 1 Tf
+ 0.680 0 Td (we) Tj
+ 1.560 0 Td (would) Tj
+ 3.140 0 Td (simply) Tj
+ -35.960 -1.800 Td (look) Tj
+ 2.300 0 Td (at) Tj
+ 1.200 0 Td (how) Tj
+ 2.340 0 Td (the) Tj
+ 1.740 0 Td (person) Tj
+ 3.400 0 Td (chose) Tj
+ 2.840 0 Td (previously---that) Tj
+ 7.820 0 Td (is,) Tj
+ 1.380 0 Td (we) Tj
+ 1.680 0 Td (would) Tj
+ 3.240 0 Td (just) Tj
+ 1.960 0 Td (use) Tj
+ 1.860 0 Td (brute) Tj
+ 2.740 0 Td (induction.) Tj
+ -34.500 -1.800 Td (And) Tj
+ 2.220 0 Td (we) Tj
+ 1.540 0 Td (know) Tj
+ 2.760 0 Td (why) Tj
+ 2.220 0 Td (induction) Tj
+ 4.520 0 Td (works---it) Tj
+ 4.600 0 Td (has) Tj
+ 1.740 0 Td (always) Tj
+ 3.340 0 Td (worked) Tj
+ 3.660 0 Td (in) Tj
+ 1.120 0 Td (the) Tj
+ 1.640 0 Td (past!) Tj
+ -27.860 -1.820 Td (But) Tj
+ 1.920 0 Td (we) Tj
+ 1.700 0 Td (rarely) Tj
+ 3 0 Td (observe) Tj
+ 3.820 0 Td (all) Tj
+ 1.480 0 Td (possible) Tj
+ 3.980 0 Td (choices;) Tj
+ 3.920 0 Td (typically) Tj
+ 4.220 0 Td (we) Tj
+ 1.700 0 Td (observe) Tj
+ 3.820 0 Td (only) Tj
+ 2.360 0 Td (a) Tj
+ 0.900 0 Td (few) Tj
+ 2.020 0 Td (of) Tj
+ 1.280 0 Td (the) Tj
+ -37.620 -1.800 Td (possible) Tj
+ 4.040 0 Td (choices.) Tj
+ 4.280 0 Td (Theory) Tj
+ 3.620 0 Td (allows) Tj
+ 3.320 0 Td (us) Tj
+ 1.460 0 Td (to) Tj
+/F3 1 Tf
+ 1.320 0 Td (interpolate) Tj
+/F2 1 Tf
+ 4.760 0 Td (from) Tj
+ 2.600 0 Td (what) Tj
+ 2.680 0 Td (we) Tj
+ 1.740 0 Td (observe) Tj
+ 3.880 0 Td (to) Tj
+ 1.320 0 Td (what) Tj
+ 2.680 0 Td (we) Tj
+ -37.700 -1.800 Td (don't) Tj
+ 2.680 0 Td (observe.) Tj
+ 4.200 0 Td (In) Tj
+ 1.260 0 Td (the) Tj
+ 1.720 0 Td (case) Tj
+ 2.180 0 Td (of) Tj
+ 1.220 0 Td (the) Tj
+/F6 1 Tf
+ 1.740 0 Td (f) Tj
+/F7 1 Tf
+ 0.460 0 Td (A) Tj
+/F8 1 Tf
+ 0.620 0 Td (;) Tj
+/F7 1 Tf
+ 0.580 0 Td (B) Tj
+/F8 1 Tf
+ 0.660 0 Td (;) Tj
+/F7 1 Tf
+ 0.500 0 Td (C) Tj
+/F6 1 Tf
+ 0.720 0 Td (g) Tj
+/F2 1 Tf
+ 0.760 0 Td (example) Tj
+ 4.080 0 Td (brute) Tj
+ 2.680 0 Td (induction) Tj
+ 4.620 0 Td (requires) Tj
+ 3.940 0 Td (observing) Tj
+ -15.360 -2.400 Td (3) Tj
+ET
+Q
+endstream
+endobj
+13 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources << /Font << /F2 29 0 R /F3 32 0 R >> /ProcSet 4 0 R >>
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 55 0 R
+>>
+stream
+q
+Q q
+BT
+/F2 1 Tf
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 6 59 Td (all) Tj
+ 1.420 0 Td (choices) Tj
+ 3.540 0 Td (the) Tj
+ 1.720 0 Td (consumer) Tj
+ 4.680 0 Td (could) Tj
+ 2.820 0 Td (make) Tj
+ 2.760 0 Td (from) Tj
+ 2.480 0 Td (the) Tj
+ 1.720 0 Td (various) Tj
+ 3.660 0 Td (proper) Tj
+ 3.340 0 Td (subsets) Tj
+ 3.560 0 Td (available,) Tj
+ 4.580 0 Td (which) Tj
+ -36.280 -1.740 Td (requires) Tj
+ 3.920 0 Td (3) Tj
+ 0.800 0 Td (choice) Tj
+ 3.080 0 Td (experiments.) Tj
+ 6.100 0 Td (But) Tj
+ 1.840 0 Td (if) Tj
+ 0.920 0 Td (the) Tj
+ 1.680 0 Td (assumption) Tj
+ 5.460 0 Td (of) Tj
+ 1.180 0 Td (transitivity) Tj
+ 5.160 0 Td (holds,) Tj
+ 3.020 0 Td (then) Tj
+ 2.260 0 Td (2) Tj
+ 0.800 0 Td (choice) Tj
+ -36.220 -1.760 Td (experiments) Tj
+ 5.740 0 Td (are) Tj
+ 1.660 0 Td (all) Tj
+ 1.380 0 Td (we) Tj
+ 1.600 0 Td (need.) Tj
+ 2.780 0 Td (The) Tj
+ 1.980 0 Td (theory) Tj
+ 3.160 0 Td (of) Tj
+ 1.180 0 Td (consumer) Tj
+ 4.640 0 Td (choice) Tj
+ 3.060 0 Td (allows) Tj
+ 3.180 0 Td (us) Tj
+ 1.320 0 Td (to) Tj
+ 1.160 0 Td (economize) Tj
+ 5.040 0 Td (on) Tj
+ -37.880 -1.760 Td (the) Tj
+ 1.640 0 Td (data.) Tj
+ -0.140 -1.740 Td (Naive) Tj
+ 2.840 0 Td (empiricism) Tj
+ 5.160 0 Td (can) Tj
+ 1.720 0 Td (only) Tj
+ 2.160 0 Td (predict) Tj
+ 3.340 0 Td (what) Tj
+ 2.420 0 Td (has) Tj
+ 1.700 0 Td (happened) Tj
+ 4.600 0 Td (in) Tj
+ 1.080 0 Td (the) Tj
+ 1.560 0 Td (past.) Tj
+ 2.340 0 Td (It) Tj
+ 0.840 0 Td (is) Tj
+ 0.920 0 Td (the) Tj
+ 1.560 0 Td (theory---the) Tj
+ -33.740 -1.760 Td (underlying) Tj
+ 5.180 0 Td (model---that) Tj
+ 5.760 0 Td (allows) Tj
+ 3.140 0 Td (us) Tj
+ 1.260 0 Td (to) Tj
+ 1.120 0 Td (extrapolate.) Tj
+/F3 1 Tf
+ -16.460 -2.620 Td (Theory) Tj
+ 3.080 0 Td (tells) Tj
+ 1.900 0 Td (what) Tj
+ 2.240 0 Td (parameters) Tj
+ 4.680 0 Td (are) Tj
+ 1.460 0 Td (important) Tj
+ 4.300 0 Td (and) Tj
+ 1.740 0 Td (how) Tj
+ 1.900 0 Td (we) Tj
+ 1.360 0 Td (might) Tj
+ 2.640 0 Td (measure) Tj
+ 3.560 0 Td (them.) Tj
+/F2 1 Tf
+ -28.860 -2.200 Td (The) Tj
+ 2.040 0 Td (Laffer) Tj
+ 3.000 0 Td (curve) Tj
+ 2.840 0 Td (depicts) Tj
+ 3.520 0 Td (the) Tj
+ 1.740 0 Td (relationship) Tj
+ 5.660 0 Td (between) Tj
+ 4.080 0 Td (tax) Tj
+ 1.700 0 Td (rates) Tj
+ 2.480 0 Td (and) Tj
+ 2.040 0 Td (tax) Tj
+ 1.700 0 Td (revenue.) Tj
+ 4.420 0 Td (At) Tj
+ 1.460 0 Td (some) Tj
+ -36.680 -1.740 Td (tax) Tj
+ 1.720 0 Td (rates) Tj
+ 2.520 0 Td (tax) Tj
+ 1.720 0 Td (revenue) Tj
+ 3.960 0 Td (decreases) Tj
+ 4.600 0 Td (when) Tj
+ 2.860 0 Td (the) Tj
+ 1.780 0 Td (tax) Tj
+ 1.720 0 Td (rate) Tj
+ 2.080 0 Td (increases.) Tj
+ 4.920 0 Td (It) Tj
+ 1.040 0 Td (has) Tj
+ 1.900 0 Td (been) Tj
+ 2.480 0 Td (said) Tj
+ 2.200 0 Td (that) Tj
+ 2.120 0 Td (the) Tj
+ -37.620 -1.760 Td (popularity) Tj
+ 4.960 0 Td (of) Tj
+ 1.140 0 Td (the) Tj
+ 1.640 0 Td (Laffer) Tj
+ 2.900 0 Td (curve) Tj
+ 2.740 0 Td (is) Tj
+ 0.980 0 Td (due) Tj
+ 1.940 0 Td (to) Tj
+ 1.140 0 Td (the) Tj
+ 1.640 0 Td (fact) Tj
+ 1.860 0 Td (that) Tj
+ 1.980 0 Td (you) Tj
+ 1.960 0 Td (can) Tj
+ 1.780 0 Td (explain) Tj
+ 3.520 0 Td (it) Tj
+ 0.880 0 Td (to) Tj
+ 1.120 0 Td (a) Tj
+ 0.760 0 Td (Congressman) Tj
+ -32.940 -1.740 Td (in) Tj
+ 1.120 0 Td (six) Tj
+ 1.480 0 Td (minutes) Tj
+ 3.820 0 Td (and) Tj
+ 1.940 0 Td (he) Tj
+ 1.300 0 Td (can) Tj
+ 1.760 0 Td (talk) Tj
+ 1.920 0 Td (about) Tj
+ 2.780 0 Td (it) Tj
+ 0.860 0 Td (for) Tj
+ 1.520 0 Td (six) Tj
+ 1.480 0 Td (months.) Tj
+ -18.480 -1.760 Td (The) Tj
+ 1.880 0 Td (Laffer) Tj
+ 2.840 0 Td (analysis) Tj
+ 3.780 0 Td (demonstrates) Tj
+ 6.160 0 Td (both) Tj
+ 2.220 0 Td (good) Tj
+ 2.460 0 Td (and) Tj
+ 1.900 0 Td (bad) Tj
+ 1.860 0 Td (economic) Tj
+ 4.420 0 Td (theory.) Tj
+ 3.360 0 Td (The) Tj
+ 1.880 0 Td (bad) Tj
+ 1.860 0 Td (theory) Tj
+ -36.120 -1.760 Td (is) Tj
+ 1 0 Td (that) Tj
+ 2.000 0 Td (inference) Tj
+ 4.340 0 Td (that) Tj
+ 2 0 Td (because) Tj
+ 3.760 0 Td (the) Tj
+ 1.660 0 Td (Laffer) Tj
+ 2.920 0 Td (effect) Tj
+/F3 1 Tf
+ 2.660 0 Td (can) Tj
+/F2 1 Tf
+ 1.700 0 Td (occur) Tj
+ 2.700 0 Td (it) Tj
+/F3 1 Tf
+ 0.900 0 Td (does) Tj
+/F2 1 Tf
+ 2 0 Td (occur.) Tj
+ 3.020 0 Td (The) Tj
+ 1.940 0 Td (good) Tj
+ 2.540 0 Td (theory) Tj
+ 3.140 0 Td (is) Tj
+ -38.280 -1.740 Td (that) Tj
+ 2.020 0 Td (we) Tj
+ 1.600 0 Td (can) Tj
+ 1.820 0 Td (use) Tj
+ 1.780 0 Td (simple) Tj
+ 3.260 0 Td (supply) Tj
+ 3.360 0 Td (and) Tj
+ 1.980 0 Td (demand) Tj
+ 3.940 0 Td (analysis) Tj
+ 3.840 0 Td (to) Tj
+ 1.160 0 Td (determine) Tj
+ 4.800 0 Td (what) Tj
+ 2.540 0 Td (magnitudes) Tj
+ 5.520 0 Td (the) Tj
+ -37.620 -1.760 Td (elasticity) Tj
+ 4.220 0 Td (parameters) Tj
+ 5.280 0 Td (have) Tj
+ 2.420 0 Td (to) Tj
+ 1.180 0 Td (be) Tj
+ 1.320 0 Td (for) Tj
+ 1.580 0 Td (the) Tj
+ 1.700 0 Td (Laffer) Tj
+ 2.940 0 Td (effect) Tj
+ 2.700 0 Td (to) Tj
+ 1.160 0 Td (occur.) Tj
+ 3.100 0 Td (We) Tj
+ 1.780 0 Td (can) Tj
+ 1.820 0 Td (then) Tj
+ 2.280 0 Td (compare) Tj
+ 4.140 0 Td (the) Tj
+ -37.620 -1.760 Td (magnitudes) Tj
+ 5.480 0 Td (of) Tj
+ 1.120 0 Td (estimated) Tj
+ 4.560 0 Td (elasticities) Tj
+ 4.800 0 Td (to) Tj
+ 1.100 0 Td (estimated) Tj
+ 4.560 0 Td (labor) Tj
+ 2.520 0 Td (supply) Tj
+ 3.320 0 Td (elasticities.) Tj
+ 5.040 0 Td (In) Tj
+ 1.160 0 Td (the) Tj
+ 1.640 0 Td (simplest) Tj
+ -35.300 -1.740 Td (model) Tj
+ 3.100 0 Td (a) Tj
+ 0.780 0 Td (marginal) Tj
+ 4.280 0 Td (tax) Tj
+ 1.640 0 Td (rate) Tj
+ 1.980 0 Td (of) Tj
+ 1.160 0 Td (50%) Tj
+ 2.140 0 Td (requires) Tj
+ 3.900 0 Td (a) Tj
+ 0.800 0 Td (labor) Tj
+ 2.560 0 Td (supply) Tj
+ 3.360 0 Td (elasticity) Tj
+ 4.200 0 Td (of) Tj
+ 1.180 0 Td (1) Tj
+ 0.800 0 Td (to) Tj
+ 1.160 0 Td (get) Tj
+ 1.640 0 Td (the) Tj
+ 1.680 0 Td (Laffer) Tj
+ -36.360 -1.760 Td (effect.) Tj
+ 3.340 0 Td (The) Tj
+ 2.060 0 Td (theory) Tj
+ 3.280 0 Td (tells) Tj
+ 2.200 0 Td (us) Tj
+ 1.420 0 Td (what) Tj
+ 2.620 0 Td (the) Tj
+ 1.780 0 Td (relevant) Tj
+ 4.020 0 Td (parameters) Tj
+ 5.360 0 Td (are;) Tj
+ 2.080 0 Td (without) Tj
+ 3.900 0 Td (the) Tj
+ 1.780 0 Td (theory,) Tj
+ 3.560 0 Td (one) Tj
+ -37.400 -1.740 Td (would) Tj
+ 3.200 0 Td (have) Tj
+ 2.460 0 Td (no) Tj
+ 1.440 0 Td (idea) Tj
+ 2.220 0 Td (of) Tj
+ 1.200 0 Td (the) Tj
+ 1.720 0 Td (relevant) Tj
+ 3.920 0 Td (parameters) Tj
+ 5.300 0 Td (are.) Tj
+ 2.120 0 Td (Indeed,) Tj
+ 3.680 0 Td (if) Tj
+ 0.960 0 Td (one) Tj
+ 1.940 0 Td (examines) Tj
+ 4.460 0 Td (the) Tj
+ 1.720 0 Td (rather) Tj
+ -36.340 -1.760 Td (sordid) Tj
+ 3.280 0 Td (history) Tj
+ 3.500 0 Td (of) Tj
+ 1.300 0 Td (the) Tj
+ 1.780 0 Td (use) Tj
+ 1.900 0 Td (of) Tj
+ 1.280 0 Td (the) Tj
+ 1.800 0 Td (Laffer) Tj
+ 3.040 0 Td (curve) Tj
+ 2.880 0 Td (in) Tj
+ 1.280 0 Td (public) Tj
+ 3.180 0 Td (policy) Tj
+ 3.120 0 Td (debates) Tj
+ 3.780 0 Td (in) Tj
+ 1.280 0 Td (the) Tj
+ 1.780 0 Td (U.S.) Tj
+ 2.200 0 Td (this) Tj
+ -37.380 -1.760 Td (becomes) Tj
+ 4.040 0 Td (painfully) Tj
+ 4.280 0 Td (clear.) Tj
+ -6.820 -1.740 Td (For) Tj
+ 1.840 0 Td (another) Tj
+ 3.760 0 Td (example,) Tj
+ 4.360 0 Td (consider) Tj
+ 4.100 0 Td (the) Tj
+ 1.740 0 Td (theory) Tj
+ 3.240 0 Td (of) Tj
+ 1.220 0 Td (investment) Tj
+ 5.280 0 Td (in) Tj
+ 1.220 0 Td (risky) Tj
+ 2.560 0 Td (assets.) Tj
+ 3.400 0 Td (I) Tj
+ 0.680 0 Td (take) Tj
+ 2.220 0 Td (it) Tj
+ 0.960 0 Td (as) Tj
+ -38.080 -1.760 Td (given) Tj
+ 2.700 0 Td (that) Tj
+ 1.980 0 Td (risk) Tj
+ 1.900 0 Td (is) Tj
+ 0.960 0 Td (a) Tj
+ 0.760 0 Td (``bad.'') Tj
+ 3.260 0 Td (Therefore) Tj
+ 4.520 0 Td (when) Tj
+ 2.720 0 Td (wealth) Tj
+ 3.240 0 Td (goes) Tj
+ 2.240 0 Td (up,) Tj
+ 1.700 0 Td (people) Tj
+ 3.240 0 Td (may) Tj
+ 2.180 0 Td (want) Tj
+ 2.480 0 Td (to) Tj
+ 1.100 0 Td (purchase) Tj
+ -34.980 -1.760 Td (less) Tj
+ 1.900 0 Td (of) Tj
+ 1.160 0 Td (it.) Tj
+ 1.220 0 Td (On) Tj
+ 1.660 0 Td (other) Tj
+ 2.600 0 Td (hand,) Tj
+ 2.820 0 Td (you) Tj
+ 1.980 0 Td (can) Tj
+ 1.800 0 Td (afford) Tj
+ 3.000 0 Td (to) Tj
+ 1.160 0 Td (bear) Tj
+ 2.200 0 Td (more) Tj
+ 2.580 0 Td (risk) Tj
+ 1.940 0 Td (when) Tj
+ 2.760 0 Td (you) Tj
+ 1.980 0 Td (have) Tj
+ 2.400 0 Td (more) Tj
+ 2.600 0 Td (wealth.) Tj
+ -35.760 -1.740 Td (So) Tj
+ 1.400 0 Td (an) Tj
+ 1.400 0 Td (argument) Tj
+ 4.620 0 Td (based) Tj
+ 2.880 0 Td (on) Tj
+ 1.460 0 Td (intuition) Tj
+ 4.140 0 Td (alone) Tj
+ 2.720 0 Td (shows) Tj
+ 3.120 0 Td (that) Tj
+ 2.060 0 Td (investment) Tj
+ 5.240 0 Td (in) Tj
+ 1.180 0 Td (a) Tj
+ 0.840 0 Td (risky) Tj
+ 2.520 0 Td (asset) Tj
+ 2.480 0 Td (can) Tj
+ 1.840 0 Td (go) Tj
+ -37.900 -1.760 Td (up) Tj
+ 1.560 0 Td (or) Tj
+ 1.300 0 Td (down) Tj
+ 2.920 0 Td (when) Tj
+ 2.840 0 Td (wealth) Tj
+ 3.360 0 Td (increases.) Tj
+ 4.840 0 Td (A) Tj
+ 1.120 0 Td (systematic) Tj
+ 5 0 Td (theoretical) Tj
+ 5.000 0 Td (analysis) Tj
+ 3.920 0 Td (shows) Tj
+ 3.160 0 Td (what) Tj
+ 2.600 0 Td (the) Tj
+ -37.620 -1.760 Td (comparative) Tj
+ 5.780 0 Td (statics) Tj
+ 2.980 0 Td (sign) Tj
+ 2.100 0 Td (depends) Tj
+ 4.040 0 Td (on:) Tj
+ 1.660 0 Td (how) Tj
+ 2.200 0 Td (risk) Tj
+ 1.940 0 Td (aversion) Tj
+ 4.020 0 Td (changes) Tj
+ 3.820 0 Td (with) Tj
+ 2.280 0 Td (wealth.) Tj
+ 3.540 0 Td (So) Tj
+ 1.340 0 Td (the) Tj
+ 1.640 0 Td (risk) Tj
+ -37.340 -1.740 Td (aversion) Tj
+ 4 0 Td (parameter) Tj
+ 4.780 0 Td (is) Tj
+ 0.940 0 Td (the) Tj
+ 1.600 0 Td (one) Tj
+ 1.840 0 Td (you) Tj
+ 1.920 0 Td (want) Tj
+ 2.480 0 Td (to) Tj
+ 1.100 0 Td (estimate) Tj
+ 3.920 0 Td (in) Tj
+ 1.100 0 Td (order) Tj
+ 2.640 0 Td (to) Tj
+ 1.100 0 Td (predict) Tj
+ 3.380 0 Td (how) Tj
+ 2.180 0 Td (investment) Tj
+ 5.160 0 Td (in) Tj
+ -38.140 -1.760 Td (risky) Tj
+ 2.500 0 Td (assets) Tj
+ 2.840 0 Td (changes) Tj
+ 3.840 0 Td (with) Tj
+ 2.300 0 Td (wealth.) Tj
+ 3.580 0 Td (Conversely) Tj
+ 5.280 0 Td (how) Tj
+ 2.240 0 Td (investment) Tj
+ 5.200 0 Td (changes) Tj
+ 3.840 0 Td (with) Tj
+ 2.300 0 Td (wealth) Tj
+ 3.280 0 Td (tells) Tj
+ -37.200 -1.740 Td (you) Tj
+ 1.940 0 Td (something) Tj
+ 4.900 0 Td (about) Tj
+ 2.780 0 Td (how) Tj
+ 2.200 0 Td (risk) Tj
+ 1.900 0 Td (aversion) Tj
+ 4.020 0 Td (changes) Tj
+ 3.800 0 Td (with) Tj
+ 2.280 0 Td (wealth.) Tj
+ -4.560 -2.680 Td (4) Tj
+ET
+Q
+endstream
+endobj
+15 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources << /Font << /F3 32 0 R /F2 29 0 R >> /ProcSet 4 0 R >>
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 56 0 R
+>>
+stream
+q
+Q q
+BT
+/F3 1 Tf
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 6 59 Td (Theory) Tj
+ 3.080 0 Td (helps) Tj
+ 2.280 0 Td (keep) Tj
+ 1.980 0 Td (track) Tj
+ 2.260 0 Td (of) Tj
+ 0.960 0 Td (benefits) Tj
+ 3.320 0 Td (and) Tj
+ 1.740 0 Td (costs) Tj
+/F2 1 Tf
+ -15.620 -2.580 Td (I) Tj
+ 0.780 0 Td (indicated) Tj
+ 4.580 0 Td (above) Tj
+ 3.080 0 Td (that) Tj
+ 2.180 0 Td (the) Tj
+ 1.840 0 Td (sorts) Tj
+ 2.560 0 Td (of) Tj
+ 1.340 0 Td (optimizing) Tj
+ 5.300 0 Td (models) Tj
+ 3.680 0 Td (used) Tj
+ 2.560 0 Td (by) Tj
+ 1.560 0 Td (economists) Tj
+ 5.380 0 Td (serve) Tj
+ 2.780 0 Td (the) Tj
+ -37.620 -1.820 Td (purpose) Tj
+ 3.940 0 Td (of) Tj
+ 1.200 0 Td (providing) Tj
+ 4.740 0 Td (guidance) Tj
+ 4.360 0 Td (for) Tj
+ 1.580 0 Td (policy) Tj
+ 3.040 0 Td (choices.) Tj
+ 3.880 0 Td (Indeed) Tj
+ 3.400 0 Td (one) Tj
+ 1.920 0 Td (of) Tj
+ 1.180 0 Td (the) Tj
+ 1.700 0 Td (important) Tj
+ 4.740 0 Td (roles) Tj
+ 2.440 0 Td (of) Tj
+ -38.120 -1.820 Td (economic) Tj
+ 4.500 0 Td (theory) Tj
+ 3.180 0 Td (is) Tj
+ 1 0 Td (to) Tj
+ 1.180 0 Td (keep) Tj
+ 2.400 0 Td (track) Tj
+ 2.500 0 Td (of) Tj
+ 1.180 0 Td (benefits) Tj
+ 3.760 0 Td (and) Tj
+ 1.980 0 Td (costs.) Tj
+ 2.800 0 Td (The) Tj
+ 1.980 0 Td (idea) Tj
+ 2.160 0 Td (of) Tj
+ 1.180 0 Td (opportunity) Tj
+ 5.660 0 Td (cost) Tj
+ 2.040 0 Td (is) Tj
+ 1.000 0 Td (a) Tj
+ -38.500 -1.820 Td (fundamental) Tj
+ 5.960 0 Td (one) Tj
+ 1.900 0 Td (in) Tj
+ 1.180 0 Td (economics,) Tj
+ 5.180 0 Td (and) Tj
+ 1.980 0 Td (would) Tj
+ 3.180 0 Td (be) Tj
+ 1.320 0 Td (very) Tj
+ 2.300 0 Td (difficult) Tj
+ 3.800 0 Td (to) Tj
+ 1.160 0 Td (use) Tj
+ 1.800 0 Td (without) Tj
+ 3.800 0 Td (a) Tj
+ 0.800 0 Td (theoretical) Tj
+ -34.360 -1.820 Td (model) Tj
+ 3.040 0 Td (of) Tj
+ 1.140 0 Td (economic) Tj
+ 4.440 0 Td (linkages.) Tj
+ -7.120 -1.880 Td (This) Tj
+ 2.080 0 Td (brings) Tj
+ 2.960 0 Td (up) Tj
+ 1.380 0 Td (the) Tj
+ 1.580 0 Td (important) Tj
+ 4.600 0 Td (point) Tj
+ 2.520 0 Td (that) Tj
+ 1.900 0 Td (the) Tj
+ 1.580 0 Td (correct) Tj
+ 3.180 0 Td (way) Tj
+ 2.080 0 Td (to) Tj
+ 1.040 0 Td (measure) Tj
+ 3.940 0 Td (an) Tj
+ 1.240 0 Td (economic) Tj
+ 4.380 0 Td (benefit) Tj
+ -35.960 -1.820 Td (or) Tj
+ 1.200 0 Td (cost) Tj
+ 2 0 Td (can) Tj
+ 1.780 0 Td (only) Tj
+ 2.220 0 Td (be) Tj
+ 1.280 0 Td (determined) Tj
+ 5.380 0 Td (in) Tj
+ 1.140 0 Td (light) Tj
+ 2.300 0 Td (of) Tj
+ 1.120 0 Td (a) Tj
+ 0.760 0 Td (theoretical) Tj
+ 4.900 0 Td (model) Tj
+ 3.060 0 Td (of) Tj
+ 1.140 0 Td (choice:) Tj
+ 3.300 0 Td (a) Tj
+ 0.760 0 Td (specification) Tj
+ 5.780 0 Td (of) Tj
+ -38.120 -1.820 Td (what) Tj
+ 2.480 0 Td (objectives) Tj
+ 4.580 0 Td (and) Tj
+ 1.940 0 Td (the) Tj
+ 1.620 0 Td (constraints) Tj
+ 5.080 0 Td (facing) Tj
+ 2.940 0 Td (an) Tj
+ 1.320 0 Td (economic) Tj
+ 4.460 0 Td (agent.) Tj
+ -22.920 -1.880 Td (Consider) Tj
+ 4.300 0 Td (for) Tj
+ 1.560 0 Td (example,) Tj
+ 4.300 0 Td (the) Tj
+ 1.660 0 Td (practice) Tj
+ 3.760 0 Td (of) Tj
+ 1.180 0 Td (computing) Tj
+ 5.100 0 Td (present) Tj
+ 3.560 0 Td (value) Tj
+ 2.720 0 Td (or) Tj
+ 1.220 0 Td (risk) Tj
+ 1.960 0 Td (adjusted) Tj
+ 4.060 0 Td (rates) Tj
+ -36.880 -1.820 Td (of) Tj
+ 1.100 0 Td (return.) Tj
+ 3.260 0 Td (These) Tj
+ 2.800 0 Td (computations) Tj
+ 6.280 0 Td (are) Tj
+ 1.580 0 Td (only) Tj
+ 2.200 0 Td (meaningful) Tj
+ 5.320 0 Td (in) Tj
+ 1.080 0 Td (light) Tj
+ 2.280 0 Td (of) Tj
+ 1.100 0 Td (a) Tj
+ 0.720 0 Td (model) Tj
+ 3.020 0 Td (of) Tj
+ 1.120 0 Td (choice) Tj
+ 3 0 Td (behavior.) Tj
+ -34.860 -1.820 Td (If) Tj
+ 0.920 0 Td (the) Tj
+ 1.620 0 Td (model) Tj
+ 3.060 0 Td (of) Tj
+ 1.120 0 Td (behavior) Tj
+ 4.140 0 Td (does) Tj
+ 2.300 0 Td (not) Tj
+ 1.700 0 Td (apply,) Tj
+ 3.040 0 Td (the) Tj
+ 1.640 0 Td (policy) Tj
+ 2.960 0 Td (prescription) Tj
+ 5.600 0 Td (cannot) Tj
+ 3.220 0 Td (apply) Tj
+ 2.800 0 Td (either.) Tj
+ -32.620 -1.880 Td (Benefit-cost) Tj
+ 5.420 0 Td (analysis) Tj
+ 3.800 0 Td (is) Tj
+ 0.980 0 Td (only) Tj
+ 2.220 0 Td (one) Tj
+ 1.880 0 Td (small) Tj
+ 2.640 0 Td (field) Tj
+ 2.260 0 Td (of) Tj
+ 1.120 0 Td (economics.) Tj
+ 5.160 0 Td (But) Tj
+ 1.800 0 Td (the) Tj
+/F3 1 Tf
+ 1.640 0 Td (idea) Tj
+/F2 1 Tf
+ 1.860 0 Td (behind) Tj
+ 3.360 0 Td (benefit-) Tj
+ -35.640 -1.820 Td (cost) Tj
+ 2.180 0 Td (analysis) Tj
+ 4.020 0 Td (permeates) Tj
+ 5.000 0 Td (all) Tj
+ 1.520 0 Td (of) Tj
+ 1.320 0 Td (economics.) Tj
+ 5.740 0 Td (If) Tj
+ 1.120 0 Td (economic) Tj
+ 4.640 0 Td (agents) Tj
+ 3.320 0 Td (are) Tj
+ 1.820 0 Td (making) Tj
+ 3.800 0 Td (choices) Tj
+ 3.660 0 Td (to) Tj
+ -38.140 -1.820 Td (maximize) Tj
+ 4.640 0 Td (something,) Tj
+ 5.220 0 Td (then) Tj
+ 2.260 0 Td (we) Tj
+ 1.620 0 Td (can) Tj
+ 1.820 0 Td (get) Tj
+ 1.660 0 Td (an) Tj
+ 1.380 0 Td (idea) Tj
+ 2.180 0 Td (of) Tj
+ 1.200 0 Td (what) Tj
+ 2.540 0 Td (is) Tj
+ 1 0 Td (being) Tj
+ 2.760 0 Td (optimized) Tj
+ 4.820 0 Td (by) Tj
+ 1.420 0 Td (looking) Tj
+ 3.660 0 Td (at) Tj
+ -38.180 -1.820 Td (agents') Tj
+ 3.480 0 Td (choices.) Tj
+ 3.960 0 Td (This) Tj
+ 2.260 0 Td (objective) Tj
+ 4.240 0 Td (function) Tj
+ 4.040 0 Td (can) Tj
+ 1.860 0 Td (then) Tj
+ 2.300 0 Td (be) Tj
+ 1.360 0 Td (used) Tj
+ 2.460 0 Td (as) Tj
+ 1.260 0 Td (an) Tj
+ 1.420 0 Td (input) Tj
+ 2.740 0 Td (to) Tj
+ 1.200 0 Td (making) Tj
+ 3.700 0 Td (policy) Tj
+ -36.280 -1.820 Td (decisions.) Tj
+ 4.560 0 Td (In) Tj
+ 1.100 0 Td (some) Tj
+ 2.500 0 Td (cases,) Tj
+ 2.720 0 Td (one) Tj
+ 1.780 0 Td (may) Tj
+ 2.120 0 Td (need) Tj
+ 2.340 0 Td (a) Tj
+ 0.680 0 Td (quantitative) Tj
+ 5.520 0 Td (estimate) Tj
+ 3.880 0 Td (of) Tj
+ 1.060 0 Td (the) Tj
+ 1.560 0 Td (objective) Tj
+ 4.100 0 Td (function.) Tj
+ 4.160 0 Td (In) Tj
+ -38.080 -1.840 Td (other) Tj
+ 2.520 0 Td (cases,) Tj
+ 2.700 0 Td (one) Tj
+ 1.800 0 Td (may) Tj
+ 2.120 0 Td (want) Tj
+ 2.440 0 Td (to) Tj
+ 1.060 0 Td (show) Tj
+ 2.560 0 Td (that) Tj
+ 1.920 0 Td (one) Tj
+ 1.800 0 Td (kind) Tj
+ 2.220 0 Td (of) Tj
+ 1.080 0 Td (market) Tj
+ 3.320 0 Td (structure,) Tj
+ 4.440 0 Td (or) Tj
+ 1.120 0 Td (tax) Tj
+ 1.540 0 Td (structure,) Tj
+ 4.420 0 Td (may) Tj
+ -37.060 -1.820 Td (do) Tj
+ 1.400 0 Td (a) Tj
+ 0.760 0 Td (better) Tj
+ 2.800 0 Td (job) Tj
+ 1.580 0 Td (of) Tj
+ 1.140 0 Td (satisfying) Tj
+ 4.520 0 Td (consumers') Tj
+ 5.280 0 Td (objectives) Tj
+ 4.580 0 Td (than) Tj
+ 2.240 0 Td (another.) Tj
+ 3.920 0 Td (But) Tj
+ 1.780 0 Td (the) Tj
+ 1.640 0 Td (basic) Tj
+ 2.460 0 Td (framework) Tj
+ -34.100 -1.820 Td (of) Tj
+ 1.120 0 Td (moving) Tj
+ 3.660 0 Td (from) Tj
+ 2.400 0 Td (individual) Tj
+ 4.880 0 Td (objectives,) Tj
+ 4.820 0 Td (to) Tj
+ 1.120 0 Td (individual) Tj
+ 4.860 0 Td (choice,) Tj
+ 3.280 0 Td (to) Tj
+ 1.120 0 Td (social) Tj
+ 2.740 0 Td (objectives) Tj
+ 4.580 0 Td (and) Tj
+ 1.940 0 Td (social) Tj
+ -36.520 -1.820 Td (choice) Tj
+ 3.020 0 Td (is) Tj
+ 0.960 0 Td (common) Tj
+ 4.120 0 Td (to) Tj
+ 1.120 0 Td (many,) Tj
+ 3.020 0 Td (many) Tj
+ 2.760 0 Td (economic) Tj
+ 4.440 0 Td (studies.) Tj
+/F3 1 Tf
+ -19.440 -3.340 Td (Theory) Tj
+ 3.080 0 Td (helps) Tj
+ 2.280 0 Td (relate) Tj
+ 2.480 0 Td (seemingly) Tj
+ 4.280 0 Td (disparate) Tj
+ 3.900 0 Td (problems) Tj
+/F2 1 Tf
+ -16.020 -2.600 Td (If) Tj
+ 0.840 0 Td (one) Tj
+ 1.760 0 Td (describes) Tj
+ 4.240 0 Td (a) Tj
+ 0.660 0 Td (model) Tj
+ 2.940 0 Td (in) Tj
+ 1.020 0 Td (a) Tj
+ 0.660 0 Td (purely) Tj
+ 3.080 0 Td (mathematical) Tj
+ 6.120 0 Td (way,) Tj
+ 2.260 0 Td (it) Tj
+ 0.760 0 Td (often) Tj
+ 2.420 0 Td (happens) Tj
+ 3.920 0 Td (that) Tj
+ 1.880 0 Td (the) Tj
+ 1.540 0 Td (underlying) Tj
+ -34.100 -1.820 Td (equations) Tj
+ 4.640 0 Td (will) Tj
+ 2.040 0 Td (describe) Tj
+ 4.020 0 Td (a) Tj
+ 0.840 0 Td (rich) Tj
+ 2.040 0 Td (set) Tj
+ 1.580 0 Td (of) Tj
+ 1.220 0 Td (economic) Tj
+ 4.540 0 Td (phenomena.) Tj
+ 6.000 0 Td (The) Tj
+ 2.020 0 Td (classic) Tj
+ 3.140 0 Td (example) Tj
+ 4.080 0 Td (of) Tj
+ 1.220 0 Td (this) Tj
+ -37.380 -1.820 Td (phenomenon) Tj
+ 6.180 0 Td (is) Tj
+ 1.060 0 Td (the) Tj
+ 1.740 0 Td (Arrow-Debreu) Tj
+ 6.880 0 Td (general) Tj
+ 3.620 0 Td (equilibrium) Tj
+ 5.580 0 Td (model.) Tj
+ 3.580 0 Td (The) Tj
+ 2.020 0 Td (concept) Tj
+ 3.760 0 Td (of) Tj
+ 1.220 0 Td (``good'') Tj
+ -35.640 -1.820 Td (can) Tj
+ 1.920 0 Td (be) Tj
+ 1.440 0 Td (interpreted) Tj
+ 5.360 0 Td (as) Tj
+ 1.340 0 Td (a) Tj
+ 0.900 0 Td (physical) Tj
+ 4.080 0 Td (commodity) Tj
+ 5.480 0 Td (available) Tj
+ 4.360 0 Td (at) Tj
+ 1.240 0 Td (different) Tj
+ 4.220 0 Td (times,) Tj
+ 3.080 0 Td (locations,) Tj
+ 4.640 0 Td (or) Tj
+ -38.060 -1.820 Td (states) Tj
+ 2.840 0 Td (of) Tj
+ 1.240 0 Td (nature.) Tj
+ 3.740 0 Td (One) Tj
+ 2.200 0 Td (theoretical) Tj
+ 5.000 0 Td (model) Tj
+ 3.180 0 Td (can) Tj
+ 1.880 0 Td (thereby) Tj
+ 3.720 0 Td (provide) Tj
+ 3.860 0 Td (a) Tj
+ 0.860 0 Td (model) Tj
+ 3.160 0 Td (of) Tj
+ 1.240 0 Td (intertemporal) Tj
+ -32.920 -1.820 Td (trade,) Tj
+ 2.800 0 Td (location,) Tj
+ 4.020 0 Td (and) Tj
+ 1.920 0 Td (uncertainty.) Tj
+ 10.520 -2.400 Td (5) Tj
+ET
+Q
+endstream
+endobj
+17 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources << /Font << /F2 29 0 R /F3 32 0 R >> /ProcSet 4 0 R >>
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 57 0 R
+>>
+stream
+q
+Q q
+BT
+/F2 1 Tf
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 7.500 59.000 Td (Another) Tj
+ 4.160 0 Td (example) Tj
+ 4.200 0 Td (from) Tj
+ 2.640 0 Td (general) Tj
+ 3.760 0 Td (equilibrium) Tj
+ 5.700 0 Td (theory) Tj
+ 3.360 0 Td (is) Tj
+ 1.180 0 Td (the) Tj
+ 1.880 0 Td (First) Tj
+ 2.460 0 Td (Welfare) Tj
+ 3.940 0 Td (Theorem.) Tj
+ -34.780 -1.800 Td (This) Tj
+ 2.200 0 Td (result) Tj
+ 2.800 0 Td (shows) Tj
+ 3.100 0 Td (the) Tj
+ 1.660 0 Td (intimate) Tj
+ 3.960 0 Td (relationship) Tj
+ 5.580 0 Td (between) Tj
+ 4.020 0 Td (the) Tj
+ 1.680 0 Td (apparently) Tj
+ 5.100 0 Td (distinct) Tj
+ 3.580 0 Td (problems) Tj
+ 4.440 0 Td (of) Tj
+ -38.120 -1.800 Td (equilibrium) Tj
+ 5.460 0 Td (and) Tj
+ 1.940 0 Td (efficiency.) Tj
+ -5.900 -1.800 Td (A) Tj
+ 1.220 0 Td (third) Tj
+ 2.660 0 Td (example) Tj
+ 4.180 0 Td (is) Tj
+ 1.180 0 Td (that) Tj
+ 2.180 0 Td (a) Tj
+ 0.940 0 Td (formal) Tj
+ 3.400 0 Td (analysis) Tj
+ 4.000 0 Td (of) Tj
+ 1.340 0 Td (the) Tj
+ 1.840 0 Td (problem) Tj
+ 4.180 0 Td (of) Tj
+ 1.320 0 Td (second-degree) Tj
+ 6.860 0 Td (price) Tj
+ -36.800 -1.800 Td (discrimination) Tj
+ 6.660 0 Td (shows) Tj
+ 3.000 0 Td (that) Tj
+ 1.960 0 Td (it) Tj
+ 0.820 0 Td (is) Tj
+ 0.940 0 Td (equivalent) Tj
+ 4.880 0 Td (to) Tj
+ 1.080 0 Td (the) Tj
+ 1.600 0 Td (design) Tj
+ 3.140 0 Td (of) Tj
+ 1.100 0 Td (an) Tj
+ 1.300 0 Td (auction) Tj
+ 3.500 0 Td (or) Tj
+ 1.160 0 Td (the) Tj
+ 1.600 0 Td (determination) Tj
+ -32.740 -1.800 Td (of) Tj
+ 1.180 0 Td (optimal) Tj
+ 3.740 0 Td (provision) Tj
+ 4.520 0 Td (of) Tj
+ 1.180 0 Td (qualities.) Tj
+ 4.420 0 Td (Quality) Tj
+ 3.640 0 Td (discrimination,) Tj
+ 7.000 0 Td (auction) Tj
+ 3.600 0 Td (design,) Tj
+ 3.500 0 Td (and) Tj
+ 1.980 0 Td (nonlinear) Tj
+ -34.760 -1.800 Td (price) Tj
+ 2.460 0 Td (discrimination) Tj
+ 6.680 0 Td (are) Tj
+ 1.620 0 Td (essentially) Tj
+ 4.860 0 Td (the) Tj
+ 1.640 0 Td (same) Tj
+ 2.520 0 Td (sort) Tj
+ 1.940 0 Td (of) Tj
+ 1.120 0 Td (problem.) Tj
+ -21.340 -1.820 Td (Each) Tj
+ 2.660 0 Td (of) Tj
+ 1.400 0 Td (these) Tj
+ 2.820 0 Td (insights) Tj
+ 4 0 Td (came) Tj
+ 2.820 0 Td (from) Tj
+ 2.680 0 Td (examining) Tj
+ 5.200 0 Td (an) Tj
+ 1.600 0 Td (abstract) Tj
+ 4 0 Td (theory.) Tj
+ 4.220 0 Td (Once) Tj
+ 2.800 0 Td (the) Tj
+ 1.920 0 Td (the) Tj
+ -37.620 -1.780 Td (``irrelevant'') Tj
+ 5.840 0 Td (details) Tj
+ 3.360 0 Td (are) Tj
+ 1.820 0 Td (stripped) Tj
+ 4.180 0 Td (away,) Tj
+ 3.120 0 Td (its) Tj
+ 1.500 0 Td (becomes) Tj
+ 4.240 0 Td (apparent) Tj
+ 4.420 0 Td (that) Tj
+ 2.180 0 Td (the) Tj
+ 1.820 0 Td (same) Tj
+ 2.740 0 Td (essential) Tj
+ -35.220 -1.800 Td (choice) Tj
+ 3.020 0 Td (problem) Tj
+ 3.980 0 Td (is) Tj
+ 0.960 0 Td (involved.) Tj
+/F3 1 Tf
+ -7.960 -3.080 Td (Theory) Tj
+ 3.080 0 Td (can) Tj
+ 1.640 0 Td (generate) Tj
+ 3.620 0 Td (useful) Tj
+ 2.700 0 Td (insights) Tj
+/F2 1 Tf
+ -11.040 -2.420 Td (Let) Tj
+ 1.700 0 Td (me) Tj
+ 1.640 0 Td (illustrate) Tj
+ 4.200 0 Td (this) Tj
+ 1.920 0 Td (role) Tj
+ 1.980 0 Td (of) Tj
+ 1.160 0 Td (economic) Tj
+ 4.500 0 Td (theory) Tj
+ 3.160 0 Td (with) Tj
+ 2.320 0 Td (an) Tj
+ 1.360 0 Td (example.) Tj
+ 4.360 0 Td (In) Tj
+ 1.200 0 Td (the) Tj
+ 1.660 0 Td (U.S.) Tj
+ 2.100 0 Td (most) Tj
+ 2.460 0 Td (interest) Tj
+ -35.720 -1.800 Td (receipts) Tj
+ 3.660 0 Td (are) Tj
+ 1.620 0 Td (taxable) Tj
+ 3.380 0 Td (income,) Tj
+ 3.700 0 Td (but) Tj
+ 1.720 0 Td (many) Tj
+ 2.760 0 Td (kinds) Tj
+ 2.680 0 Td (of) Tj
+ 1.120 0 Td (interest) Tj
+ 3.540 0 Td (payments) Tj
+ 4.560 0 Td (are) Tj
+ 1.620 0 Td (tax) Tj
+ 1.580 0 Td (deductible.) Tj
+ 5.160 0 Td (This) Tj
+ -37.100 -1.800 Td (policy) Tj
+ 2.960 0 Td (has) Tj
+ 1.760 0 Td (been) Tj
+ 2.340 0 Td (criticized) Tj
+ 4.300 0 Td (as) Tj
+ 1.160 0 Td (``subsidizing) Tj
+ 5.920 0 Td (borrowing.'') Tj
+ 5.720 0 Td (Does) Tj
+ 2.480 0 Td (it?) Tj
+ -25.140 -1.800 Td (The) Tj
+ 1.900 0 Td (answer) Tj
+ 3.440 0 Td (depends) Tj
+ 4.000 0 Td (on) Tj
+ 1.380 0 Td (the) Tj
+ 1.620 0 Td (tax) Tj
+ 1.560 0 Td (brackets) Tj
+ 3.900 0 Td (of) Tj
+ 1.120 0 Td (the) Tj
+ 1.620 0 Td (marginal) Tj
+ 4.220 0 Td (borrowers) Tj
+ 4.780 0 Td (and) Tj
+ 1.940 0 Td (lenders.) Tj
+ 3.740 0 Td (If) Tj
+ 0.900 0 Td (the) Tj
+ -37.620 -1.800 Td (tax) Tj
+ 1.640 0 Td (brackets) Tj
+ 3.940 0 Td (are) Tj
+ 1.680 0 Td (the) Tj
+ 1.660 0 Td (same,) Tj
+ 2.840 0 Td (for) Tj
+ 1.560 0 Td (example,) Tj
+ 4.300 0 Td (the) Tj
+ 1.680 0 Td (policy) Tj
+ 3 0 Td (has) Tj
+ 1.800 0 Td (no) Tj
+ 1.420 0 Td (effect) Tj
+ 2.680 0 Td (at) Tj
+ 1.120 0 Td (all) Tj
+ 1.360 0 Td (on) Tj
+ 1.420 0 Td (the) Tj
+ 1.680 0 Td (equilibrium) Tj
+ -33.780 -1.800 Td (after-tax) Tj
+ 3.940 0 Td (interest) Tj
+ 3.540 0 Td (rate.) Tj
+ 2.200 0 Td (The) Tj
+ 1.920 0 Td (supply) Tj
+ 3.320 0 Td (curve) Tj
+ 2.720 0 Td (tilts) Tj
+ 1.900 0 Td (up) Tj
+ 1.460 0 Td (due) Tj
+ 1.920 0 Td (to) Tj
+ 1.120 0 Td (the) Tj
+ 1.640 0 Td (tax) Tj
+ 1.580 0 Td (on) Tj
+ 1.380 0 Td (interest) Tj
+ 3.540 0 Td (income,) Tj
+ 3.720 0 Td (but) Tj
+ 1.720 0 Td (the) Tj
+ -37.620 -1.800 Td (demand) Tj
+ 3.880 0 Td (curve) Tj
+ 2.720 0 Td (tilts) Tj
+ 1.880 0 Td (up) Tj
+ 1.440 0 Td (by) Tj
+ 1.340 0 Td (the) Tj
+ 1.620 0 Td (same) Tj
+ 2.520 0 Td (amount) Tj
+ 3.660 0 Td (due) Tj
+ 1.920 0 Td (to) Tj
+ 1.100 0 Td (the) Tj
+ 1.620 0 Td (subsidy) Tj
+ 3.680 0 Td (on) Tj
+ 1.360 0 Td (interest) Tj
+ 3.520 0 Td (payments.) Tj
+ 4.840 0 Td (This) Tj
+ -37.100 -1.800 Td (is) Tj
+ 1.020 0 Td (a) Tj
+ 0.820 0 Td (simple) Tj
+ 3.280 0 Td (insight,) Tj
+ 3.600 0 Td (but) Tj
+ 1.800 0 Td (it) Tj
+ 0.920 0 Td (would) Tj
+ 3.200 0 Td (be) Tj
+ 1.340 0 Td (very) Tj
+ 2.300 0 Td (difficult) Tj
+ 3.820 0 Td (to) Tj
+ 1.180 0 Td (understand) Tj
+ 5.420 0 Td (without) Tj
+ 3.800 0 Td (a) Tj
+ 0.820 0 Td (model) Tj
+ 3.100 0 Td (of) Tj
+ 1.200 0 Td (the) Tj
+ -37.620 -1.800 Td (functioning) Tj
+ 5.360 0 Td (of) Tj
+ 1.140 0 Td (the) Tj
+ 1.620 0 Td (market) Tj
+ 3.380 0 Td (for) Tj
+ 1.520 0 Td (loans.) Tj
+/F3 1 Tf
+ -13.020 -3.060 Td (A) Tj
+ 0.960 0 Td (theory) Tj
+ 2.800 0 Td (that) Tj
+ 1.860 0 Td (is) Tj
+ 0.900 0 Td (wrong) Tj
+ 2.860 0 Td (can) Tj
+ 1.660 0 Td (still) Tj
+ 1.780 0 Td (yield) Tj
+ 2.200 0 Td (insight) Tj
+/F2 1 Tf
+ -15.020 -2.440 Td (Pure) Tj
+ 2.280 0 Td (competition) Tj
+ 5.500 0 Td (is) Tj
+ 0.920 0 Td (certainly) Tj
+ 4.040 0 Td (a) Tj
+ 0.700 0 Td (``wrong'') Tj
+ 4.220 0 Td (theory) Tj
+ 3.080 0 Td (many) Tj
+ 2.720 0 Td (markets;) Tj
+ 4 0 Td (pure) Tj
+ 2.280 0 Td (monopoly) Tj
+ 4.740 0 Td (is) Tj
+ 0.920 0 Td (a) Tj
+ 0.700 0 Td (wrong) Tj
+ -36.100 -1.800 Td (theory) Tj
+ 3.300 0 Td (for) Tj
+ 1.700 0 Td (other) Tj
+ 2.740 0 Td (markets.) Tj
+ 4.600 0 Td (But) Tj
+ 1.960 0 Td (each) Tj
+ 2.420 0 Td (of) Tj
+ 1.320 0 Td (these) Tj
+ 2.700 0 Td (theories) Tj
+ 3.940 0 Td (can) Tj
+ 1.960 0 Td (be) Tj
+ 1.440 0 Td (very) Tj
+ 2.420 0 Td (useful) Tj
+ 3.160 0 Td (for) Tj
+ 1.700 0 Td (yielding) Tj
+ -35.360 -1.800 Td (significant) Tj
+ 4.840 0 Td (insights) Tj
+ 3.700 0 Td (for) Tj
+ 1.500 0 Td (how) Tj
+ 2.180 0 Td (a) Tj
+ 0.720 0 Td (particular) Tj
+ 4.580 0 Td (market) Tj
+ 3.360 0 Td (functions.) Tj
+ 4.600 0 Td (No) Tj
+ 1.600 0 Td (theory) Tj
+ 3.100 0 Td (in) Tj
+ 1.120 0 Td (economics) Tj
+ 4.840 0 Td (is) Tj
+ 0.940 0 Td (ever) Tj
+ -37.080 -1.800 Td (exactly) Tj
+ 3.360 0 Td (true.) Tj
+ 2.320 0 Td (The) Tj
+ 1.920 0 Td (important) Tj
+ 4.680 0 Td (question) Tj
+ 4.060 0 Td (is) Tj
+ 0.960 0 Td (not) Tj
+ 1.720 0 Td (whether) Tj
+ 3.920 0 Td (or) Tj
+ 1.180 0 Td (not) Tj
+ 1.700 0 Td (a) Tj
+ 0.760 0 Td (theory) Tj
+ 3.140 0 Td (is) Tj
+ 0.960 0 Td (true) Tj
+ 2.060 0 Td (but) Tj
+ 1.720 0 Td (whether) Tj
+ 3.920 0 Td (it) Tj
+ -38.380 -1.800 Td (offers) Tj
+ 2.740 0 Td (a) Tj
+ 0.760 0 Td (useful) Tj
+ 2.960 0 Td (insight) Tj
+ 3.300 0 Td (in) Tj
+ 1.120 0 Td (explaining) Tj
+ 4.920 0 Td (an) Tj
+ 1.320 0 Td (economic) Tj
+ 4.460 0 Td (phenomenon.) Tj
+ -20.080 -1.800 Td (In) Tj
+ 1.400 0 Td (my) Tj
+ 1.920 0 Td (undergraduate) Tj
+ 7.100 0 Td (textbook) Tj
+ 4.320 0 Td (I) Tj
+ 0.820 0 Td (examine) Tj
+ 4.200 0 Td (a) Tj
+ 0.980 0 Td (very) Tj
+ 2.480 0 Td (simple) Tj
+ 3.440 0 Td (model) Tj
+ 3.280 0 Td (of) Tj
+ 1.360 0 Td (conversion) Tj
+ 5.320 0 Td (of) Tj
+ -38.120 -1.800 Td (apartments) Tj
+ 5.320 0 Td (to) Tj
+ 1.180 0 Td (condominiums.) Tj
+ 7.380 0 Td (One) Tj
+ 2.160 0 Td (result) Tj
+ 2.820 0 Td (of) Tj
+ 1.200 0 Td (the) Tj
+ 1.700 0 Td (model) Tj
+ 3.120 0 Td (is) Tj
+ 1.040 0 Td (that) Tj
+ 2.040 0 Td (converting) Tj
+ 5.060 0 Td (an) Tj
+ 1.400 0 Td (apartment) Tj
+ -15.160 -2.400 Td (6) Tj
+ET
+Q
+endstream
+endobj
+19 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources << /Font << /F2 29 0 R /F3 32 0 R >> /ProcSet 4 0 R >>
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 58 0 R
+>>
+stream
+q
+Q q
+BT
+/F2 1 Tf
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 6 59 Td (to) Tj
+ 1.100 0 Td (a) Tj
+ 0.740 0 Td (condominium) Tj
+ 6.460 0 Td (has) Tj
+ 1.740 0 Td (no) Tj
+ 1.360 0 Td (effect) Tj
+ 2.600 0 Td (on) Tj
+ 1.360 0 Td (the) Tj
+ 1.620 0 Td (price) Tj
+ 2.440 0 Td (of) Tj
+ 1.100 0 Td (the) Tj
+ 1.620 0 Td (remaining) Tj
+ 4.780 0 Td (apartments---since) Tj
+ 8.420 0 Td (demand) Tj
+ -35.340 -1.760 Td (and) Tj
+ 1.940 0 Td (supply) Tj
+ 3.300 0 Td (each) Tj
+ 2.260 0 Td (contract) Tj
+ 3.800 0 Td (by) Tj
+ 1.340 0 Td (one) Tj
+ 1.860 0 Td (apartment.) Tj
+ -13.000 -1.760 Td (This) Tj
+ 2.240 0 Td (result) Tj
+ 2.840 0 Td (can) Tj
+ 1.860 0 Td (hardly) Tj
+ 3.260 0 Td (be) Tj
+ 1.380 0 Td (thought) Tj
+ 3.840 0 Td (of) Tj
+ 1.220 0 Td (as) Tj
+ 1.260 0 Td (literally) Tj
+ 3.740 0 Td (``true.'') Tj
+ 3.680 0 Td (There) Tj
+ 2.880 0 Td (are) Tj
+ 1.700 0 Td (a) Tj
+ 0.840 0 Td (host) Tj
+ 2.200 0 Td (of) Tj
+ 1.220 0 Td (reasons) Tj
+ -35.660 -1.780 Td (why) Tj
+ 2.280 0 Td (converting) Tj
+ 5.060 0 Td (an) Tj
+ 1.400 0 Td (apartment) Tj
+ 4.880 0 Td (to) Tj
+ 1.180 0 Td (a) Tj
+ 0.820 0 Td (condominium) Tj
+ 6.540 0 Td (might) Tj
+ 2.940 0 Td (influence) Tj
+ 4.380 0 Td (the) Tj
+ 1.700 0 Td (rent) Tj
+ 2.080 0 Td (of) Tj
+ 1.200 0 Td (remaining) Tj
+ -34.460 -1.760 Td (apartments.) Tj
+ 5.480 0 Td (Nevertheless,) Tj
+ 6.180 0 Td (it) Tj
+ 0.800 0 Td (focuses) Tj
+ 3.440 0 Td (our) Tj
+ 1.720 0 Td (attention) Tj
+ 4.140 0 Td (on) Tj
+ 1.300 0 Td (a) Tj
+ 0.700 0 Td (crucial) Tj
+ 3.140 0 Td (feature) Tj
+ 3.300 0 Td (of) Tj
+ 1.060 0 Td (such) Tj
+ 2.240 0 Td (conversions:) Tj
+ -33.500 -1.760 Td (they) Tj
+ 2.260 0 Td (affect) Tj
+ 2.740 0 Td (both) Tj
+ 2.340 0 Td (the) Tj
+ 1.720 0 Td (supply) Tj
+/F3 1 Tf
+ 3.380 0 Td (and) Tj
+ 1.840 0 Td (the) Tj
+ 1.540 0 Td (demand) Tj
+/F2 1 Tf
+ 3.500 0 Td (for) Tj
+ 1.600 0 Td (apartments.) Tj
+ 5.740 0 Td (The) Tj
+ 2 0 Td (simple) Tj
+ 3.300 0 Td (supply-demand) Tj
+ -31.960 -1.780 Td (framework) Tj
+ 5.140 0 Td (shows) Tj
+ 3.040 0 Td (us) Tj
+ 1.260 0 Td (how) Tj
+ 2.200 0 Td (to) Tj
+ 1.100 0 Td (start) Tj
+ 2.200 0 Td (thinking) Tj
+ 3.980 0 Td (about) Tj
+ 2.760 0 Td (the) Tj
+ 1.620 0 Td (impact) Tj
+ 3.280 0 Td (of) Tj
+ 1.100 0 Td (condominium) Tj
+ 6.480 0 Td (conversion) Tj
+ -34.160 -1.760 Td (on) Tj
+ 1.380 0 Td (apartment) Tj
+ 4.820 0 Td (prices.) Tj
+/F3 1 Tf
+ -6.200 -2.740 Td (Theory) Tj
+ 3.080 0 Td (provides) Tj
+ 3.620 0 Td (a) Tj
+ 0.680 0 Td (method) Tj
+ 3.200 0 Td (for) Tj
+ 1.340 0 Td (solving) Tj
+ 3.180 0 Td (problems) Tj
+/F2 1 Tf
+ -15.100 -2.260 Td (I) Tj
+ 0.820 0 Td (take) Tj
+ 2.360 0 Td (the) Tj
+ 1.880 0 Td (method) Tj
+ 3.900 0 Td (of) Tj
+ 1.380 0 Td (neoclassical) Tj
+ 5.680 0 Td (microeconomics) Tj
+ 7.660 0 Td (to) Tj
+ 1.380 0 Td (be) Tj
+ 1.520 0 Td (1\)) Tj
+ 1.320 0 Td (examine) Tj
+ 4.200 0 Td (an) Tj
+ 1.580 0 Td (individual's) Tj
+ -33.680 -1.780 Td (optimization) Tj
+ 6.080 0 Td (problem;) Tj
+ 4.480 0 Td (2\)) Tj
+ 1.260 0 Td (look) Tj
+ 2.340 0 Td (at) Tj
+ 1.240 0 Td (the) Tj
+ 1.820 0 Td (optimal) Tj
+ 3.840 0 Td (equilibrium) Tj
+ 5.640 0 Td (configuration) Tj
+ 6.380 0 Td (of) Tj
+ 1.300 0 Td (individual) Tj
+ -34.380 -1.760 Td (choices;) Tj
+ 3.700 0 Td (3\)) Tj
+ 1.080 0 Td (see) Tj
+ 1.620 0 Td (how) Tj
+ 2.200 0 Td (the) Tj
+ 1.640 0 Td (equilibrium) Tj
+ 5.460 0 Td (changes) Tj
+ 3.800 0 Td (as) Tj
+ 1.180 0 Td (policy) Tj
+ 2.960 0 Td (variables) Tj
+ 4.240 0 Td (change.) Tj
+ -26.380 -1.760 Td (This) Tj
+ 2.220 0 Td (methods) Tj
+ 4.180 0 Td (doesn't) Tj
+ 3.560 0 Td (always) Tj
+ 3.420 0 Td (work---the) Tj
+ 5.020 0 Td (models) Tj
+ 3.560 0 Td (of) Tj
+ 1.200 0 Td (behavior) Tj
+ 4.240 0 Td (or) Tj
+ 1.260 0 Td (equilibrium) Tj
+ 5.560 0 Td (may) Tj
+ 2.260 0 Td (be) Tj
+ -37.980 -1.780 Td (wrong.) Tj
+ 3.660 0 Td (Or) Tj
+ 1.520 0 Td (it) Tj
+ 0.940 0 Td (may) Tj
+ 2.280 0 Td (be) Tj
+ 1.360 0 Td (that) Tj
+ 2.060 0 Td (the) Tj
+ 1.720 0 Td (specific) Tj
+ 3.640 0 Td (phenomenon) Tj
+ 6.180 0 Td (under) Tj
+ 2.980 0 Td (examination) Tj
+ 5.820 0 Td (is) Tj
+ 1.040 0 Td (not) Tj
+ 1.800 0 Td (fruitfully) Tj
+ -35.000 -1.760 Td (viewed) Tj
+ 3.580 0 Td (as) Tj
+ 1.240 0 Td (an) Tj
+ 1.400 0 Td (outcome) Tj
+ 4.140 0 Td (of) Tj
+ 1.200 0 Td (optimizing,) Tj
+ 5.440 0 Td (and/or) Tj
+ 3.560 0 Td (equilibrium) Tj
+ 5.540 0 Td (behavior.) Tj
+ 4.620 0 Td (But) Tj
+ 1.860 0 Td (any) Tj
+ 1.960 0 Td (method) Tj
+ 3.740 0 Td (is) Tj
+ -38.280 -1.760 Td (better) Tj
+ 2.900 0 Td (than) Tj
+ 2.320 0 Td (none.) Tj
+ 2.960 0 Td (In) Tj
+ 1.260 0 Td (the) Tj
+ 1.740 0 Td (words) Tj
+ 3.140 0 Td (of) Tj
+ 1.220 0 Td (Roger) Tj
+ 2.980 0 Td (Bacon:) Tj
+ 3.360 0 Td (``More) Tj
+ 3.260 0 Td (truth) Tj
+ 2.560 0 Td (arises) Tj
+ 2.840 0 Td (through) Tj
+ 3.940 0 Td (error) Tj
+ 2.540 0 Td (than) Tj
+ -37.020 -1.780 Td (confusion.'') Tj
+ 1.500 -1.760 Td (Methodological) Tj
+ 7.240 0 Td (individuali) Tj
+ 4.860 0 Td (sm) Tj
+ 1.680 0 Td (is) Tj
+ 1.020 0 Td (a) Tj
+ 0.820 0 Td (limited) Tj
+ 3.480 0 Td (way) Tj
+ 2.200 0 Td (of) Tj
+ 1.200 0 Td (looking) Tj
+ 3.660 0 Td (at) Tj
+ 1.140 0 Td (the) Tj
+ 1.700 0 Td (world,) Tj
+ 3.260 0 Td (no) Tj
+ 1.440 0 Td (question) Tj
+ -35.200 -1.760 Td (about) Tj
+ 2.740 0 Td (it.) Tj
+ 1.120 0 Td (It) Tj
+ 0.880 0 Td (probably) Tj
+ 4.220 0 Td (doesn't) Tj
+ 3.460 0 Td (do) Tj
+ 1.380 0 Td (very) Tj
+ 2.220 0 Td (well) Tj
+ 2.100 0 Td (in) Tj
+ 1.100 0 Td (describing) Tj
+ 4.840 0 Td (phenomenon) Tj
+ 6.080 0 Td (such) Tj
+ 2.260 0 Td (as) Tj
+ 1.160 0 Td (riots) Tj
+ 2.200 0 Td (or) Tj
+ 1.160 0 Td (class) Tj
+ -36.920 -1.780 Td (loyalty.) Tj
+ 3.920 0 Td (Certainly) Tj
+ 4.480 0 Td (this) Tj
+ 1.980 0 Td (sort) Tj
+ 2.060 0 Td (of) Tj
+ 1.240 0 Td (individuali) Tj
+ 4.860 0 Td (sti) Tj
+ 1.040 0 Td (c) Tj
+ 0.860 0 Td (methodology) Tj
+ 6.280 0 Td (works) Tj
+ 3.120 0 Td (better) Tj
+ 2.920 0 Td (for) Tj
+ 1.640 0 Td (describing) Tj
+ -34.400 -1.760 Td (some) Tj
+ 2.580 0 Td (sorts) Tj
+ 2.340 0 Td (of) Tj
+ 1.140 0 Td (behavior) Tj
+ 4.140 0 Td (than) Tj
+ 2.240 0 Td (others.) Tj
+ 3.240 0 Td (But) Tj
+ 1.780 0 Td (it) Tj
+ 0.860 0 Td (is) Tj
+ 0.960 0 Td (likely) Tj
+ 2.700 0 Td (to) Tj
+ 1.120 0 Td (add) Tj
+ 1.960 0 Td (insight) Tj
+ 3.300 0 Td (to) Tj
+/F3 1 Tf
+ 1.120 0 Td (all) Tj
+/F2 1 Tf
+ 1.240 0 Td (problems.) Tj
+/F3 1 Tf
+ -30.720 -2.740 Td (Theory) Tj
+ 3.080 0 Td (is) Tj
+ 0.900 0 Td (an) Tj
+ 1.260 0 Td (antidote) Tj
+ 3.500 0 Td (to) Tj
+ 1.020 0 Td (introspection) Tj
+/F2 1 Tf
+ -9.760 -2.260 Td (Most) Tj
+ 2.480 0 Td (people) Tj
+ 3.240 0 Td (get) Tj
+ 1.600 0 Td (their) Tj
+ 2.320 0 Td (economic) Tj
+ 4.440 0 Td (beliefs) Tj
+ 3.100 0 Td (from) Tj
+ 2.400 0 Td (introspection) Tj
+ 6.060 0 Td (and) Tj
+ 1.940 0 Td (their) Tj
+ 2.300 0 Td (personal) Tj
+ 4.060 0 Td (experience-) Tj
+ -33.940 -1.760 Td (--the) Tj
+ 2.420 0 Td (same) Tj
+ 2.660 0 Td (place) Tj
+ 2.700 0 Td (that) Tj
+ 2.120 0 Td (they) Tj
+ 2.320 0 Td (get) Tj
+ 1.720 0 Td (their) Tj
+ 2.460 0 Td (beliefs) Tj
+ 3.220 0 Td (about) Tj
+ 2.900 0 Td (most) Tj
+ 2.560 0 Td (things.) Tj
+ 3.660 0 Td (Economic) Tj
+ 4.700 0 Td (theory---and) Tj
+ -33.440 -1.780 Td (indeed) Tj
+ 3.300 0 Td (science) Tj
+ 3.380 0 Td (in) Tj
+ 1.100 0 Td (general,) Tj
+ 3.780 0 Td (can) Tj
+ 1.760 0 Td (serve) Tj
+ 2.580 0 Td (as) Tj
+ 1.180 0 Td (an) Tj
+ 1.320 0 Td (antidote) Tj
+ 3.900 0 Td (to) Tj
+ 1.120 0 Td (this) Tj
+ 1.860 0 Td (kind) Tj
+ 2.280 0 Td (of) Tj
+ 1.140 0 Td (introspection.) Tj
+ -27.200 -1.760 Td (Consider,) Tj
+ 4.680 0 Td (for) Tj
+ 1.640 0 Td (example,) Tj
+ 4.380 0 Td (the) Tj
+ 1.760 0 Td (widely) Tj
+ 3.420 0 Td (held) Tj
+ 2.340 0 Td (belief) Tj
+ 2.800 0 Td (that) Tj
+ 2.100 0 Td (all) Tj
+ 1.440 0 Td (demand) Tj
+ 4.040 0 Td (curves) Tj
+ 3.260 0 Td (are) Tj
+ 1.760 0 Td (perfectly) Tj
+ -35.120 -1.760 Td (inelastic.) Tj
+ 4.280 0 Td (If) Tj
+ 0.960 0 Td (the) Tj
+ 1.700 0 Td (price) Tj
+ 2.500 0 Td (of) Tj
+ 1.180 0 Td (gasoline) Tj
+ 3.960 0 Td (increases) Tj
+ 4.300 0 Td (by) Tj
+ 1.420 0 Td (25%,) Tj
+ 2.400 0 Td (a) Tj
+ 0.800 0 Td (layman) Tj
+ 3.600 0 Td (will) Tj
+ 2.000 0 Td (argue) Tj
+ 2.840 0 Td (that) Tj
+ 2.020 0 Td (no) Tj
+ 1.440 0 Td (one) Tj
+ 1.900 0 Td (will) Tj
+ -37.300 -1.780 Td (change) Tj
+ 3.420 0 Td (their) Tj
+ 2.340 0 Td (demand) Tj
+ 3.940 0 Td (for) Tj
+ 1.560 0 Td (gasoline.) Tj
+ 4.260 0 Td (He) Tj
+ 1.580 0 Td (bases) Tj
+ 2.660 0 Td (this) Tj
+ 1.900 0 Td (argument) Tj
+ 4.600 0 Td (on) Tj
+ 1.400 0 Td (the) Tj
+ 1.660 0 Td (fact) Tj
+ 1.900 0 Td (that) Tj
+/F3 1 Tf
+ 2.000 0 Td (he) Tj
+/F2 1 Tf
+ 1.180 0 Td (would) Tj
+ 3.160 0 Td (not) Tj
+ -37.560 -1.760 Td (change) Tj
+ 3.380 0 Td (his) Tj
+ 1.540 0 Td (demand) Tj
+ 3.900 0 Td (for) Tj
+ 1.520 0 Td (gasoline.) Tj
+ 8.920 -2.400 Td (7) Tj
+ET
+Q
+endstream
+endobj
+21 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources << /Font << /F2 29 0 R /F3 32 0 R /F8 46 0 R >> /ProcSet 4 0 R >>
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 59 0 R
+>>
+stream
+q
+Q q
+BT
+/F2 1 Tf
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 7.500 59.000 Td (Indeed,) Tj
+ 3.740 0 Td (it) Tj
+ 0.980 0 Td (is) Tj
+ 1.100 0 Td (perfectly) Tj
+ 4.260 0 Td (possible) Tj
+ 3.980 0 Td (that) Tj
+/F3 1 Tf
+ 2.100 0 Td (most) Tj
+/F2 1 Tf
+ 2.300 0 Td (people) Tj
+ 3.360 0 Td (wouldn't) Tj
+ 4.440 0 Td (change) Tj
+ 3.500 0 Td (their) Tj
+ 2.440 0 Td (demand) Tj
+ 4.040 0 Td (for) Tj
+ -37.740 -1.840 Td (gasoline) Tj
+/F8 1 Tf
+ 3.640 0 Td (:) Tj
+ 0.440 0 Td (:) Tj
+ 0.440 0 Td (:) Tj
+/F2 1 Tf
+ 0.460 0 Td (but) Tj
+ 1.780 0 Td (some) Tj
+ 2.640 0 Td (would.) Tj
+ 3.560 0 Td (There) Tj
+ 2.840 0 Td (are) Tj
+ 1.680 0 Td (always) Tj
+ 3.400 0 Td (some) Tj
+ 2.640 0 Td (people) Tj
+ 3.300 0 Td (at) Tj
+ 1.120 0 Td (the) Tj
+ 1.700 0 Td (margin;) Tj
+ 3.780 0 Td (these) Tj
+ 2.600 0 Td (people) Tj
+ -36.020 -1.820 Td (would) Tj
+ 3.220 0 Td (change) Tj
+ 3.500 0 Td (their) Tj
+ 2.420 0 Td (demand.) Tj
+ 4.460 0 Td (At) Tj
+ 1.440 0 Td (any) Tj
+ 2.000 0 Td (one) Tj
+ 1.940 0 Td (time,) Tj
+ 2.600 0 Td (most) Tj
+ 2.540 0 Td (people) Tj
+ 3.340 0 Td (are) Tj
+ 1.720 0 Td (inframarginal) Tj
+ 6.420 0 Td (in) Tj
+ 1.220 0 Td (most) Tj
+ -36.820 -1.840 Td (of) Tj
+ 1.180 0 Td (their) Tj
+ 2.360 0 Td (economic) Tj
+ 4.480 0 Td (decisions.) Tj
+ 4.720 0 Td (The) Tj
+ 1.960 0 Td (marginal) Tj
+ 4.280 0 Td (decisions) Tj
+ 4.380 0 Td (are) Tj
+ 1.660 0 Td (the) Tj
+ 1.680 0 Td (ones) Tj
+ 2.320 0 Td (that) Tj
+ 2.020 0 Td (you) Tj
+ 2.000 0 Td (agonize) Tj
+ 3.740 0 Td (over.) Tj
+ -36.780 -1.840 Td (If) Tj
+ 1 0 Td (the) Tj
+ 1.720 0 Td (price) Tj
+ 2.520 0 Td (were) Tj
+ 2.520 0 Td (a) Tj
+ 0.820 0 Td (little) Tj
+ 2.340 0 Td (higher) Tj
+ 3.200 0 Td (or) Tj
+ 1.280 0 Td (a) Tj
+ 0.820 0 Td (little) Tj
+ 2.320 0 Td (lower,) Tj
+ 3.140 0 Td (the) Tj
+ 1.720 0 Td (results) Tj
+ 3.260 0 Td (of) Tj
+ 1.200 0 Td (your) Tj
+ 2.440 0 Td (agonizing) Tj
+ 4.720 0 Td (might) Tj
+ 2.960 0 Td (be) Tj
+ -37.980 -1.840 Td (different,) Tj
+ 4.320 0 Td (and) Tj
+ 1.920 0 Td (this) Tj
+ 1.880 0 Td (is) Tj
+ 0.960 0 Td (what) Tj
+ 2.480 0 Td (causes) Tj
+ 3.120 0 Td (the) Tj
+ 1.620 0 Td (aggregate) Tj
+ 4.580 0 Td (demand) Tj
+ 3.900 0 Td (curve) Tj
+ 2.720 0 Td (to) Tj
+ 1.120 0 Td (slope) Tj
+ 2.580 0 Td (downward.) Tj
+ -29.700 -1.920 Td (Another) Tj
+ 3.880 0 Td (nice) Tj
+ 2 0 Td (example) Tj
+ 3.960 0 Td (of) Tj
+ 1.080 0 Td (this) Tj
+ 1.840 0 Td (phenomenon) Tj
+ 6.040 0 Td (is) Tj
+ 0.920 0 Td (free) Tj
+ 1.900 0 Td (trade.) Tj
+ 2.800 0 Td (It's) Tj
+ 1.560 0 Td (hard) Tj
+ 2.300 0 Td (to) Tj
+ 1.080 0 Td (convince) Tj
+ 4.120 0 Td (a) Tj
+ 0.720 0 Td (layman) Tj
+ -35.700 -1.840 Td (of) Tj
+ 1.200 0 Td (the) Tj
+ 1.720 0 Td (advantages) Tj
+ 5.340 0 Td (of) Tj
+ 1.220 0 Td (free) Tj
+ 2 0 Td (trade) Tj
+ 2.640 0 Td (since) Tj
+ 2.540 0 Td (it) Tj
+ 0.940 0 Td (is) Tj
+ 1.040 0 Td (easy) Tj
+ 2.280 0 Td (to) Tj
+ 1.200 0 Td (see) Tj
+ 1.700 0 Td (where) Tj
+ 3.080 0 Td (the) Tj
+ 1.720 0 Td (dollars) Tj
+ 3.360 0 Td (go,) Tj
+ 1.700 0 Td (but) Tj
+ 1.820 0 Td (difficult) Tj
+ -35.500 -1.840 Td (to) Tj
+ 1.180 0 Td (see) Tj
+ 1.680 0 Td (where) Tj
+ 3.080 0 Td (they) Tj
+ 2.240 0 Td (come) Tj
+ 2.660 0 Td (from.) Tj
+ 2.820 0 Td (People) Tj
+ 3.300 0 Td (have) Tj
+ 2.440 0 Td (personal) Tj
+ 4.100 0 Td (experience) Tj
+ 5.040 0 Td (with) Tj
+ 2.340 0 Td (imports) Tj
+ 3.760 0 Td (of) Tj
+ 1.180 0 Td (foreign) Tj
+ -35.820 -1.820 Td (goods) Tj
+ 2.880 0 Td (of) Tj
+ 1.100 0 Td (foreign) Tj
+ 3.380 0 Td (goods;) Tj
+ 3.140 0 Td (but) Tj
+ 1.680 0 Td (they) Tj
+ 2.160 0 Td (rarely) Tj
+ 2.820 0 Td (encounter) Tj
+ 4.620 0 Td (their) Tj
+ 2.280 0 Td (own) Tj
+ 2.160 0 Td (country's) Tj
+ 4.360 0 Td (exports) Tj
+ 3.480 0 Td (unless) Tj
+ 3.000 0 Td (they) Tj
+ -37.060 -1.840 Td (travel) Tj
+ 2.900 0 Td (abroad) Tj
+ 3.440 0 Td (extensively.) Tj
+ 5.780 0 Td (Only) Tj
+ 2.560 0 Td (by) Tj
+ 1.460 0 Td (abstracting) Tj
+ 5.220 0 Td (from) Tj
+ 2.500 0 Td (introspection) Tj
+ 6.160 0 Td (can) Tj
+ 1.880 0 Td (we) Tj
+ 1.660 0 Td (see) Tj
+ 1.720 0 Td (the) Tj
+ 1.740 0 Td (total) Tj
+ -37.020 -1.840 Td (picture.) Tj
+ 1.500 -1.920 Td (A) Tj
+ 1 0 Td (third) Tj
+ 2.420 0 Td (example) Tj
+ 3.960 0 Td (is) Tj
+ 0.940 0 Td (the) Tj
+ 1.600 0 Td (bias) Tj
+ 1.980 0 Td (in) Tj
+ 1.100 0 Td (perceptions) Tj
+ 5.380 0 Td (of) Tj
+ 1.100 0 Td (inflation:) Tj
+ 4.220 0 Td (price) Tj
+ 2.420 0 Td (moves) Tj
+ 3.120 0 Td (are) Tj
+ 1.580 0 Td (perceived) Tj
+ 4.560 0 Td (to) Tj
+ 1.100 0 Td (be) Tj
+ -37.980 -1.840 Td (exogenous) Tj
+ 4.980 0 Td (from) Tj
+ 2.400 0 Td (the) Tj
+ 1.640 0 Td (viewpoint) Tj
+ 4.760 0 Td (of) Tj
+ 1.140 0 Td (the) Tj
+ 1.640 0 Td (individual,) Tj
+ 5.120 0 Td (but) Tj
+ 1.740 0 Td (wage) Tj
+ 2.620 0 Td (movements) Tj
+ 5.400 0 Td (are) Tj
+ 1.640 0 Td (personalized.) Tj
+ -33.080 -1.840 Td (Even) Tj
+ 2.520 0 Td (if) Tj
+ 0.900 0 Td (prices) Tj
+ 2.920 0 Td (and) Tj
+ 1.980 0 Td (wages) Tj
+ 3.060 0 Td (move) Tj
+ 2.760 0 Td (up) Tj
+ 1.480 0 Td (by) Tj
+ 1.400 0 Td (the) Tj
+ 1.660 0 Td (same) Tj
+ 2.580 0 Td (amount,) Tj
+ 3.960 0 Td (people) Tj
+ 3.280 0 Td (may) Tj
+/F3 1 Tf
+ 2.220 0 Td (feel) Tj
+/F2 1 Tf
+ 1.620 0 Td (worse) Tj
+ 2.960 0 Td (off) Tj
+ 1.480 0 Td (since) Tj
+ -36.780 -1.840 Td (they) Tj
+ 2.180 0 Td (think) Tj
+ 2.580 0 Td (that) Tj
+ 1.980 0 Td (they) Tj
+ 2.180 0 Td (would) Tj
+ 3.120 0 Td (have) Tj
+ 2.380 0 Td (gotten) Tj
+ 3.040 0 Td (the) Tj
+ 1.640 0 Td (wage) Tj
+ 2.600 0 Td (increases) Tj
+ 4.260 0 Td (anyway.) Tj
+/F3 1 Tf
+ -25.960 -3.540 Td (Verifying) Tj
+ 4.120 0 Td (that) Tj
+ 1.860 0 Td (something) Tj
+ 4.400 0 Td (is) Tj
+ 0.920 0 Td (obvious) Tj
+ 3.300 0 Td (may) Tj
+ 1.960 0 Td (show) Tj
+ 2.300 0 Td (that) Tj
+ 1.860 0 Td (it) Tj
+ 0.860 0 Td (isn't) Tj
+/F2 1 Tf
+ -21.580 -2.700 Td (One) Tj
+ 2.160 0 Td (of) Tj
+ 1.220 0 Td (the) Tj
+ 1.700 0 Td (criticisms) Tj
+ 4.540 0 Td (that) Tj
+ 2.040 0 Td (economists) Tj
+ 5.260 0 Td (have) Tj
+ 2.460 0 Td (to) Tj
+ 1.200 0 Td (deal) Tj
+ 2.200 0 Td (with) Tj
+ 2.340 0 Td (is) Tj
+ 1.040 0 Td (that) Tj
+ 2.060 0 Td (they) Tj
+ 2.280 0 Td (spend) Tj
+ 3.000 0 Td (a) Tj
+ 0.840 0 Td (lot) Tj
+ 1.480 0 Td (of) Tj
+ 1.200 0 Td (time) Tj
+ -37.020 -1.820 Td (belaboring) Tj
+ 5.140 0 Td (the) Tj
+ 1.780 0 Td (obvious.) Tj
+ 4.460 0 Td (Isn't) Tj
+ 2.340 0 Td (it) Tj
+ 1.020 0 Td (obvious) Tj
+ 3.920 0 Td (that) Tj
+ 2.140 0 Td (demand) Tj
+ 4.040 0 Td (curves) Tj
+ 3.300 0 Td (slope) Tj
+ 2.740 0 Td (down) Tj
+ 2.960 0 Td (and) Tj
+ 2.100 0 Td (supply) Tj
+ -35.940 -1.840 Td (curves) Tj
+ 3.220 0 Td (slope) Tj
+ 2.640 0 Td (up?) Tj
+ 2.100 0 Td (But) Tj
+ 1.840 0 Td (many) Tj
+ 2.820 0 Td (theories) Tj
+ 3.840 0 Td (that) Tj
+ 2.040 0 Td (seem) Tj
+ 2.560 0 Td (to) Tj
+ 1.180 0 Td (be) Tj
+ 1.360 0 Td (obvious) Tj
+ 3.820 0 Td (turn) Tj
+ 2.220 0 Td (out) Tj
+ 1.780 0 Td (not) Tj
+ 1.760 0 Td (to) Tj
+ 1.180 0 Td (be.) Tj
+ 1.740 0 Td (It) Tj
+ 0.960 0 Td (may) Tj
+ -37.060 -1.840 Td (be) Tj
+ 1.320 0 Td (obvious) Tj
+ 3.820 0 Td (that) Tj
+ 2.040 0 Td (demand) Tj
+ 3.940 0 Td (curves) Tj
+ 3.220 0 Td (slope) Tj
+ 2.620 0 Td (down---but) Tj
+ 5.340 0 Td (as) Tj
+ 1.220 0 Td (the) Tj
+ 1.680 0 Td (theoretical) Tj
+ 4.960 0 Td (analysis) Tj
+ 3.840 0 Td (shows,) Tj
+ 3.380 0 Td (it) Tj
+ 0.900 0 Td (is) Tj
+ -38.280 -1.840 Td (possible) Tj
+ 3.840 0 Td (to) Tj
+ 1.120 0 Td (have) Tj
+ 2.360 0 Td (demand) Tj
+ 3.920 0 Td (curves) Tj
+ 3.140 0 Td (that) Tj
+ 1.980 0 Td (don't.) Tj
+ -14.860 -1.920 Td (Economic) Tj
+ 4.620 0 Td (theory) Tj
+ 3.160 0 Td (shows) Tj
+ 3.100 0 Td (that) Tj
+ 2.020 0 Td (a) Tj
+ 0.800 0 Td (profit-maximizing) Tj
+ 8.380 0 Td (firm) Tj
+ 2.180 0 Td (will) Tj
+ 2.000 0 Td (decrease) Tj
+ 4.080 0 Td (its) Tj
+ 1.340 0 Td (supply) Tj
+ 3.360 0 Td (when) Tj
+ -36.540 -1.840 Td (the) Tj
+ 1.720 0 Td (output) Tj
+ 3.340 0 Td (price) Tj
+ 2.540 0 Td (decreases.) Tj
+ 4.980 0 Td (But) Tj
+ 1.860 0 Td (farmers) Tj
+ 3.740 0 Td (often) Tj
+ 2.600 0 Td (claim) Tj
+ 2.740 0 Td (that) Tj
+ 2.060 0 Td (removing) Tj
+ 4.620 0 Td (milk) Tj
+ 2.360 0 Td (price) Tj
+ 2.540 0 Td (supports) Tj
+ -35.100 -1.840 Td (will) Tj
+ 2.040 0 Td (increase) Tj
+ 3.920 0 Td (the) Tj
+ 1.720 0 Td (supply) Tj
+ 3.400 0 Td (of) Tj
+ 1.200 0 Td (milk) Tj
+ 2.360 0 Td (since) Tj
+ 2.540 0 Td (farmers) Tj
+ 3.740 0 Td (will) Tj
+ 2.020 0 Td (have) Tj
+ 2.460 0 Td (to) Tj
+ 1.200 0 Td (increase) Tj
+ 3.920 0 Td (output) Tj
+ 3.340 0 Td (to) Tj
+ 1.200 0 Td (maintain) Tj
+ -35.060 -1.820 Td (the) Tj
+ 1.720 0 Td (same) Tj
+ 2.640 0 Td (income.) Tj
+ 4.000 0 Td (The) Tj
+ 2 0 Td (second) Tj
+ 3.420 0 Td (effect) Tj
+/F3 1 Tf
+ 2.740 0 Td (sounds) Tj
+/F2 1 Tf
+ 3.160 0 Td (like) Tj
+ 1.960 0 Td (it) Tj
+ 0.960 0 Td (might) Tj
+ 2.980 0 Td (be) Tj
+ 1.360 0 Td (possible---after) Tj
+ 6.960 0 Td (all,) Tj
+ 1.700 0 Td (farmers) Tj
+ -35.600 -1.840 Td (wouldn't) Tj
+ 4.360 0 Td (advance) Tj
+ 3.980 0 Td (the) Tj
+ 1.680 0 Td (claim) Tj
+ 2.700 0 Td (unless) Tj
+ 3.100 0 Td (it) Tj
+ 0.920 0 Td (had) Tj
+ 1.980 0 Td (some) Tj
+ 2.640 0 Td (plausibility.) Tj
+ 5.660 0 Td (However,) Tj
+ 4.680 0 Td (theory) Tj
+ 3.180 0 Td (shows) Tj
+ 3.100 0 Td (us) Tj
+ -37.980 -1.840 Td (that) Tj
+ 1.980 0 Td (this) Tj
+ 1.860 0 Td (particular) Tj
+ 4.580 0 Td (claim) Tj
+ 2.660 0 Td (cannot) Tj
+ 3.200 0 Td (be) Tj
+ 1.280 0 Td (true) Tj
+ 2.060 0 Td (if) Tj
+ 0.860 0 Td (the) Tj
+ 1.640 0 Td (farmers) Tj
+ 3.640 0 Td (attempt) Tj
+ 3.680 0 Td (to) Tj
+ 1.120 0 Td (maximize) Tj
+ 4.560 0 Td (profits.) Tj
+ -13.860 -2.400 Td (8) Tj
+ET
+Q
+endstream
+endobj
+23 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources << /Font << /F2 29 0 R /F3 32 0 R /F8 46 0 R >> /ProcSet 4 0 R >>
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 60 0 R
+>>
+stream
+q
+Q q
+BT
+/F2 1 Tf
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 7.500 59.000 Td (Strategic) Tj
+ 4.100 0 Td (interactions) Tj
+ 5.440 0 Td (are) Tj
+ 1.640 0 Td (a) Tj
+ 0.780 0 Td (good) Tj
+ 2.520 0 Td (source) Tj
+ 3.160 0 Td (of) Tj
+ 1.140 0 Td (counterintuitive) Tj
+ 7.380 0 Td (results.) Tj
+ 3.500 0 Td (A) Tj
+ 1.060 0 Td (simple) Tj
+ 3.220 0 Td (analysis) Tj
+ -35.440 -1.780 Td (of) Tj
+ 1.120 0 Td (a) Tj
+ 0.720 0 Td (two-person) Tj
+ 5.280 0 Td (zero-sum) Tj
+ 4.380 0 Td (game) Tj
+ 2.660 0 Td (shows) Tj
+ 3.020 0 Td (that) Tj
+ 1.960 0 Td (improving) Tj
+ 4.940 0 Td (your) Tj
+ 2.320 0 Td (backhand) Tj
+ 4.540 0 Td (in) Tj
+ 1.120 0 Td (tennis) Tj
+ 2.900 0 Td (may) Tj
+ 2.160 0 Td (lead) Tj
+ -37.120 -1.800 Td (to) Tj
+ 1.120 0 Td (your) Tj
+ 2.340 0 Td (using) Tj
+ 2.700 0 Td (it) Tj
+ 0.860 0 Td (less) Tj
+ 1.860 0 Td (often.) Tj
+ -7.380 -1.780 Td (It) Tj
+ 1.100 0 Td (would) Tj
+ 3.340 0 Td (seem) Tj
+ 2.700 0 Td (that) Tj
+ 2.180 0 Td (a) Tj
+ 0.960 0 Td (public) Tj
+ 3.220 0 Td (offer) Tj
+ 2.540 0 Td (to) Tj
+ 1.320 0 Td (match) Tj
+ 3.180 0 Td (any) Tj
+ 2.080 0 Td (competitor's) Tj
+ 5.980 0 Td (price) Tj
+ 2.660 0 Td (is) Tj
+ 1.160 0 Td (a) Tj
+ 0.960 0 Td (sign) Tj
+ 2.300 0 Td (of) Tj
+ 1.320 0 Td (a) Tj
+ -38.500 -1.800 Td (highly) Tj
+ 3.260 0 Td (competitive) Tj
+ 5.620 0 Td (market.) Tj
+ 4.120 0 Td (But) Tj
+ 1.940 0 Td (when) Tj
+ 2.880 0 Td (you) Tj
+ 2.100 0 Td (think) Tj
+ 2.740 0 Td (about) Tj
+ 2.940 0 Td (the) Tj
+ 1.780 0 Td (problem) Tj
+ 4.160 0 Td (facing) Tj
+ 3.100 0 Td (a) Tj
+ 0.900 0 Td (cartel) Tj
+ 2.840 0 Td (it) Tj
+ -38.380 -1.780 Td (is) Tj
+ 1.080 0 Td (not) Tj
+ 1.800 0 Td (so) Tj
+ 1.340 0 Td (obvious.) Tj
+ 4.340 0 Td (The) Tj
+ 2.040 0 Td (prime) Tj
+ 3 0 Td (problem) Tj
+ 4.080 0 Td (facing) Tj
+ 3.060 0 Td (a) Tj
+ 0.860 0 Td (cartel) Tj
+ 2.780 0 Td (is) Tj
+ 1.080 0 Td (how) Tj
+ 2.320 0 Td (to) Tj
+ 1.220 0 Td (detect) Tj
+ 3.020 0 Td (cheating) Tj
+ 4.120 0 Td (on) Tj
+ 1.480 0 Td (the) Tj
+ -37.620 -1.800 Td (agreed-upon) Tj
+ 5.920 0 Td (prices) Tj
+ 2.900 0 Td (and) Tj
+ 1.940 0 Td (quotas.) Tj
+ 3.500 0 Td (Offering) Tj
+ 4.000 0 Td (to) Tj
+ 1.140 0 Td (match) Tj
+ 2.980 0 Td (a) Tj
+ 0.760 0 Td (competitor's) Tj
+ 5.780 0 Td (price) Tj
+ 2.460 0 Td (is) Tj
+ 0.980 0 Td (a) Tj
+ 0.760 0 Td (cheap) Tj
+ 2.860 0 Td (way) Tj
+ 2.160 0 Td (to) Tj
+ -38.140 -1.800 Td (gain) Tj
+ 2.240 0 Td (information) Tj
+ 5.600 0 Td (about) Tj
+ 2.840 0 Td (what) Tj
+ 2.560 0 Td (your) Tj
+ 2.420 0 Td (competitors) Tj
+ 5.560 0 Td (are) Tj
+ 1.700 0 Td (doing.) Tj
+ 3.320 0 Td (What) Tj
+ 2.720 0 Td (appears) Tj
+ 3.820 0 Td (to) Tj
+ 1.200 0 Td (be) Tj
+ 1.340 0 Td (a) Tj
+ 0.840 0 Td (highly) Tj
+ -36.160 -1.780 Td (competitive) Tj
+ 5.460 0 Td (tactic) Tj
+ 2.580 0 Td (can) Tj
+ 1.760 0 Td (easily) Tj
+ 2.780 0 Td (be) Tj
+ 1.280 0 Td (viewed) Tj
+ 3.500 0 Td (as) Tj
+ 1.160 0 Td (a) Tj
+ 0.760 0 Td (device) Tj
+ 3.100 0 Td (to) Tj
+ 1.120 0 Td (support) Tj
+ 3.720 0 Td (collusion.) Tj
+/F3 1 Tf
+ -27.220 -2.960 Td (Theory) Tj
+ 3.080 0 Td (allows) Tj
+ 2.780 0 Td (for) Tj
+ 1.360 0 Td (quantification) Tj
+ 5.880 0 Td (and) Tj
+ 1.740 0 Td (calculation) Tj
+/F2 1 Tf
+ -14.840 -2.380 Td (According) Tj
+ 4.900 0 Td (to) Tj
+ 1.140 0 Td (Lord) Tj
+ 2.420 0 Td (Kelvin,) Tj
+ 3.440 0 Td (``When) Tj
+ 3.460 0 Td (you) Tj
+ 1.980 0 Td (cannot) Tj
+ 3.240 0 Td (measure) Tj
+ 4.000 0 Td (it,) Tj
+ 1.140 0 Td (when) Tj
+ 2.740 0 Td (you) Tj
+ 1.980 0 Td (cannot) Tj
+ 3.240 0 Td (express) Tj
+ 3.560 0 Td (it) Tj
+ 0.900 0 Td (in) Tj
+ -38.140 -1.800 Td (numbers,) Tj
+ 4.400 0 Td (your) Tj
+ 2.340 0 Td (knowledge) Tj
+ 5.160 0 Td (is) Tj
+ 0.960 0 Td (of) Tj
+ 1.140 0 Td (a) Tj
+ 0.740 0 Td (meagre) Tj
+ 3.540 0 Td (and) Tj
+ 1.920 0 Td (unsatisfactory) Tj
+ 6.480 0 Td (kind.'') Tj
+8.40 0.00 0.00 8.40 0.00 0.00 Tm
+ 50.714 54.143 Td (1) Tj
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 7.500 35.760 Td (Theoretical) Tj
+ 5.400 0 Td (economics) Tj
+ 5.120 0 Td (gives) Tj
+ 2.800 0 Td (us) Tj
+ 1.500 0 Td (a) Tj
+ 0.980 0 Td (framework) Tj
+ 5.400 0 Td (to) Tj
+ 1.360 0 Td (calculate) Tj
+ 4.340 0 Td (and) Tj
+ 2.180 0 Td (quantify) Tj
+ 4.220 0 Td (economic) Tj
+ -34.800 -1.800 Td (relations.) Tj
+ 4.560 0 Td (Consider) Tj
+ 4.360 0 Td (the) Tj
+ 1.720 0 Td (Laffer) Tj
+ 2.960 0 Td (curve) Tj
+ 2.820 0 Td (mentioned) Tj
+ 5.100 0 Td (above.) Tj
+ 3.380 0 Td (Laffer) Tj
+ 2.960 0 Td (gave) Tj
+ 2.420 0 Td (the) Tj
+ 1.720 0 Td (existence) Tj
+ 4.340 0 Td (proof,) Tj
+ -36.340 -1.780 Td (but) Tj
+ 1.720 0 Td (it) Tj
+ 0.860 0 Td (took) Tj
+ 2.220 0 Td (some) Tj
+ 2.580 0 Td (theoretical) Tj
+ 4.880 0 Td (calculations) Tj
+ 5.480 0 Td (to) Tj
+ 1.120 0 Td (see) Tj
+ 1.620 0 Td (what) Tj
+ 2.480 0 Td (magnitudes) Tj
+ 5.500 0 Td (were) Tj
+ 2.420 0 Td (important.) Tj
+ -29.380 -1.800 Td (In) Tj
+ 1.120 0 Td (fact,) Tj
+ 2.080 0 Td (one) Tj
+ 1.820 0 Td (of) Tj
+ 1.080 0 Td (the) Tj
+ 1.600 0 Td (major) Tj
+ 2.760 0 Td (differences) Tj
+ 5.060 0 Td (between) Tj
+ 3.920 0 Td (economics) Tj
+ 4.840 0 Td (and) Tj
+ 1.900 0 Td (the) Tj
+ 1.600 0 Td (other) Tj
+ 2.540 0 Td (social) Tj
+ 2.700 0 Td (sciences) Tj
+ 3.760 0 Td (is) Tj
+ -38.280 -1.780 Td (that) Tj
+ 1.980 0 Td (in) Tj
+ 1.100 0 Td (economics) Tj
+ 4.880 0 Td (you) Tj
+ 1.940 0 Td (can) Tj
+/F3 1 Tf
+ 1.760 0 Td (compute.) Tj
+/F2 1 Tf
+ 3.900 0 Td (There) Tj
+ 2.780 0 Td (is) Tj
+ 0.960 0 Td (very) Tj
+ 2.220 0 Td (little) Tj
+ 2.240 0 Td (computation) Tj
+ 5.880 0 Td (in) Tj
+ 1.120 0 Td (sociology,) Tj
+ 4.680 0 Td (political) Tj
+ -35.440 -1.800 Td (science,) Tj
+ 3.620 0 Td (history) Tj
+ 3.360 0 Td (or) Tj
+ 1.200 0 Td (anthropology.) Tj
+ 6.500 0 Td (But) Tj
+ 1.780 0 Td (economics) Tj
+ 4.860 0 Td (is) Tj
+ 0.980 0 Td (filled) Tj
+ 2.520 0 Td (with) Tj
+ 2.280 0 Td (computation.) Tj
+ -25.600 -1.800 Td (Economic) Tj
+ 4.580 0 Td (theory) Tj
+ 3.120 0 Td (is) Tj
+ 0.960 0 Td (useful) Tj
+ 2.960 0 Td (since) Tj
+ 2.460 0 Td (you) Tj
+ 1.940 0 Td (can) Tj
+ 1.780 0 Td (use) Tj
+ 1.740 0 Td (it) Tj
+ 0.860 0 Td (to) Tj
+ 1.120 0 Td (compute) Tj
+ 4.120 0 Td (answers) Tj
+ 3.860 0 Td (to) Tj
+ 1.120 0 Td (problems.) Tj
+ 4.660 0 Td (They) Tj
+ -36.780 -1.780 Td (aren't) Tj
+ 2.860 0 Td (always) Tj
+ 3.400 0 Td (the) Tj
+/F3 1 Tf
+ 1.680 0 Td (right) Tj
+/F2 1 Tf
+ 2.300 0 Td (answers---that) Tj
+ 6.660 0 Td (depends) Tj
+ 4.080 0 Td (on) Tj
+ 1.420 0 Td (whether) Tj
+ 3.980 0 Td (the) Tj
+ 1.680 0 Td (model) Tj
+ 3.100 0 Td (you) Tj
+ 2.000 0 Td (have) Tj
+ 2.440 0 Td (is) Tj
+ 1 0 Td (right.) Tj
+ -36.600 -1.800 Td (\(Or,) Tj
+ 2 0 Td (at) Tj
+ 1.080 0 Td (least,) Tj
+ 2.500 0 Td (whether) Tj
+ 3.920 0 Td (it) Tj
+ 0.860 0 Td (is) Tj
+ 0.960 0 Td (good) Tj
+ 2.500 0 Td (enough) Tj
+ 3.580 0 Td (for) Tj
+ 1.520 0 Td (the) Tj
+ 1.620 0 Td (purposes) Tj
+ 4.320 0 Td (at) Tj
+ 1.060 0 Td (hand.\)) Tj
+ 3.100 0 Td (But) Tj
+ 1.780 0 Td (a) Tj
+ 0.740 0 Td (desideratum) Tj
+ 5.840 0 Td (of) Tj
+ 1.120 0 Td (a) Tj
+ -38.500 -1.780 Td (good) Tj
+ 2.540 0 Td (model) Tj
+ 3.080 0 Td (is) Tj
+ 1 0 Td (that) Tj
+ 2.020 0 Td (you) Tj
+ 1.980 0 Td (can) Tj
+ 1.800 0 Td (compute) Tj
+ 4.160 0 Td (with) Tj
+ 2.320 0 Td (it:) Tj
+ 1.180 0 Td (the) Tj
+ 1.660 0 Td (model) Tj
+ 3.100 0 Td (can) Tj
+ 1.800 0 Td (be) Tj
+/F3 1 Tf
+ 1.320 0 Td (solved) Tj
+/F2 1 Tf
+ 2.760 0 Td (to) Tj
+ 1.160 0 Td (determine) Tj
+ 4.800 0 Td (some) Tj
+ -36.680 -1.800 Td (variables) Tj
+ 4.240 0 Td (as) Tj
+ 1.160 0 Td (a) Tj
+ 0.740 0 Td (function) Tj
+ 3.960 0 Td (of) Tj
+ 1.120 0 Td (other) Tj
+ 2.560 0 Td (variables.) Tj
+ -12.280 -1.780 Td (In) Tj
+ 1.120 0 Td (my) Tj
+ 1.640 0 Td (view,) Tj
+ 2.620 0 Td (it) Tj
+ 0.820 0 Td (is) Tj
+ 0.920 0 Td (impossible) Tj
+ 4.960 0 Td (to) Tj
+ 1.080 0 Td (learn) Tj
+ 2.440 0 Td (economic) Tj
+ 4.400 0 Td (theory) Tj
+ 3.080 0 Td (without) Tj
+ 3.700 0 Td (solving) Tj
+ 3.440 0 Td (lots) Tj
+ 1.800 0 Td (of) Tj
+ 1.080 0 Td (problems.) Tj
+ -34.600 -1.800 Td (Richard) Tj
+ 3.880 0 Td (Hamming,) Tj
+ 5.200 0 Td (a) Tj
+ 0.920 0 Td (highly) Tj
+ 3.240 0 Td (prolific) Tj
+ 3.600 0 Td (electrical) Tj
+ 4.320 0 Td (engineer,) Tj
+ 4.520 0 Td (once) Tj
+ 2.460 0 Td (gave) Tj
+ 2.500 0 Td (me) Tj
+ 1.760 0 Td (some) Tj
+ 2.720 0 Td (excellent) Tj
+ -35.120 -1.780 Td (advice) Tj
+ 3.080 0 Td (about) Tj
+ 2.720 0 Td (how) Tj
+ 2.180 0 Td (to) Tj
+ 1.060 0 Td (write) Tj
+ 2.520 0 Td (a) Tj
+ 0.720 0 Td (textbook.) Tj
+ 4.300 0 Td (He) Tj
+ 1.520 0 Td (told) Tj
+ 1.980 0 Td (me) Tj
+ 1.560 0 Td (to) Tj
+ 1.080 0 Td (assemble) Tj
+ 4.220 0 Td (the) Tj
+ 1.580 0 Td (exams) Tj
+ 3 0 Td (and) Tj
+ 1.900 0 Td (problem) Tj
+ 3.940 0 Td (sets) Tj
+ -37.360 -1.800 Td (that) Tj
+ 2.040 0 Td (you) Tj
+ 2 0 Td (want) Tj
+ 2.520 0 Td (the) Tj
+ 1.700 0 Td (students) Tj
+ 4.060 0 Td (to) Tj
+ 1.160 0 Td (be) Tj
+ 1.340 0 Td (able) Tj
+ 2.120 0 Td (to) Tj
+ 1.160 0 Td (solve) Tj
+ 2.600 0 Td (by) Tj
+ 1.420 0 Td (the) Tj
+ 1.680 0 Td (time) Tj
+ 2.280 0 Td (they) Tj
+ 2.240 0 Td (had) Tj
+ 1.980 0 Td (finished) Tj
+ 3.880 0 Td (the) Tj
+ 1.700 0 Td (course,) Tj
+ET
+Q q
+0.24 w
+72 114 m 216 114 l 216 114.48 l 72 114.48 l f
+Q q
+BT
+/F2 1 Tf
+8.40 0.00 0.00 8.40 0.00 0.00 Tm
+ 9.429 12.514 Td (1) Tj
+9.60 0.00 0.00 9.60 0.00 0.00 Tm
+ 9.375 10.500 Td (However,) Tj
+ 4.650 0 Td (the) Tj
+ 1.650 0 Td (same) Tj
+ 2.550 0 Td (poet) Tj
+ 2.225 0 Td (whose) Tj
+ 3.150 0 Td (praise) Tj
+ 2.950 0 Td (for) Tj
+ 1.550 0 Td (abstraction) Tj
+ 5.150 0 Td (and) Tj
+ 1.950 0 Td (synthesis) Tj
+ 4.350 0 Td (I) Tj
+ 0.625 0 Td (quoted) Tj
+ 3.400 0 Td (in) Tj
+ 1.150 0 Td (the) Tj
+ 1.650 0 Td (introduction) Tj
+ 5.800 0 Td (also) Tj
+ 2.025 0 Td (once) Tj
+ -46.700 -1.125 Td (said:) Tj
+ 2.325 0 Td (``) Tj
+/F8 1 Tf
+ 0.550 0 Td (:) Tj
+ 0.425 0 Td (:) Tj
+ 0.450 0 Td (:) Tj
+/F2 1 Tf
+ 0.450 0 Td (High) Tj
+ 2.500 0 Td (Heaven) Tj
+ 3.675 0 Td (rejects) Tj
+ 3.000 0 Td (the) Tj
+ 1.650 0 Td (lore) Tj
+ 1.950 0 Td (of) Tj
+ 1.125 0 Td (nicely) Tj
+ 2.875 0 Td (calculated) Tj
+ 4.725 0 Td (less) Tj
+ 1.850 0 Td (or) Tj
+ 1.200 0 Td (more.'') Tj
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 25.260 4.200 Td (9) Tj
+ET
+Q
+endstream
+endobj
+25 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources << /Font << /F2 29 0 R /F3 32 0 R /F4 35 0 R >> /ProcSet 4 0 R >>
+/Contents 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 61 0 R
+>>
+stream
+q
+Q q
+BT
+/F2 1 Tf
+12.00 0.00 0.00 12.00 0.00 0.00 Tm
+ 6 59 Td (and) Tj
+ 2.020 0 Td (then) Tj
+ 2.320 0 Td (write) Tj
+ 2.660 0 Td (the) Tj
+ 1.720 0 Td (book) Tj
+ 2.540 0 Td (that) Tj
+ 2.060 0 Td (would) Tj
+ 3.220 0 Td (show) Tj
+ 2.720 0 Td (them) Tj
+ 2.600 0 Td (how) Tj
+ 2.300 0 Td (to) Tj
+ 1.220 0 Td (solve) Tj
+ 2.640 0 Td (them.) Tj
+ 3.040 0 Td (In) Tj
+ 1.260 0 Td (general,) Tj
+ 3.880 0 Td (I) Tj
+ 0.680 0 Td (have) Tj
+ -36.880 -1.780 Td (tried) Tj
+ 2.340 0 Td (to) Tj
+ 1.120 0 Td (follow) Tj
+ 3.080 0 Td (this) Tj
+ 1.860 0 Td (advice,) Tj
+ 3.380 0 Td (with,) Tj
+ 2.520 0 Td (I) Tj
+ 0.600 0 Td (think,) Tj
+ 2.820 0 Td (some) Tj
+ 2.580 0 Td (success.) Tj
+/F3 1 Tf
+ -20.300 -3.000 Td (Economics) Tj
+ 4.540 0 Td (is) Tj
+ 0.920 0 Td (amenable) Tj
+ 3.980 0 Td (to) Tj
+ 1.020 0 Td (experimental) Tj
+ 5.460 0 Td (verification) Tj
+/F2 1 Tf
+ -15.920 -2.380 Td (Because) Tj
+ 3.780 0 Td (neoclassical) Tj
+ 5.440 0 Td (economic) Tj
+ 4.460 0 Td (models) Tj
+ 3.460 0 Td (enables) Tj
+ 3.540 0 Td (one) Tj
+ 1.860 0 Td (to) Tj
+ 1.120 0 Td (compute) Tj
+ 4.120 0 Td (answers) Tj
+ 3.860 0 Td (to) Tj
+ 1.120 0 Td (problems,) Tj
+ 4.660 0 Td (it) Tj
+ 0.860 0 Td (is) Tj
+ -38.280 -1.800 Td (possible) Tj
+ 3.820 0 Td (to) Tj
+ 1.100 0 Td (compare) Tj
+ 4.080 0 Td (the) Tj
+ 1.600 0 Td (answers) Tj
+ 3.860 0 Td (you) Tj
+ 1.940 0 Td (get) Tj
+ 1.580 0 Td (with) Tj
+ 2.260 0 Td (the) Tj
+ 1.620 0 Td (outcomes) Tj
+ 4.460 0 Td (of) Tj
+ 1.120 0 Td (controlled) Tj
+ 4.720 0 Td (experiments.) Tj
+ 5.920 0 Td (In) Tj
+ -38.080 -1.800 Td (my) Tj
+ 1.700 0 Td (view,) Tj
+ 2.700 0 Td (experimental) Tj
+ 6.080 0 Td (economics) Tj
+ 4.900 0 Td (has) Tj
+ 1.780 0 Td (been) Tj
+ 2.360 0 Td (one) Tj
+ 1.880 0 Td (of) Tj
+ 1.140 0 Td (the) Tj
+ 1.660 0 Td (great) Tj
+ 2.520 0 Td (success) Tj
+ 3.520 0 Td (stories) Tj
+ 3.140 0 Td (of) Tj
+ 1.160 0 Td (the) Tj
+ 1.660 0 Td (last) Tj
+ 1.800 0 Td (20) Tj
+ -38.000 -1.780 Td (years.) Tj
+ 2.980 0 Td (We) Tj
+ 1.760 0 Td (now) Tj
+ 2.240 0 Td (have) Tj
+ 2.420 0 Td (rigorous) Tj
+ 4.020 0 Td (ways) Tj
+ 2.600 0 Td (to) Tj
+ 1.160 0 Td (test) Tj
+ 1.840 0 Td (models) Tj
+ 3.520 0 Td (of) Tj
+ 1.160 0 Td (human) Tj
+ 3.440 0 Td (behavior) Tj
+ 4.180 0 Td (in) Tj
+ 1.160 0 Td (the) Tj
+ 1.680 0 Td (laboratory.) Tj
+ -34.160 -1.800 Td (Some) Tj
+ 2.720 0 Td (standard) Tj
+ 4.240 0 Td (models,) Tj
+ 3.800 0 Td (such) Tj
+ 2.340 0 Td (as) Tj
+ 1.220 0 Td (supply) Tj
+ 3.380 0 Td (and) Tj
+ 1.980 0 Td (demand,) Tj
+ 4.220 0 Td (have) Tj
+ 2.440 0 Td (turned) Tj
+ 3.280 0 Td (out) Tj
+ 1.780 0 Td (to) Tj
+ 1.160 0 Td (be) Tj
+ 1.340 0 Td (much) Tj
+ 2.800 0 Td (more) Tj
+ -36.700 -1.800 Td (robust) Tj
+ 3.080 0 Td (than) Tj
+ 2.220 0 Td (we) Tj
+ 1.540 0 Td (would) Tj
+ 3.120 0 Td (have) Tj
+ 2.360 0 Td (thought) Tj
+ 3.740 0 Td (20) Tj
+ 1.240 0 Td (years) Tj
+ 2.580 0 Td (ago.) Tj
+ 2.080 0 Td (Other) Tj
+ 2.800 0 Td (models,) Tj
+ 3.720 0 Td (such) Tj
+ 2.280 0 Td (as) Tj
+ 1.160 0 Td (expected) Tj
+ 4.160 0 Td (utility,) Tj
+ -36.080 -1.780 Td (have) Tj
+ 2.360 0 Td (turned) Tj
+ 3.240 0 Td (out) Tj
+ 1.720 0 Td (to) Tj
+ 1.120 0 Td (be) Tj
+ 1.280 0 Td (less) Tj
+ 1.860 0 Td (robust.) Tj
+ -10.080 -1.800 Td (But) Tj
+ 1.740 0 Td (this) Tj
+ 1.840 0 Td (is) Tj
+ 0.920 0 Td (to) Tj
+ 1.080 0 Td (be) Tj
+ 1.260 0 Td (expected---if) Tj
+ 5.740 0 Td (there) Tj
+ 2.480 0 Td (were) Tj
+ 2.380 0 Td (no) Tj
+ 1.340 0 Td (surprises) Tj
+ 4.240 0 Td (from) Tj
+ 2.360 0 Td (experiments,) Tj
+ 5.920 0 Td (they) Tj
+ 2.140 0 Td (wouldn't) Tj
+ -34.940 -1.800 Td (be) Tj
+ 1.200 0 Td (worth) Tj
+ 2.840 0 Td (doing.) Tj
+ 3.040 0 Td (The) Tj
+ 1.840 0 Td (growth) Tj
+ 3.400 0 Td (of) Tj
+ 1.040 0 Td (experimental) Tj
+ 5.960 0 Td (economics) Tj
+ 4.760 0 Td (has) Tj
+ 1.660 0 Td (led) Tj
+ 1.520 0 Td (many) Tj
+ 2.680 0 Td (theorists) Tj
+ 3.920 0 Td (to) Tj
+ 1.020 0 Td (construct) Tj
+ -34.880 -1.780 Td (theories) Tj
+ 3.720 0 Td (that) Tj
+ 1.940 0 Td (simple,) Tj
+ 3.440 0 Td (concrete) Tj
+ 3.900 0 Td (and) Tj
+ 1.900 0 Td (testable,) Tj
+ 3.840 0 Td (rather) Tj
+ 2.880 0 Td (than) Tj
+ 2.200 0 Td (theories) Tj
+ 3.720 0 Td (that) Tj
+ 1.960 0 Td (are) Tj
+ 1.580 0 Td (complex,) Tj
+ 4.220 0 Td (abstract,) Tj
+ -35.300 -1.800 Td (and) Tj
+ 1.920 0 Td (general.) Tj
+ 3.780 0 Td (And) Tj
+ 2.200 0 Td (experience) Tj
+ 4.960 0 Td (in) Tj
+ 1.120 0 Td (observing) Tj
+ 4.620 0 Td (human) Tj
+ 3.380 0 Td (subjects) Tj
+ 3.720 0 Td (in) Tj
+ 1.100 0 Td (the) Tj
+ 1.620 0 Td (laboratory) Tj
+ 4.840 0 Td (has) Tj
+ 1.740 0 Td (no) Tj
+ 1.380 0 Td (doubt) Tj
+ -36.380 -1.800 Td (contributed) Tj
+ 5.540 0 Td (to) Tj
+ 1.280 0 Td (the) Tj
+ 1.800 0 Td (current) Tj
+ 3.620 0 Td (emphasis) Tj
+ 4.580 0 Td (on) Tj
+ 1.540 0 Td (investigating) Tj
+ 6.160 0 Td (models) Tj
+ 3.640 0 Td (of) Tj
+ 1.280 0 Td (learning.) Tj
+ 4.660 0 Td (Laboratory) Tj
+ -34.100 -1.780 Td (observations) Tj
+ 5.880 0 Td (have) Tj
+ 2.380 0 Td (also) Tj
+ 2.020 0 Td (been) Tj
+ 2.360 0 Td (instrumental) Tj
+ 5.920 0 Td (in) Tj
+ 1.140 0 Td (alerting) Tj
+ 3.660 0 Td (us) Tj
+ 1.300 0 Td (to) Tj
+ 1.140 0 Td (theoretical) Tj
+ 4.900 0 Td (dead) Tj
+ 2.460 0 Td (ends,) Tj
+ 2.600 0 Td (such) Tj
+ 2.320 0 Td (as) Tj
+ -38.080 -1.800 Td (some) Tj
+ 2.580 0 Td (of) Tj
+ 1.120 0 Td (the) Tj
+ 1.620 0 Td (more) Tj
+ 2.560 0 Td (convoluted) Tj
+ 5.220 0 Td (refinements) Tj
+ 5.480 0 Td (of) Tj
+ 1.120 0 Td (game-theoretic) Tj
+ 6.840 0 Td (equilibrium) Tj
+ 5.480 0 Td (concepts.) Tj
+ -30.520 -1.800 Td (I) Tj
+ 0.740 0 Td (expect) Tj
+ 3.260 0 Td (that) Tj
+ 2.140 0 Td (the) Tj
+ 1.780 0 Td (interaction) Tj
+ 5.160 0 Td (between) Tj
+ 4.140 0 Td (theory) Tj
+ 3.280 0 Td (and) Tj
+ 2.100 0 Td (experimentation) Tj
+ 7.660 0 Td (will) Tj
+ 2.120 0 Td (continue) Tj
+ 4.260 0 Td (to) Tj
+ -38.140 -1.780 Td (grow) Tj
+ 2.680 0 Td (in) Tj
+ 1.240 0 Td (the) Tj
+ 1.740 0 Td (future.) Tj
+ 3.580 0 Td (As) Tj
+ 1.560 0 Td (economists) Tj
+ 5.300 0 Td (become) Tj
+ 3.720 0 Td (more) Tj
+ 2.660 0 Td (comfortable) Tj
+ 5.640 0 Td (with) Tj
+ 2.400 0 Td (experimentation) Tj
+ 7.620 0 Td (in) Tj
+ -38.140 -1.800 Td (the) Tj
+ 1.840 0 Td (laboratory,) Tj
+ 5.360 0 Td (they) Tj
+ 2.400 0 Td (will) Tj
+ 2.180 0 Td (also) Tj
+ 2.220 0 Td (become) Tj
+ 3.820 0 Td (better) Tj
+ 3.020 0 Td (at) Tj
+ 1.280 0 Td (identifying) Tj
+ 5.360 0 Td (``natural) Tj
+ 4.200 0 Td (experiments'') Tj
+ 6.460 0 Td (in) Tj
+ -38.140 -1.800 Td (real-world) Tj
+ 4.860 0 Td (data.) Tj
+ 2.420 0 Td (Such) Tj
+ 2.360 0 Td (developments) Tj
+ 6.460 0 Td (can) Tj
+ 1.720 0 Td (only) Tj
+ 2.180 0 Td (lead) Tj
+ 2.080 0 Td (to) Tj
+ 1.080 0 Td (better) Tj
+ 2.760 0 Td (models) Tj
+ 3.440 0 Td (of) Tj
+ 1.080 0 Td (economic) Tj
+ 4.420 0 Td (behavior.) Tj
+/F4 1 Tf
+ -34.860 -2.980 Td (3.) Tj
+ 1.240 0 Td (Summary) Tj
+/F2 1 Tf
+ -1.240 -2.400 Td (I) Tj
+ 0.680 0 Td (have) Tj
+ 2.480 0 Td (argued) Tj
+ 3.480 0 Td (that) Tj
+ 2.080 0 Td (in) Tj
+ 1.220 0 Td (order) Tj
+ 2.760 0 Td (to) Tj
+ 1.220 0 Td (why) Tj
+ 2.320 0 Td (economic) Tj
+ 4.560 0 Td (theorists) Tj
+ 4.120 0 Td (behave) Tj
+ 3.500 0 Td (in) Tj
+ 1.220 0 Td (the) Tj
+ 1.740 0 Td (way) Tj
+ 2.220 0 Td (they) Tj
+ 2.300 0 Td (do) Tj
+ 1.500 0 Td (one) Tj
+ -37.400 -1.780 Td (has) Tj
+ 1.780 0 Td (to) Tj
+ 1.140 0 Td (understand) Tj
+ 5.380 0 Td (the) Tj
+ 1.660 0 Td (role) Tj
+ 1.980 0 Td (of) Tj
+ 1.160 0 Td (economic) Tj
+ 4.480 0 Td (theory's) Tj
+ 3.840 0 Td (contribution) Tj
+ 5.740 0 Td (to) Tj
+ 1.160 0 Td (policy) Tj
+ 3 0 Td (analysis.) Tj
+ 4.140 0 Td (The) Tj
+ 1.940 0 Td (fact) Tj
+ -37.400 -1.800 Td (that) Tj
+ 2.020 0 Td (economics) Tj
+ 4.940 0 Td (is) Tj
+ 1 0 Td (fundamentally) Tj
+ 6.820 0 Td (a) Tj
+ 0.800 0 Td (policy) Tj
+ 3.020 0 Td (science) Tj
+ 3.420 0 Td (allows) Tj
+ 3.180 0 Td (one) Tj
+ 1.900 0 Td (to) Tj
+ 1.180 0 Td (explain) Tj
+ 3.540 0 Td (many) Tj
+ 2.820 0 Td (aspects) Tj
+ 3.480 0 Td (of) Tj
+ -38.120 -1.800 Td (economic) Tj
+ 4.440 0 Td (theory) Tj
+ 3.140 0 Td (that) Tj
+ 1.960 0 Td (are) Tj
+ 1.620 0 Td (quite) Tj
+ 2.500 0 Td (mysterious) Tj
+ 5.160 0 Td (otherwise.) Tj
+ 0.180 -6.380 Td (10) Tj
+ET
+Q
+endstream
+endobj
+27 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica
+/Encoding 28 0 R
+/FirstChar 0
+/LastChar 255
+>>
+endobj
+28 0 obj
+<<
+/Type /Encoding
+/Differences [ 1 /dotaccent /fi /fl /fraction /hungarumlaut /Lslash /lslash /ogonek /ring 11 /breve /minus 14 /Zcaron /zcaron /caron /dotlessi /dotlessj /ff /ffi /ffl 30 /grave /quotesingle 130 /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl /circumflex /perthousand /Scaron /guilsinglleft /OE 147 /quotedblleft /quotedblright /bullet /endash /emdash /tilde /trademark /scaron /guilsinglright /oe 159 /Ydieresis 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /hyphen /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ]
+>>
+endobj
+29 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Palatino-Roman
+/Encoding 30 0 R
+/FirstChar 0
+/LastChar 255
+/Widths [ 250 250 605 608 167 380 611 291 313 333 250 333 606 250 667 500 333 287 250 250 250 250 250 250 250 250 250 250 250 250 333 208 250 278 371 500 500 840 778 278 333 333 389 606 250 333 250 606 500 500 500 500 500 500 500 500 500 500 250 250 606 606 606 444 747 778 611 709 774 611 556 763 832 337 333 726 611 946 831 786 604 786 668 525 613 778 722 1000 667 667 667 333 606 333 606 500 278 500 553 444 611 479 333 556 582 291 234 556 291 883 582 546 601 560 395 424 326 603 565 834 516 556 500 333 606 333 606 250 250 250 278 500 500 1000 500 500 333 1144 525 331 998 250 250 250 250 250 250 500 500 606 500 1000 333 979 424 331 827 250 250 667 250 278 500 500 500 500 606 500 333 747 333 500 606 333 747 333 400 606 300 300 333 603 628 250 333 300 333 500 750 750 750 444 778 778 778 778 778 778 944 709 611 611 611 611 337 337 337 337 774 831 786 786 786 786 786 606 833 778 778 778 778 667 604 556 500 500 500 500 500 500 758 444 479 479 479 479 287 287 287 287 546 582 546 546 546 546 546 606 556 603 603 603 603 556 601 556 ]
+/FontDescriptor 31 0 R
+>>
+endobj
+30 0 obj
+<<
+/Type /Encoding
+/Differences [ 1 /dotaccent /fi /fl /fraction /hungarumlaut /Lslash /lslash /ogonek /ring 11 /breve /minus 14 /Zcaron /zcaron /caron /dotlessi /dotlessj /ff /ffi /ffl 30 /grave /quotesingle 130 /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl /circumflex /perthousand /Scaron /guilsinglleft /OE 147 /quotedblleft /quotedblright /bullet /endash /emdash /tilde /trademark /scaron /guilsinglright /oe 159 /Ydieresis 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /hyphen /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ]
+>>
+endobj
+31 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Palatino-Roman
+/FontBBox [ -166 -283 1021 927 ]
+/ItalicAngle 0
+/CapHeight 705
+/Ascend 705
+/Descent -225
+/StemV 20
+/StemH 20
+/Flags 32
+>>
+endobj
+32 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Palatino-Italic
+/Encoding 33 0 R
+/FirstChar 0
+/LastChar 255
+/Widths [ 250 333 528 545 167 333 556 278 333 333 250 333 606 250 667 444 333 278 250 250 250 250 250 250 250 250 250 250 250 250 333 333 250 333 500 500 500 889 778 278 333 333 389 606 250 333 250 296 500 500 500 500 500 500 500 500 500 500 250 250 606 606 606 500 747 722 611 667 778 611 556 722 778 333 333 667 556 944 778 778 611 778 667 556 611 778 722 944 722 667 667 333 606 333 606 500 278 444 463 407 500 389 278 500 500 278 278 444 278 778 556 444 500 463 389 389 333 556 500 722 500 500 444 333 606 333 606 250 250 250 278 500 500 1000 500 500 333 1000 556 333 1028 250 250 250 250 250 250 500 500 500 500 1000 333 1000 389 333 669 250 250 667 250 333 500 500 500 500 606 500 333 747 333 500 606 333 747 333 400 606 300 300 333 556 500 250 333 300 333 500 750 750 750 500 722 722 722 722 722 722 941 667 611 611 611 611 333 333 333 333 778 778 778 778 778 778 778 606 778 778 778 778 778 667 611 500 444 444 444 444 444 444 638 407 389 389 389 389 278 278 278 278 444 556 444 444 444 444 444 606 444 556 556 556 556 500 500 500 ]
+/FontDescriptor 34 0 R
+>>
+endobj
+33 0 obj
+<<
+/Type /Encoding
+/Differences [ 1 /dotaccent /fi /fl /fraction /hungarumlaut /Lslash /lslash /ogonek /ring 11 /breve /minus 14 /Zcaron /zcaron /caron /dotlessi /dotlessj /ff /ffi /ffl 30 /grave /quotesingle 130 /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl /circumflex /perthousand /Scaron /guilsinglleft /OE 147 /quotedblleft /quotedblright /bullet /endash /emdash /tilde /trademark /scaron /guilsinglright /oe 159 /Ydieresis 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /hyphen /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ]
+>>
+endobj
+34 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Palatino-Italic
+/FontBBox [ -170 -276 1010 918 ]
+/ItalicAngle -10
+/CapHeight 705
+/Ascend 705
+/Descent -225
+/StemV 20
+/StemH 20
+/Flags 96
+>>
+endobj
+35 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Palatino-Bold
+/Encoding 36 0 R
+/FirstChar 0
+/LastChar 255
+/Widths [ 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 278 402 500 500 889 833 278 333 333 444 606 250 333 250 296 500 500 500 500 500 500 500 500 500 500 250 250 606 606 606 444 747 778 667 722 833 611 556 833 833 389 389 778 611 1000 833 833 611 833 722 611 667 778 778 1000 667 667 667 333 606 333 606 500 278 500 611 444 611 500 389 556 611 333 333 611 333 889 611 556 611 611 389 444 333 611 556 833 500 556 500 310 606 310 606 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 278 500 500 167 500 500 500 500 227 500 500 389 389 611 611 250 500 500 500 250 250 641 606 333 500 500 500 1000 1000 250 444 250 333 333 333 333 333 333 333 333 250 333 333 250 333 333 333 1000 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 1000 250 438 250 250 250 250 611 833 1000 488 250 250 250 250 250 778 250 250 250 333 250 250 333 556 833 611 250 250 250 250 ]
+/FontDescriptor 37 0 R
+>>
+endobj
+36 0 obj
+<<
+/Type /Encoding
+/Differences [ 255 /.notdef ]
+>>
+endobj
+37 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Palatino-Bold
+/FontBBox [ -152 -266 1000 924 ]
+/ItalicAngle 0
+/CapHeight 705
+/Ascend 705
+/Descent -225
+/StemV 20
+/StemH 20
+/Flags 32
+>>
+endobj
+38 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F5
+/BaseFont /Courier
+/Encoding 39 0 R
+/FirstChar 0
+/LastChar 255
+>>
+endobj
+39 0 obj
+<<
+/Type /Encoding
+/Differences [ 1 /dotaccent /fi /fl /fraction /hungarumlaut /Lslash /lslash /ogonek /ring 11 /breve /minus 14 /Zcaron /zcaron /caron /dotlessi /dotlessj /ff /ffi /ffl 30 /grave /quotesingle 130 /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl /circumflex /perthousand /Scaron /guilsinglleft /OE 147 /quotedblleft /quotedblright /bullet /endash /emdash /tilde /trademark /scaron /guilsinglright /oe 159 /Ydieresis 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /hyphen /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ]
+>>
+endobj
+40 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F6
+/BaseFont /MTSY
+/Encoding 41 0 R
+/FirstChar 0
+/LastChar 255
+/Widths [ 780 278 784 521 780 556 780 780 800 800 800 800 800 1000 500 500 780 780 780 780 754 754 754 754 780 780 780 780 984 984 754 754 1099 1099 616 616 1043 985 985 780 1043 1043 704 704 1043 985 985 762 270 1021 629 629 784 784 0 0 556 519 722 556 733 635 780 780 634 425 452 780 780 451 536 536 780 357 333 333 333 333 333 333 333 333 333 730 280 280 280 280 280 280 280 668 668 668 700 700 662 662 444 444 444 444 370 370 367 367 286 498 616 711 485 280 846 773 701 550 620 620 780 780 1000 1000 1000 1000 758 758 758 758 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 ]
+/FontDescriptor 42 0 R
+>>
+endobj
+41 0 obj
+<<
+/Type /Encoding
+/Differences [ 0 /NUL /Eth /eth /Lslash /lslash /Scaron /scaron /Yacute /yacute /HT /LF /Thorn /thorn /CR /Zcaron /zcaron /DLE /DC1 /DC2 /DC3 /DC4 /onehalf /onequarter /onesuperior /threequarters /threesuperior /twosuperior /brokenbar /minus /multiply /RS /US 39 /quotesingle 96 /grave 127 /DEL /Adieresis /Aring /Ccedilla /Eacute /Ntilde /Odieresis /Udieresis /aacute /agrave /acircumflex /adieresis /atilde /aring /ccedilla /eacute /egrave /ecircumflex /edieresis /iacute /igrave /icircumflex /idieresis /ntilde /oacute /ograve /ocircumflex /odieresis /otilde /uacute /ugrave /ucircumflex /udieresis /dagger /degree 164 /section /bullet /paragraph /germandbls /registered /copyright /trademark /acute /dieresis /notequal /AE /Oslash /infinity /plusminus /lessequal /greaterequal /yen /mu /partialdiff /summation /product /pi /integral /ordfeminine /ordmasculine /Omega /ae /oslash /questiondown /exclamdown /logicalnot /radical /florin /approxequal /Delta /guillemotleft /guillemotright /ellipsis /nbspace /Agrave /Atilde /Otilde /OE /oe /endash /emdash /quotedblleft /quotedblright /quoteleft /quoteright /divide /lozenge /ydieresis /Ydieresis /fraction /currency /guilsinglleft /guilsinglright /fi /fl /daggerdbl /periodcentered /quotesinglbase /quotedblbase /perthousand /Acircumflex /Ecircumflex /Aacute /Edieresis /Egrave /Iacute /Icircumflex /Idieresis /Igrave /Oacute /Ocircumflex /apple /Ograve /Uacute /Ucircumflex /Ugrave 246 /circumflex /tilde /macron /breve /dotaccent /ring /cedilla /hungarumlaut /ogonek /caron ]
+>>
+endobj
+42 0 obj
+<<
+/Type /FontDescriptor
+/FontName /MTSY
+/FontBBox [ 0 -954 1043 796 ]
+/ItalicAngle 0
+/CapHeight 465
+/Ascend 705
+/Descent -150
+/StemV 20
+/StemH 20
+/FontFile 43 0 R
+/Flags 6
+>>
+endobj
+43 0 obj
+<<
+/Filter /ASCII85Decode
+/Length 62 0 R
+/Length1 5606
+/Length2 11633
+/Length3 551
+>>
+stream
+$47+d+@C'dH#dV3BQP@F6Ra-43B8i;<+ohc<+T0NCi=?&FDl2@+@C'fE,Tc*FD5Z2$47+I7W30d6tp
+[Q@ruX0GqVlk;ct5YDJs`:HS8)m;ct5TBl7HnDf0Y>A9DiE<GlMjF_+-4+DYk5GA_b<F`7Zp03)n(E
+HPha6m-,RF<EFp0fV0M2]u[O+D#e-BJ2hnDKJj'E+L/)ATT%L+D#O8@;]V(HZ3nB+D,%uF(Kc6An>e
+"AI8ckF('6'+EVXHAUSo;@;L!rI;*;)Cia09HY-]&F(Kc6An>e"AI8c!1*C+A@rri&AS5^p$48FUDf
+0YgDJ!f03?VjH@rri(F`8I4AS5^p$47n/G%G]8Bl@l3-o!>..3NYB@:X:oCj@.6AS)8V+>63,ChujT
+D.Oh<9iP%o.3NYB@:X:oCj@.6AS)8V+>62mD/!g3:18!N+=KrmFD+WfD.P.=Eb/ZiDf0B:+Co%q$47
+n/=(Q)YBQP@F9k@jLF_rQMEb/ZiDf0B:+Co%q$47n/8T\BWBk'GHB5D-%0Han;AdSkf055JsBm=3":
+hb#]BHUnqCia/1A7]?[$6V!%DId=!Ch[cu:iCDhFD5Z2+>#H,1a$=?AdSkf03)n#ATDU$DIld\Bk(p
+rATMo81GL"_AS)8V+>6K.FD55r+=JZ]Eb/ZiDf0B:+Co%q$4:?^A0>o(@:X:oCj@.6AS)8V01KktFA
+?7]AKWX#<)ZpBA7]?[$84hc@rGmlDJ((I2)ZRcEcPT6$4:<dE$-hf:/st1E-67FA9Di60eYt;BHV8:
+F<G+:E$-nhATVT.E-67FA9Di61G;FCCghBu+E2IF$4:<dE$-tjCiaE$F(c\8F`\a:F`8H\02l@hEc5
+h<E-67FA9Di62D9,]@<-:(+E2IF+CoV6+?(rV@:OG%AKYr7F:&@cF`8H_06pu9F`_1;E-67FA9Di63
+A3p&+E2IF+CoV6+>GQ'9L^.DF`\a:F`8HX0eZL>DfT_<E-670$=n9u+>GW)FD,T5DBNn@F<G+:E$-k
+k01/V[E-67FA9Di60f1Oe@psCrDBNn@F<G+:E$-km07%,:Ec5h<E-670$=n9u+>Gc-6qg#lE-67FA9
+Di60fLaR6ST^&F`\a:F`8HX3%mZe1*COYF<G+:E$-kq018/`+E2IF$4:<dE$-ni018/a+E2IF+CoV6
++>PZ)Df0-"@;KNuE-67FA9Di61,:M$DImg1@<-I$EZf=DF<G+:E$-nl05k`>F*2G5EbTH4+E2IF$4:
+<dE$-nm06ClJAS#k(@<-I$EcW@BF`\a:F`8HY2(s&bEb/g'F`:o4BlA#7E-67FA9Di61,^e-GAhPFE
++O'(DfQt>F`\a:F`8HY2_SW\Deip%@UX:"E-670$=n9u+>Po0D/!m1F!,FEF<G+:E$-nr05YiJFD5]
+1Gp%'KF<G+:E$-qj02b^kE-67FA9Di61GLO_;]p%%F:&@cF`8HZ1,!]f@:NjkE-67FA9Di61G^[qG[
+kPuD'3e?F<G+:E$-qn06),QFCeulC`m\>F<G+:E$-qo05boL@V'S$BkM<+E-670$=n9u+>Yo/A8c:#
+@<*K0F`\a:F`8HZ2_T,]EarZuF<GOFF<G+:E$-qr04A^:ATDj#DIal/F`\a:F`8HZ3A5ApDffQ3Bl7
+R"AKYr7F:&@cF`8H[0J@BREb0-)AS-$,E-67FA9Di61bgY&@<,psEbT0"F<GOFF<G+:E$-tm04ApDA
+TDL+CERS=F<G+:E$-tn05t`MF!,FEF:&@cF`8H[1bW?WD/E](E-67FA9Di61c6q"H#RG.DBNn@F<G+
+:E$-tq05tKCBl@N)E-67FA9Di61cI(/CghBu+E2IF$4:<dE$-ts07%2MD]j"AF<G+:E$-tt05k`>+E
+2IF+CoV6+>ki+FE_XGE-67FA9Di62)-b+BQ@Zq+E2IF$4:<dE$."n04o-FEZf=DF<G+:E$."o04npA
+AKYr7F<G+:E$."p06:iP+E2IF+CoV6+>l#0F(KN+DBNn@F:&@cF`8H\2D8WUB4uB0E-67FA9Di62)d
+1+Bl7K)E-67FA9Di62)m7!Des?0+E2IF+CoV6+>l/4F(K3&@rH1%DBNn@F:&@cF`8H]0J@6RF)rICF
+`\a:F`8H]0e[*XF^])/E-67FA9Di62DQpuEb/[$ATAo4F`\a:F`8H]1G<`jATMs-Df-\:F`[rtA9Di
+62Dd'qF<GOFF<G+:E$.%r00p_"F`\a:F`8H]2D7B>E-67FA9Di62E*9V+E2IF$4:<dE$.%u016q%F`
+\a:F`8H]3A3fDE-67FA9Di62_ZmS+E2IF+CoV6+?)#.7j)bnF:&@cF`8H^1+u0@E-67FA9Di62`!*Y
++E2IF+CoV6+?),18g&(qF<G+:E$.(s02!F,F`[rtA9Di62`<<_+E2IF+CoV6+?)549d"CtF<G+:E$.
+)!02<X/F`\a:F`8H^3A4/NE-670$=n9u+?2&.:`s_"F<G+:E$.+p02Wj2F`\a:F`8H_1+uNJE-67FA
+9Di63&<3d+E2IF$4:<dE$.+s02s'5F`\a:F`8H_2(qrPE-67FA9Di63&WEj+E2IF+CoV6+?2;5=!2I
+)F:&@cF`8H_3%nAVE-67FA9Di63&rWp+E2IF+CoV6+?;,/=s.d,F<G+:E$..q04Js1@r#XtCh74#+E
+2IF$4:<dE$..r04J@"CNF<#F(c\8F`\a:F`8H`1G<3X@:O(aFE2).BQPA9F`\a:F`8H`1bW9Y@qfXe
+Bl[^+D'3e?F<G+:E$..u06M/CATDj%DfTD3E-670$=n9u+?;>5B6%F(AKYr7F<G+:E$./"04>uBF`\
+a:F`8H`3%n_`E-67FA9Di63B8a&+E2IF$4:<dE$-kh0J?rZE-67FA9Di60eb=8AKYr7F<G+:E$-kh1
+,!5^E-67FA9Di60ebC:B-;/9F:&@cF`8HX0JkFr+E2IF+CoV6+>GQ-052PJF`\a:F`8HX0K(S!+E2I
+F+CoV6+>GQ/05D\LF`[rtA9Di60ebR?C`m\>F<G+:E$-kh3A54lE-67FA9Di60ek@8DBNn@F<G+:E$
+-ki0e[GfE-670$=n9u+>GT+05r%QF`\a:F`8HX0f(J&+E2IF+CoV6+>GT-06/1SF`\a:F`8HX0f:V*
++E2IF$4:<dE$-ki2D9.pE-67FA9Di60ekU?FWbXGF<G+:E$-ki3%oFtE-67FA9Di60ek[AG9CjIF:&
+@cF`8HX1,(A++E2IF+CoV6+>GW+06n[ZF`\a:F`8HX1,:M/+E2IF+CoV6+>GW-04Js1@qBIfAoo/7F
+`[rtA9Di60etR=@UX:"E-67FA9Di60etU>@WGmeATDKtBQPA9F`\a:F`8HX1,^doF(8ouFD5Q%AKYr
+7F<G+:E$-kj2_RQf9H\:sF:&@cF`8HX1,ppQA8,UqATMR,+E2IF+CoV6+>GW300sVmDJ()2F`\a:F`
+8HX1GCIL@qB1bCi!N&E-67FA9Di60f(O;7:B\KFCcS6F`[rtA9Di60f(R<:3:2dA7Zm&F`\a:F`8HX
+1G^[[A8,UqATMR,+E2IF+CoV6+>GZ/03)OsATD@'BlbD9F`\a:F`8HX1Gpgo@:OG%AKYr7F:&@cF`8
+HX1H$mpB6%F(AKYr7F<G+:E$-kk2_STLBl[^+D.[TqGT^sJF<G+:E$-kk3%n]NBk;<rF(o\<E-67FA
+9Di60f(gC@<?4"A7Zm&F`[rtA9Di60f1R;@<-("B-;/9F<G+:E$-kl0e[$HARoLkCgeH*F`\a:F`8H
+X1bp^q@:OG%AKYr7F<G+:E$-kl1G<<PEaa-&+E2IF$4:<dE$-kl1bWEMBl[^+D.[TqGT^sJF<G+:E$
+-kl2(rNOBk;<rF(o\<E-67FA9Di60f1dABjkLoFCcS6F`\a:F`8HX1cI(%B6%F(AKYr7F:&@cF`8HX
+1cR.&@qfsnF_t`,AU#>:F`\a:F`8HX1c[4'A8,UqATMR,+E2IF+CoV6+>G`-05blGCh.*"E-67FA9D
+i60f:[=Ddd-uFCcS6F`[rtA9Di60f:^>DeF*!G%De8F`\a:F`8HX2)?n(@qfsnF_t`,AU#>:F`\a:F
+`8HX2)Ht)A8,UqATMR,+E2IF+CoV6+>G`205krHCh.*"E-670$=n9u+>G`306L]5F`_1;E-67FA9Di
+60f:mCF_>`'G%De8F`\a:F`8HX2)m73@qfsnF_t`,AU#>:F`\a:F`8HX2*!=4A8,UqATMR,+E2IF$4
+:<dE$-kn0J?sFB4kdr+E2IF+CoV6+>Gc/04\X,Eb/f)E-67FA9Di60fCd?@qBP"+E2IF+CoV6+>Gc1
+06;5HEboH-B-;/9F:&@cF`8HX2Dd(.ARfgrDf-\:F`\a:F`8HX2Dm-sF_kl*F<GOFF<G+:E$-kn2D9
+#XEa`U$@;om&E-67FA9Di60fCsDB4Z+#@;]UbCi^_<F`[rtA9Di60fD!EEb/ltF*(u6ARlp&F`\a:F
+`8HX2E<F#DfBuBBkM+$+E2IF+CoV6+>Gf/06D5CA7]UdEbce:F`\a:F`8HX2_cso@s)m)+E2IF$4:<
+dE$-ko1,!0PATD@'BlbD9F`\a:F`8HX2`!+)DffQ1F^])/E-67FA9Di60fLpB5t)o8F`\a:F`8HX2`
+36aF)59+BHV8:F:&@cF`8HX2`<='DJ!U#BlnVCE-67FA9Di60fM$EE,9Z<D/!m1F!,FEF<G+:E$-ko
+3%o)ZF)to4F^])/E-67FA9Di60fM*GB6%QlFCfK(EHP]++E2IF$4:<dE$-kp0J@]_DBNn@F<G+:E$-
+kp0e[Bd+E2IF+CoV6+>Gi205t??FD50"A8,Xf+E2IF+CoV6+>Gi306;8QD..O#Df-\:F`[rtA9Di60
+fV!CE,ol-F^oM9E-67FA9Di60fV$DE+pG6F`\a:F`8HX3&WF(DKKH&Ea`c,E-67FA9Di60fV*FDfTB
+#ASl.!Bl7K)E-670$=n9u+>Gi805klAD..KqF_kc0AKYr7F<G+:E$-kp3A40FAS5EoE-67FA9Di60f
+^p@@:^R#F`\a:F`8HX3AE1*F)59+BHV8:F:&@cF`8HX3AN7-F_,W9Bl@m"Dg-(AE-67FA9Di60f_$C
+AU%^$@;TOnGA\OBF`\a:F`8HX3A`C*DeEco@;Kh"F<GOFF<G+:E$-kq2(ruYA8,O^C`m\>F:&@cF`8
+HX3ArO&Ci=?.DBNn@F<G+:E$-kq2_STYE,olAAT;j$C`m\>F<G+:E$-kq3%m[2Cij).E-67FA9Di60
+f_6IB6@p)Ch7I%FDPN#F<GOFF:&@cF`8HY0JG.mF_PZ.ASl@-EbT0"F<GOFF<G+:E$-ni0e[*SCh[j
+0BlbD9F`\a:F`8HY0JY;!@WQKs@q?d%F`\a:F`8HY0Jb@JB6%F(AKYr7F:&@cF`8HY0JkFKFD5Q%AK
+Yr7F<G+:E$-ni2(qaIBl%<k+E2IF+CoV6+>PW/02G"ZE-67FA9Di61,(X?De1&1F`[rtA9Di61,([@
+ASu$eF(c\8F`\a:F`8HY0KCdtD.I'rBHV8:F<G+:E$-nj0J@EgDffQ$@VfjlAoo/7F`\a:F`8HY0ek
+>$F`2A5A7B@qBkM+$+E2IF$4:<dE$-nj1,!WiDffQ,AS-$,E-67FA9Di61,1R<EHQ2AATDKtBQPA9F
+`\a:F`8HY0f1OoBm+3$AKYr7F<G+:E$-nj2(rcaH=^u,AKYr7F:&@cF`8HY0fC\1A8,UqATMR,+E2I
+F+CoV6+>PZ103Mh"ATD@'BlbD9F`\a:F`8HY0fUguEa`I"Bl@l3E-67FA9Di61,1dB@s)g4ASu"'+E
+2IF$4:<dE$-nk0J@']Bl%j)DJ*d%AS-$,E-67FA9Di61,:R;B6@p)F(oN)CiX6&BQPA9F`\a:F`8HY
+1,:LpBcqA;F<G+:E$-nk1G<?V+E2IF$4:<dE$-nk1bWBJB4kdrA7B?tE-67FA9Di61,:^?E+O'(De*
+?hDKKH1ARlp&F`\a:F`8HY1,^e*F`2A5F(oN)CgpgoAKYr7F<G+:E$-nk2_T/nDffQ$@VfL^F(HJ5F
+`[rtA9Di61,:gBE+O'3BQ&$7@;]TuE-67FA9Di61,:jC6"=VL@s)X#Ch7i6E-67FA9Di61,CU;7:U%
+P@s)X#Ch7i6E-67FA9Di61,CX<6"+8GFCcS6F`[rtA9Di61,C[=7:^+DEb0<+F!,FEF<G+:E$-nl1G
+;10Eaa-&+E2IF+CoV6+>P`001fS^F`_1;E-67FA9Di61,Cd@8RlIT@s)X#Ch7i6E-670$=n9u+>P`2
+01f\gATD@'BlbD9F`\a:F`8HY1H-sYB6%F(AKYr7F<G+:E$-nl3%n'9@s)m)+E2IF+CoV6+>P`502H
+(lEas6/Ao)%'+E2IF$4:<dE$-nm0J?jRE,9).E-67FA9Di61,L^=:M4]VG%De8F`\a:F`8HY1bp^a@
+:OG%AKYr7F<G+:E$-nm1G;a<Bl[^+D.[TqGT^sJF:&@cF`8HY1c-jcB6%F(AKYr7F<G+:E$-nm2(rK
+YFDPN0F(lb9F`\a:F`8HY1c@!sBl[^+D.[TqGT^sJF<G+:E$-nm2_T8eCh.*"E-670$=n9u+>Pc505
+Y--Ec5h<E-67FA9Di61,M!E@WH%'AKYr7F<G+:E$-nn0J?sTFCAZhASuT4E-67FA9Di61,Ud>EbTE(
++E2IF$4:<dE$-nn1,!-KA8,jr@3BN3F<G+:E$-nn1G<EaDJ*BuF_tr'F`\aFF`\a:F`8HY2)Ht)B5_
+[!CERS=F<G+:E$-nn2(rHJEc5h<E-670$?B]dA8c@%Gp$X/AdSku:gn'UFB!O)AKWZLA7]?[$84keD
+KJj'E+L.H+Co%q$48FbFE2;8AQNSVFD)dN+Co%q$48FUDf0Yk@<?O(GZujS0JG4(0H`%l0J5%50d&.
+m0O8^1@:X:oCj@.6AS)8V03)n(EHPha6m+?@0fV0M2]uXBAdSku7W30d6:,U8HS?Qo3AiW90ebF?+?
+);=I<&n-A8c@%Gp$X/AdSlTF`MM6DKKE'@rri)DIa(]@s)g4ASuU%Bl%?'AS$*t@g]=:kt6]%V!Zi\
+5o22R0@s]_VHAJuh7BkF<``IdoU\oYV,NV\h09GVUk?G4gIjT/n"Mu>LuTCUPsb9A&M"(3)q=^k!T+
+:8m066jAQaXbduICt-#:aY$cp2r$kRSf\a7kr8XXfjqq3NoKM&iW>u*B37?7a*kiZ`9m>#\QQ8cF]"
+fjV"53bJXR(;U>=YY:D@SLo7#*3)i5LFJs@PYdH:(Ai$W$nTO'6;-1m]>R"S7#S2,'KG(-<AE,+_c@
+o4@Hi_%sJ')mgouh>;K!iE$\n@H<Bkfa(dap]B01gc!6/()a+mKDMT9,2rmSiC^l[]Q4PtoCN&=(B+
+6aM`P2.g`@#@.m+1uQ4<7W_qAhH?rb;lGJArES>YQ2*p(:XB,?jb^C?3!65X*j>N_)<VfZu>rGbWnc
+oE%Kpb,CXEjb^YeOV3<@^GM0;1+UH2Ym-Am'l_GD.YkgL`uB67XE[H!&V:';$UT*#RAR%6P!aEHBjD
+UA9B1d-XS!G<ZQ#\ik2lN9_kU!QW\>iLP7p<>ol/;YE;DiR&5hETZP&#)PC>4`^\AOJ3C,^YMJJ7,q
+Ecu:4p:E*d`Kl($0.@9>VeMRQ-!0lTKg[ME"\Qf2@gEg"@r1G-]\dA"XYk?JS`p7n;51n1FR6%TC@N
+udMSAS).':VRsOtLl?W&]>Lc`gR+'?0)qu^kI]9ilYF'PF%J8gK&f2kuGF.GSJC-V!)g9hRVNEK;Yb
+5Um$+&gn?2IQX26*:1*@A<OSb%l!!K`&6/Ntb8/,7Ieag=GHa=)#jlei33WtE-knUG,%ml[gbQ'4(7
+i@k@7!n8Xrb2E[p!DQenX:Wd!GNh$XX7CKgFWmX0D8*<0%.GK=;TiOc:cKS=UWcD+dLUpOLp0W6ZR4
+\"'94h^6@F=2heT5bFfEm=,Jd/)RBJ8E[%cP8Npjr1iGRm3)m5Zb)=/oUdJdh'/E#1Nh;sm`Wn&$g^
+#$otUB)`EgKiHY)sjX=V1%.,Z0"&X.@Uu&ir*cSdir-mIY>2WHr70*e6dI!NBdU=4%7a*(41AOS/?d
+sLFn?mlH=B(]6&\&j)M2M#PauT#'LZd2@GfcLM-&Cr5nXR+H?Uhe%@SN$B;dMmJn%)/92t]+GTB7co
+ejH5\Zp@"[mM=A8c&!(F1WoAE2^b"ol(sd)p-$NIoL47V6C#GVBssPe8-/HjWL3ZQujF:Ihmc-Bc])
+SS=QMObS,Wo5m31N03aW+IV%X4B6tL\A$R'bg9\^plQZA=6._uW2Bnch*1EX.&H:Ll/Zifa.M0cZLo
+JLN[A5B1h+fT@>k(e`Dn.$)[pb55UK<F<?'1`UK`4o4KC7Dll2.1U1Y*CrI;_fS4L1>,ehJXobnZ@T
+C#2^rSjoV@\jQXJ\-gk3GIO9B>@^]_YN.4)XC5(L"<%R\o7%,Z9GI4por_XA2_cpn2$0PGdL]WIXGj
+fltQEY:Tj'Zjo>h"WthB_:=LYaS<%goA^GD3kL5XFl07Wh\u\^73lnK&1Lk:IY7f)!>-uIW_3Qpr5j
+(Ii=e7q.Tn4-==LatXE3fn.I7\ioSXD^ak_b>428u&o.r1pSr1>8IHrlqA7j@hK3%.=\:,b11VM9P`
+galABrRTRSR!fiRd4L%OR\L\HKTq5`QrORV<Jme""-sfZ8j)Ma*tgCed(h3JmJOo<Hm8,@DJs9M"XZ
+8W%J)$;admlb3$"oa@L5'J3Y?,/q\iF"JU#\<l<5cs[^\rT[tO3101`Y$F[/]B>T`an7(\.l@bjDAV
+="@4-(JX5V)aY@R*"BI;f!cgo*WZ)iLG8>Kl,(+<N4ck0j\t54o.^V38o>5L19g_/`"]`s+aBd@BDr
+or5(Qq+m$h2O\T5c\N.DprL8&kmM<9TU#QIAolaA=LDO==ZqoK&ZBd296'*Q0Zt%47<u7.$J6*u0%j
+H(G!NAgaHooHm\+I-:#E!U[1Z[cs/0+HWL6m1MIoSV-?I[DliDu3;(4.5Q2D6C[hLmbH^5tWpgn-U*
+ZYQlt;DKF_=JrO4h_'4'$Q6#PQZkdALXch.)&Fc0[uj>&RMO_AiQ07>I>%0u1!dEYfMgWK/*Pae8og
+C7+UD\HNK"8F:S3""-NkLJ!&`>MVWg4g/&u%ZVr0SC^&<TUjuS4YW`'ABqgbUT.%`KX[Ap[p%\iU//
+3Z!&2%G"KWLfGB%9gs-2JmPDJDTboak-IDY<p=Zfe-Xf=+Dn.<chMP:F4jg+(S%ga:h9V!iIk>crs%
+<g_W3;pI$.hXG(CB,6^@ALopK2Fur&rN\T`%QpQ)4Lr06/gVVqY/CZl3eA8:Ph"&9o:'4LOJ9W$ID]
+#F.AP4\-2L*jJ1Vq+6Z#ILD/7:q\#/@`!_Kq]mdI7e?h1Q0d!7N3%Q)a#8I*gHG/lK_tAW"AMo&kpd
+;R@RA*].h2`2@36KY#)4r2X3a9oYnldaRXNA+XBL*0U6WX)Td\0_iWY3e>p4Z`l6dlF,k!)X%$;7e1
+sC@YL6naGio/I'!Eu3E3oaT3WBP;M`7rBc`;a**E#+Iai;e*tH.53c>(27G6ih9*4jZVJN;j"f,_;E
+/Ht(KV9>V=6K>h_D.$qC(6XT+)\,,GD9llk]cFPM5/Saq^OJnB/ePECuT-f*2rpJZni+hKahp2C'Zl
+eXif.pC6C-"U;!#@cmFp:-W\1_CP>h/B&>^E"b6C7l,<pV,j'lt!H<<b4pQG5L.6HhOKold^p([-.Q
+k1aFAYo#HJqsGg_1nA^1kOOBcCsYJ>(Z,:>I\SYW&c;8AJ>[:rJ-T,S.1(pqQm-pQe;]Au.!?KA-\@
+^pF\BhYt3)`\1C<:oKr)T.UA!QQUBt<A)Sc-[rQ9*j60<UoL[brlHi)bW=,?1bL%Tn.NG^i!/>/o^Z
+0_kWNf`K*]P_4ch1KVW[;NDG<0q';Hk;&1Gc@R6d%Rh@06<BraM=W/2Dh-UUG/)kYWtRq+bc:8WgKB
+L)^/P7agbrV;*MSD"`ISpW$^7H)Wdo$h"[2Q:fHTAE-I=i3+,Za\SU"Zklc/cNF5ppM^KQ79$I1D?u
+T<&d&SL=LE<g*pp;54J65R'4@#YK\oEnZ\(SJ*O<)lUt(Qe?j06OG;02/Qd4!Q'V=6?NhMta5'j8Ea
+0u)>IMk2o=iAO/XsS$A?i=)8`hD;peRDlAaRsSh:Lo`rXBN@f4,H1K6kV'?u\)-ikCihGqfO3s/@4X
+ln!F*dQ%BaX!(^+B?SR,D[5NO&_i8p8"Np;I"bc#?+JW+X)K)ffbfK9,on;(U`+FR?<bWb0fABu?:i
+1uND>OJeXrF@SW.Ouoj+*LA;Zf,K_R:t$G>`V#9$PnXoj<G@]*QN^Q4=Clp5*;OL]+Y?c?f[>Uu*6g
+526?hl8E+aVYL->HQTB!nL8?EO]j@ac$lI@39HK5WlSoB*^I73e&?qp(06\af,qJ"C\'.&6@USg;Y,
+\P,p>;,2X/cF30,@dA<'.1&b6Ri-#<e?0X&XX^:pi"E&sd0s'9&dHUD3LC8>DYYau0RbqgT]MNNO7V
+lg)f%m',>GB=?%R(;#m/2+^%$L`,NHLF7b]B<80(<&VMEh*gjg)Wu:[iOjEYuNB?U57C21B4%-[X-n
+1FZ'FeSN33-Dn=dg,goD-``tpXUX(p>Dho[A8fL3D;=".?6L3TJ$R%.!dJ(\B/:J10K!a>\o-KnR#@
+2C`@,D^D0+I':52n&S77Ml1*u>&Ft%RmN26("c_Zl8HdoTC].u[<#Q8iK:eI[0MiasSj91]\)'")X-
+L:'MIj604"MZa^?BZ2r=2C*)Bg`8$P8<3rV6L@2D7T@.]'Lh(@4O;1E[u-dGi3/T$D5K-d(fhm,`No
+[L>Upij#:=!Ap^Vq$gm_/GHY@dmJT>+cNMh.glH""!'KeNpO:PqN)N?KKPY9p16)7ZeH#hh]8s.\D]
+<AY.k@%5,)LW>Vr.VbYWl-GTA*U].:3SBmkpHo+n+*p[(dfI*/laG^Ju?i=fMoHmK,l!?X!F+)6P'_
+l\_cp@DF,s;.*_FZh:?Zd7XH6_HKG=JJ)^ig*+QO3pg?W*ErA&"lkqjL*h8L+TK.1k^_rsj7Xr/eLC
+(#-0j79Po@Y9CcEMJ5'.=AlP&'K9:C0qReVocc'>p0<G5IHQ6<CJcYn+KdO(p(GXSFm5tY8kdk);t1
+c3RYWB!iN*u$Cl%%pM'cD?o0KrQXq#DG/@_4TTj!mgLV_IWR!e#)ZK<4Mdso:mCYh[iYhZT(6=c_Ae
+lClcQF4J4/W3/hbg`X\#INJ4*kok:JLr"dQrg8;]'B`B5O`V/'X42^.WLTOs>gi`#o%V(d)[+Jae5T
+u<0o!i-#)#UY-BRAU`E'dnjSo4B)md<rL:Ee,U>Arojf6EZ!-(]#Qo\U1[TnnhAdP?(lP'h;'>$Vf^
+O>3bMo;6DnUMnJ&e095bk!+F1#haQS6.N!E9AG5B,8`R<pb!a1OhH*f,1CCk<!bZ[H.i$V3*h!nMLC
+i.joT)%,ng_p1Wi\sOIKe@&0["t!4e1rCNa(B[rRef?M-0K20=l)YB.:l_<b9KDk/d.M'<pWg:sIU_
+C(nXVP7cM?i<XlTe6"2;XsrkPPj6M:Xq.6p>RYX;Od.G-B#<jr6P;)S^))]l.t*mb1-4.9^]cTH.Cq
+'d3P27*;mHs94^BPf6A[QY)[DIIj&-XcjH?[m&1]kF\2qILHsW"RDIfDBBB@2.TE+rCH3p?$(W"---
+rUIZg`Z-ZDm<^,hGii19)6MceH)Hj>dN2.1no7X_@\CQ9*gEHk/GfiM9Nib>M#S1HZl\p5I:8hPT%k
+m,VJtE4Dsf1?^tKiO\KL$Z.cs]6F5'6`g>X=G<(+#g`.,B$[@>h,e&A2?X#ti,ZMVq3ZTgK?!\-fI?
+SFrB4s_#9B:;l>a0VO#a>#B7p1g+rm<)0@sRDDMt\pcs4QLC?fj@$Vdor?+dOOn:)'k06-,p&PjBdT
+[CD'Ui-2fpYtNr^b_]T;:=I1/WFQ1U-V?k!qRcEKm"B=^R),ZU&5_m0`QO<Q/Cu$XaUE&K+1l"&C.k
+X8^XmPSd!`K8K50Yg<h]T=Q&B3p/<iKW&_RV8o-j5/dQjTPadU:Nu>D.^?W'(^KAf?iS@IKIcIi>)3
+Bs1U/B_i&_sZMc%1nE*U/Vl6j:1).'nb!]*O<UjDmQS%^m-9@o_^9:oS_;L+]pk(e)V^(8!9Xm23gg
+S+ob`eVg>RVj!.W?3-X"#N";qB;(3catNHb.%WAegFVJH_,8F<@dS?7jG0oVReO'i(<No]rN55s\0>
+Prjs0=.Rr?YkLcqf?d`pVb=HK#0p[C+S8:R\4[:PdTqK-aOnB0P\=A7\'!n`:@2%K>l6O,GT$@2BAF
+3IkWQ,=s%\d#.3,nAREc'Q.IgOh7Ur;+5A?n;UU6hFm-?%An2h4j=e*W".]ki[p+iVFl";=1)=,"Nt
+$ot6L`&hAJ*2$n]+CV=SU_H4/dTjbJ///]pFSui=2":]cTJC[dd(5/]VaOHuiFZdc@lj!&`LF=m'Ge
+,Gg?S]b1F`Zu*G9<G]^1'cQ&tH.^e"^lW<rG!gW>cNE_Aig2dYU9`*iRQ(W&eBuKUGf7Ej.\GSGg-H
+BP=<W2:I+',\hJ2Kf9?FVFli*$R+DTEE/k8J0;BohpbFt-#;gLd`I!VC#`?o>2'"JO!Ffk!BkY:pNI
+O+6AB8+r?Yu6]h1_8G)ERGcXT,^PA)@=\$-O423BDa4;4af"K`jR*Xf$34NUdk5m>mrqY&?'of%UDH
+\/_X:X!=>X%_VqDrOl^!CtAS-<UbHQ38[.]+C\scIas0:bEiWYdbfJ%)K*OKJYQjV*W>T>jn"8qZ['
+!/]1eJ2s<[SVSTee,o@<9KsaH'@(o=&_qiS$@,hBngA9[YM3:<kd9gB-(.WjD!UMXu3I[AB;ssQ2ki
+IOQ#Fr/kCPEPqo_1BU-!G\IOmnuemp3)CQ*G3<LU1<oc#<L[,<nHZd)7^]'hepbnt#ulU\#hpF'I)m
+dsX?:El);\V-T5bbF?PP/qo'N:dR1S;fpVc9F5lN3u-itA);7rS'L-O1:5<kUmFea"e;uF+[-J@Ae-
+8oT5q4U-on/=JqLctVQ^K5]aVfcA3*C#lS"@;_+9r2-e%_f54SBo&FK;u=UPRI+luUiQ%IIq.U[HZ8
+d@)8i&E.+<gJ^.!rEh-]?<O-DAE3(r0l8Ds)V*4N6a4))[5%f6*><';oY4Y9u':K>HYH=WMs`j25+h
+[7Ai8JQV@mJf<1qRGkA9idPH,_\t[M1!;K8JrY\pX9%.GpF^Kk[M?8<)ei/H^G#F6M"R,^`Nb"!0-=
+^qrAW^Y\eCkG8prj/,q5n4*gIK>[hJLlaor9,d6KpK4XQ$_W3iYsgHQk.!nO$6LNsXYnp=?bd4UQY_
+Hs)PFo7VDT[Z@EL61TpR>Dul^,SgBd!4@LkP+DENK46D7P>ZG4,b[$:F0iVs;_aulZmXlVp8N0AVY=
+&nYQ]3KJS8%>=ZR:Uc]cd`3B!k)F%:HN.Ph1mFW]EOnIW#b`l@D1U_Id),p=inY<0p.6Q,V!nd<0j+
+\BuZIV/V-!&PB:N1nu2&)jK-ZP:(>cdYnsaR4AUX9,BaraNMuU[bu\DssqBUIdp*=9<aEWFWCW:i;l
+W@X"Kl0s1qFD)MnM&30DiUAYg\I]1]se>n&#e?/nPFCX\DNuBibs7A\KS#%G)i:7<d/qeHU#>@5)"I
+;$]533.Cmp>llV0ppC[hkfe@@p7MpRQ&C_.p>ZF%rR,"s_-OU"4T"GhI"Hb,-\sdj6lCF,gueq=Vj@
+U`emmAtkIUE3PG8cWA^Y_l,V*A;$@MUN3S%)j]+AHr@&Sp\`M-8u!K9189JV?T$%^mn2;E5a[fcT$7
+n,ldgJ__qZI6K3;f=WDju(]@OV>-.>i,VHOMN=8?G4@U1^#:Tkhj#]2N0T+\F]fD^l$hdW]`p,/<Tb
+&g^GWW1E(1eoCt]-&/c=lAp#o/<h3gO$9Xl%(F_88?4PWV]CD]ulm@2>Z[[fd/WW'VLqED8.8p0aa(
+A,bPs)GQ_m*79PoT\.o#SMR<5B'D4TT\e,KBNK8[2XZA/b`lf]8\h5'mI!7@rl76c&>`Lq6-GT,^%^
+>o3hB*qZFtWlnb'Z1NAS&m4mJMr$dVUnGDQbdX%IB>p?KD9_.,;o[V:1c#9F8FqeiLbn<46sP%p]_t
+8N:Xb2,Gsn=_@Z0i-`GGH7X-]8n'8BSDS-i=N1e5fKS_GZ\JsXdH$@>Qh/P)H2o,"[ID:/Ck#bL2/e
+`0:LaMr?Ub"I_V85OHhs4Y7GGhGR:U\(2'BhRB9.1#W=K)k3P7-UbZ\hk0?mE:)@(l`[*7c$nUkC;h
+q!VBkD#)L<7JB]A(<nh[UaB:j.-5kgZ+0:i"Ii@7@,cHL['eZhRGPdCnr=ta#^6ko.0G$]m(Lp+Zli
+I,6)dH\Yg1(Dos+EB?b`OCJ[C5;WBLpf_bUR7;*$Xrl].SF:*jpG(R6`/33ja!D=`WAbSHk*nkf:Rk
+%4:3mCM(PH[g?)*InaV=)!<`H^H>q\(E_NtI5GcM<fD&9s.#<K8r8*KT%ALO$_R\<h8#l"2N3'E9qr
+kdo"5JmZaLn4<qc483R"=:@3&]XfpWhlfH'FgTQcPXX,%iC5\%C$o,'*L,p*1QWGe5CP+U9;)VFMnG
+.fTS7nh^tf2gojPRS+T11'HC%k/`LKeQ!$8Wu[?aU4Bdq.QoPcp9>ca-\-b.E8p92(^AdBN:`r8TI+
+?BtKOGM4Q"@SdNF*756N]&i%T<kiP+c&GbfV^;5QW2ZY$\lqL[knt(OiDYi*4qcCI8$CiUqn]#^ZKA
+Zf;C5',%%*Na+4Jp[h8N_L'1bd%d1!%VAobA0>`OFTn*k>9P@=!;-gkThu,BX8[ri)IXg:=&mNN[0^
+[;D]-e?O1QQdoo!EVo/gWYrZDo2:Sq3)5(jI2%pZGINWpiG>U+4o8BjF4(d&'bK")s5%5T+!uOX&!F
+c@3&FaYsl@^d%/5dGqFL=;/M;c+<$]/k7"Cruqm*840&V5X;:AOHVEU4jCRs0%]/OnhT"!e':S7f[<
+H"AD=5H+>u2nnHmXoQ_an>'@m#-Mfc0&/^bmtD5+ejZ3[Oqe5h2&!t"C5&)d'P#]aE'K>X[7ec4#kV
+m;<X\IJ9(93?mg7+Qk\`)7VM3Hb).A=U!L'6Tf?nV<XsDQ)u?Uk;,j]D+6M*bYH$Aoi,lIBMbEA<*&
+2[E2u&e3iu1hY9)/j]@u\g.e^u5sob&5=s%e6<AKXC1++GWGhq]l#mP)2H4.Qpg`a.5r4+TiWLSj)/
+!D<LRGAC'sC)8OjjDWbjG<>AO!M-=E+')"YiSeg65MT6L7mK4t1(LnGM=dc6Z-hlu^A3V.,S8jLQ9K
+eQTiNmp_$%1r#+gU:q'p[P0lWD/UW.%dlQ_80k,?'C_mS$L33o>c>uqjS&&C<UmOpDYG\c-8Rtn33e
+t-jaI7f"Bo_a1J0i\Va8MM,ontHFaTq7o@NC@B$p7;Gmc>9Ki*R"a254UF+H(_rR\1]\QLAis(Q*\a
+/-Jq#s>DoSAsE+Q-;#DcYcn6gh7Wl%l:EVdYioiBc7A[m7-*OAp-k6]hB@>6@_`K"I$-f4/MJC\3ES
+/Lh=(h-\IE-:qGK2&VFqrOOON9KH"*0QW@B]*Zt'Rkm(aBTKNC2'MQ:8;eaW@de(L+WdB8a!`qe>f/
+I2CYY(`Rb01B7Dn*9<X_T9\o]n'\E(6m>N8jp^R.(mu>YM3Y6@]o>BE9pImDX3c+<@qbr9lIf20u3.
+!6ZP$j$KGl4?#GN&8V?B*6Yb\=C^sU<3??q=fEH"[KtVP;,JsK\r_e]3D#$n8=^=C/'V*R=L'R2:JI
+MG!V-@"rLeDpR]9FRMY42rR:!5ZQe.38n[(/bm0,#f4jd^f_[/a=_hQ]0J%]Yknp/'gAfd[F_umA/D
+ZKgA."kAH:74V1PJi?L<r3HfYS'T?h^YQdc@lh>rc/A6rsmQi@o>S1PWhI9*#.XWCQ^p/Iq^dU*[YD
+=^o)pmiI>s0V'QCApZism(k>QmOS[D0.3`lA(E0ms]6)(`)UJN,fB#sK^[IH&7%2[]R"SBqE>A@g9$
+ZA"+n0!@fou9tR<8tu%!S4acDDeSP&L,t@I&26e\!(/R7-+4;Tn(H,M7JU$T3bp-5MJhU+\B&#3@ak
+T=Q&t)<O\$O/2^i/ult<f2IS!Lgnqu,;Dr\16'pQR@oiQ'BN_3GO@+>59+Li9''K!R!OK]?iPZ)(8B
+u3]O<KRgX&@*j?#A<o$p/I7Wt^4G$n^qYS9Zo<o$A<@Q)3<WD)@S:'!oq1qX(Lp,VIA-!94d0dL12)
+JH7AV;T[")jQ!^^f>]r'oX:cbcu<+9E0Xk0Ztc?ENhj[,*RVNr\Y]0Z^a\%g9jYf$n%<B8?a*!\d0J
+"7IDjdX'BWBPoQh$H<ZFOI+Z\1LcbbBK9*I+_X/Xto^ZDIB_WF2TQnNQeTDVkY%:_F$>][JZpf-JA4
+0:b.1C$n4hmckg$n1sGA*]ZBg'Oh"GDhZJn>isE*FZH*a_^hX'67d_91]WamLBk,+3_ZpT(14"k07-
+aCl!Fcl^dPm0i$V9S=Dl7'?e_Jp'V%d;3VMl?NsV=bgCa:kQ.g:/QbU*J'bC-GMMNJ888L4Ot:rS\L
+TtFO_3Z`l$N9SI/Hq%tr43[ZG/!@Z!?pbA;=7iZ$-_*=$[YW50*Q`+9ul1B'\-6N#.Z?0"hEP:LDf+
+g=MQiF:,cZ'%aVNics/RKXOa>Ai<UGrsZ6fskVui'9!e'>ASHRS6_`Q/>PI2*)LAVi?'u6ZjbD(pQg
+hj>4eF9-rWkU-LsgKu6HRlt)l+;M.-/3k)"#4[>1O^Spe3#+f>m[q9ZIcVo4=Gj_)e@h&u7oDU\^U/
+D8%>9[Aff5-\lRD@22:5:d#cb+ss&iZ5L?__ZgbeoOs)un`S7'"a)__WVE<YZS,B%Q]'jCbbSYKsYT
+oXDhl#$Qrb_Ma#+gOM,P`ah*s:,9`N4boToNW`eY8AWoIK(1Z;k#FM-^2@=dmrCJr8)jrp17n8<?dV
+MXHC\bi;p,Ig%Be8!MLq6S.-<0mc"UA(k%nnK?AN:T\@nsr"-UW.-!dB&A4!)qe<:BlJ1_cu=rjs.-
+?A0*';"c4%&Q]kZhD"M+ldn_lE-,l+6l15_CZ54-VDU__3;<\2?#`V-E9iVA5?2UL.$a^P<j/V[P(s
+(5?"<)$EU5?&^Fa<nYP^@+f]!Iko;[Ws%RPFVX,L5>a;M])i#<CC>Z0VH2E59lN5atjS1PbA*GqEl`
+9&E(Hq<NVc]WZ!)L#[i^g=*AAp-*_%T"glScDq5r_$q6.:LjB8HQ?AXYo3-V^ooe$2<G4/"4s@8q@T
+`5aq[2(gUi%V"'!"&X72+X(.<G[JoRN*#-3983pi]"Wfo`O)ac]^/eU"&cT>.dRH]\u\7KKqg]Q")O
++Yph8H1,lFs;c4"BfK:^`'`sf:j_\_H^qY!`6i.+BeJMnT&o%>hteU!=B!<mdP?tVaH'+MSJnr[j1&
+-8\sf\BGi:Ms<;9ptVi+5).^rR@6-Goh/_%LZRQ1a@JHQf*t'me65]PQh]I$&--/P)HnEQ4HJgb>_p
+"M(7780C#?>,E3>Gop(lK]^@K6qGRTnl;>_KH&O(.5t>Ys+7pjh*u6dhZrdMn5#N[C@a^b$f<A2_>K
+*bW`U="Cbg[pZ#hP%`i!IGBifbLQg5WCH>BJY9g9sG,C#`-gc(u`H\\`*b&+In[:FOM4YAB/,P,2Wh
+g8i+D>kVf'`EL=_%-u/GkIJ[[UhD$UZ[-/oIDG;7:DJ!:I[4e1>1&92-uH_P&_Rd55O4SVVPtbi2g(
+_DEJ=P=HGbEDGAY@JB&6l[;r,m-Mps@&s6n'>hRraTpWT+)5ZKW!)j8&u^+'/;:H'Lm!>VS8oT1%7U
+QdrpmmSS8a8f"4T(*?EeKE^eci]@*U+\fLlGjR[p)Jqhhj.123Y>%mNaa.ZauW($Y9),nl8]UbO3c"
+l:U0j.X5jN]'FbB@*Q(oT3Lu+VoCbY/SnjT^mM%"n]+sj8\T(`f&N7&C.]TUS8^BM<!gL>-RG<ic'j
+^]I<mqdgV3aQ[C?J5S,(WnnN#5Z`jcciFE,H,\Pn!QKAXPphf3Q#T+=R['@46'="eJ)8U"hjSl?j"\
+l/BJDCMCsFmu>oO^oNQf]ck"^Cpa\19Rm;.[o-*]_9nI/LoeTdk*`Qo-5u8O?25C1![Hp$7%SXe)Ee
+-F<2%j#$hXoCBFG[*+@J?+EWgqY1UU%WEi!Cc2X38tc:Y`T78k*q4Y>OHcj2[X8h`aUVI-lPdspH4d
+d::21GFoQjOpY#]]TMh&:]u1'uEInr\!/'=eoX"K<inKoAW+JN):@gcIplPNM3PeU]3+pL!BmN^a6I
+LcQ+Q;+@[a4s+dBiPEL_/D;?#h>^rC;I`dUIQ@O\mA%>Mfb*PXK`^YCe<XMLGk([FB#q'GVpZ+.G7a
+/fsNQT,`2Uk.J^o%OW,_JrCJ,T=CP=YHq2IoBfda'\,,s-cd@ge\AkaK&B.&"BECa9$)$7)E'BCeG]
+JSl+[TWsOL;7k1/-Do($FeaC(#uLcZ8^Jk3%G+0HD+?&WhU_p&N4;K^*u[3]l*`I.!.Z6N_bWmm'+^
+n4-M!Mg\EugBQmbd;<ht#K5dOj&3Bl:hF0WI3>ao^$GV4YpPqnn:<6-;H`;Met*AR?5F;7Wta_bW.b
+n$Z^LRh5<WGDgAo+%NHaas>a"=gm?U*YMYmHoF"QFdpa,Z^>BL83:C-L]gV?EO&8NrHXEG&HNo1"UY
+j6'bOph*5ZmV$@R''3.Mf7Isph-:["U*0f->J)4=-5_L\CTSP%V4<>scEk!1qciMCr$q-in$RNJ:7#
+(DC]`bKI91[@RH;+PCa"Pl#pB"Be_k=PBVW19/np:?A8%X:I-L<4K[Xncb/@.XU$T6RWj?2A2P)"OJ
+Rp4U#plrf.]AkA!YRa*2`f'WPg_dM.Of6!<\7Y,J6]S>`&4]h%-,WoRT(KHT/`sQ%]$r.?H<P_fT8l
+9rlj_OX#O1H:cSmLag9`<jG=hdX2UA@Q%cJ%;'(3-6TBs;OAS(=7r0k$&*\6qL?#1)jnXa)Zpq2_$!
+Y:)H`cgJ)]CR/*$8fQ"k,41)I&o:I2_)2t+[`/62r[R+#hZ?Z:S]l,U#<5tV8lJ:7N03\-&YFWrWm(
+<V<(=90ALWR@bIq8B2$"R$<!V&JDI3a:MZLH3[_33]AM1H2/gBe*-B+X?<L%8ZCPp-`muaPNUr>1YX
+_gB=S9NLC9_[TmJDD9R>6B!csu>bVMpojO[Mm<7,M-5#OnA[XAP_&!8OD;/DoGd#9_!V8*Y6nD;rQ?
+*M1Ore/R?j)i_I#dE[d:Y;PID#iVZ]`_BL-ab?S.qK&4i:PqErpjUVB0ukuV4L4nZ;jFNJZ_lA?UG7
+X8p%Y+><"$Ch^fLehI`D[X?-@'/CXm?5i(PaYZqLn`qc3=]?s:*T!51%nA\-q)XJ5te.7cuC^5!ID[
+l(p#6Om%nq(Do"0CGClXTA-L8>c4X#WEGDZX%RAq1CCuoq!d<)s_q.).JWfr:4WX.M'-"Ue.%k>_[0
+DJ1X'OAd[tBIi]e6Ok^!YH5V:C!3E?S"P7#MlOl#o*85F$8+6k?>d6f&rXqtZVEcl&"X9?0Ht>T)W&
+*Ps>B+(iK8j,&KIGP)eGSIA.oO0LLZ^nM<JZsF:T!B!o\n=oQ#]RCBZ'SU!@6+ab%ZJ4q:3nhDtdJY
+^\ru9BK`N/.TMW@k#=YQ"`$!hEpU>N`S@gO70.g,E`/bh/gV`ng.rkBM<e7#\Jf>U".M`\FLZ@WRa"
+G^r+0oa:i1;G,r=9)BFYj\=rK,-6V$.LG[/6D5@b]AZ4=so,E$/r-cuEo!Oa_ab,:r(UE3`:;C]AV>
+Jh\UK&b'iVI-rVWGgRPnY9_ofCn%o62:XW9W0T!1roWer8CEaE-#.<-hrAW+DLV-^4#X\g_PdB/)"m
+VT,lgP)/G_Xjd60W7pt_PJKs1OnoR8-?O<Hu][CZ8q#eWi/D(;NV-j0Bel9G<h?j4!loWd'ZG2nb]+
+3]fdA9sBio3q(?V:98=cl2HqQC)4n42gErhDLD[%6Tg%%%^rdtu,imh""#,MRSWqq@)kHWFQe*9Q3H
+HQ\Lt-6O*>>1)b/2q^)rpcNdN$g,6SPs\hOK5"lnV*DtrC?SL1&Qa_o=p]oQFt+8Pcf[#<!<gJW<=V
+L![t8mYQDO$&?oD.3GPP108/]DhFoJ]hMK4j\IS(84@X+/6M_i>!p`j>8J2;d+iue^\K"dibEOP"1f
+-Kdf:?!RmO?bSN,A`@4=cu7qTF1En,R@'R`f>Cq#<f3KBLlfMFG2[LG\T7pmIV)^4%Ol&]Q]^.ap$E
+o=K5DM'EED@H%2%%7.au6`Q!:YBO1uiml8aLQ#C7X$g=g^>n$n&l<=K/s7Tt?eTiMX/p@"Lq6K?`h)
+itBjiTY5P%ph\PXc3j?5eG;W><SEi<Mcm+8V8YH*F!tqqVg$mJ.M;-]i%jCF>M(Lo^pYjs@R)$!V4L
+m!FuJ'Z#_aQ>ff:nRnNT!(4>8M"(qGqiHX%e5j(O*dP#FPOeK6(d&(5dph7?\ohAZpT)"^C5^J>AY8
+V*9,sVQVM2Kr)nb%YKs(ML,ggGfA[.5!Gm$+gU_,G+l44/U-@0X*:'r/:F(r$3^C"Gg_HM(>*8%)?Z
+u/CF.N^\Q7![b=`X.K1n6L]d5$A?@%Kir,M2ABe_%1Bo9=?bD$f&a@TfiDIKC]KNTqkY.-T]^\o@S-
+c]UP!0<q+DKTHdqRYTd/)77gbg$I/V:lQia\kq!]<a-jEn.t^Yn2t5.>qnOA]-5tp^?Ve).bAO,3!k
+1JXV16$nYO/$Xm.J0APN!G)'\r=DYi(2FB?nM$1uU)pBh[7??_%/Doant4\_4(&>M"7jS*mE48@)\h
+%%(8F4_&>RGi\CSbsXQ%D]V6CiogS.8]tn4E#QD`Iab@q`t;@2<I>_!KJahGNWW*P^dP"D99((2ZRp
+L\4!a)K:a+0n:K\tH"i@Z/dLNW>1;b+F&_5Hu;YWml7(O>\?LSLY^^+X(Tb&W>^)Xd1^u<Qm>_0(d-
+d;(n_F;2:hq"FL4\Y^>FGkdRT+_gC7R]FfGgS$c6/aa-!,nY9!\f4iP$E&K3?G$1J8M5j957d&:Ika
+Y*fk"3"5)o?EcrJ!=]%fa=5D:bi6u]IDJT`>B5M]6m8a>f&6EpMXqG;VHOLqm@Ic1,HIOhdVTb8qmt
+lY7p*g/8g)T?tnj#i$0V1B>pILC>Q9C?&[&AqVZ%KHd@iA+QE2<EjJA[1+aQ$m<<.)MlPIOu:/Z#6r
++b//UJg&^;Pe`Og&"2#gpa.8UeZPg9%'?eMVdluPh^+/&X,=Lt1PqC+4HJ2R$.X%2X)a4/IiaYXO9S
+^cE[7]$IgD=_VBjU!?%oWf$A/kk">JdelG^U-!`^H)#o&._:L`N;8J,]VBPA8R`JI(ZEM<];B.o/Jj
+!!n$R"DF([g^C$YA:\,.tDRLCuB4)R&7jaW6W5X3Vg3/j$KjkU_uKt&b1Bp#c&"0ESeO%ZM9C(8,.L
+glH!No*74Duh<6pt2Bk1JU=*QSVLL$S)(G3YaLtg*1.pVoOc0^5S9q!DDVDCVk5kU,Kfe(2pB3ToKo
+n2I>j<#Wp@hsaJ=u!7Ood\"CV/HI@omW4/@pF]aih;O[.5CrN*V5;^`(AR2s.Z^8J2L@R_c7BFS>I[
+:PDM`CkAJAfc>6&f>`hVOK<WUct,W\g>b2e8j7.NEE9Mf.6(,,Qt3k^,57Y`^8`p;8/s5"B;`cA/Nu
+RpdqQQ#?AulN2;I4G1&kT70JG170JG170JG170JG170JG170JG170JG170JG170JG170JG170JG170
+JG170JG170JG170JG170JG0f$8=.f0JG170JG170JG170JG170JG170JG170JG170JG170JG170JG1
+70JG170JG170JG170JG170JG170FA.@0JG170JG170JG170JG170JG170JG170JG170JG170JG170J
+G170JG170JG170JG170JG170JG170JG0f$8=.f0JG170JG170JG170JG170JG170JG170JG170JG17
+0JG170JG170JG170JG170JG170JG170JG170FA.@0JG170JG170JG170JG170JG170JG170JG170JG
+170JG170JG170JG170JG170JG170JG170JG170JG0f$8=.f0JG170JG170JG170JG170JG170JG170
+JG170JG170JG170JG170JG170JG170JG170JG170JG170FA.@0JG170JG170JG170JG170JG170JG1
+70JG170JG170JG170JG170JG170JG170JG170JG170JG170JG0f$8=.f0JG170JG170JG170JG170J
+G170JG170JG170JG170JG170JG170JG170JG170JG170JG170JG170FA.sCh7$qFDl#)Ebg#BATMs3
+Eb0Z5AdS~>
+endstream
+endobj
+44 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F7
+/BaseFont /Times-Italic
+/Encoding 45 0 R
+/FirstChar 0
+/LastChar 255
+>>
+endobj
+45 0 obj
+<<
+/Type /Encoding
+/Differences [ 1 /dotaccent /fi /fl /fraction /hungarumlaut /Lslash /lslash /ogonek /ring 11 /breve /minus 14 /Zcaron /zcaron /caron /dotlessi /dotlessj /ff /ffi /ffl 30 /grave /quotesingle 130 /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl /circumflex /perthousand /Scaron /guilsinglleft /OE 147 /quotedblleft /quotedblright /bullet /endash /emdash /tilde /trademark /scaron /guilsinglright /oe 159 /Ydieresis 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /hyphen /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ]
+>>
+endobj
+46 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F8
+/BaseFont /RMTMI
+/Encoding 47 0 R
+/FirstChar 0
+/LastChar 255
+/Widths [ 622 792 788 796 764 820 798 651 764 686 827 571 564 502 430 437 430 520 440 300 492 547 686 472 426 600 545 534 433 554 577 588 704 655 452 590 834 547 524 562 1043 1043 1043 1043 319 319 373 373 642 804 802 796 762 832 762 740 794 767 275 331 780 470 780 472 458 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 419 412 445 948 948 468 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 487 735 280 280 280 280 430 681 545 778 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 ]
+/FontDescriptor 48 0 R
+>>
+endobj
+47 0 obj
+<<
+/Type /Encoding
+/Differences [ 0 /NUL /Eth /eth /Lslash /lslash /Scaron /scaron /Yacute /yacute /HT /LF /Thorn /thorn /CR /Zcaron /zcaron /DLE /DC1 /DC2 /DC3 /DC4 /onehalf /onequarter /onesuperior /threequarters /threesuperior /twosuperior /brokenbar /minus /multiply /RS /US 39 /quotesingle 96 /grave 127 /DEL /Adieresis /Aring /Ccedilla /Eacute /Ntilde /Odieresis /Udieresis /aacute /agrave /acircumflex /adieresis /atilde /aring /ccedilla /eacute /egrave /ecircumflex /edieresis /iacute /igrave /icircumflex /idieresis /ntilde /oacute /ograve /ocircumflex /odieresis /otilde /uacute /ugrave /ucircumflex /udieresis /dagger /degree 164 /section /bullet /paragraph /germandbls /registered /copyright /trademark /acute /dieresis /notequal /AE /Oslash /infinity /plusminus /lessequal /greaterequal /yen /mu /partialdiff /summation /product /pi /integral /ordfeminine /ordmasculine /Omega /ae /oslash /questiondown /exclamdown /logicalnot /radical /florin /approxequal /Delta /guillemotleft /guillemotright /ellipsis /nbspace /Agrave /Atilde /Otilde /OE /oe /endash /emdash /quotedblleft /quotedblright /quoteleft /quoteright /divide /lozenge /ydieresis /Ydieresis /fraction /currency /guilsinglleft /guilsinglright /fi /fl /daggerdbl /periodcentered /quotesinglbase /quotedblbase /perthousand /Acircumflex /Ecircumflex /Aacute /Edieresis /Egrave /Iacute /Icircumflex /Idieresis /Igrave /Oacute /Ocircumflex /apple /Ograve /Uacute /Ucircumflex /Ugrave 246 /circumflex /tilde /macron /breve /dotaccent /ring /cedilla /hungarumlaut /ogonek /caron ]
+>>
+endobj
+48 0 obj
+<<
+/Type /FontDescriptor
+/FontName /RMTMI
+/FontBBox [ 0 -213 987 680 ]
+/ItalicAngle 0
+/CapHeight 0
+/Ascend 0
+/Descent 0
+/StemV 20
+/StemH 20
+/FontFile 49 0 R
+/Flags 6
+>>
+endobj
+49 0 obj
+<<
+/Filter /ASCII85Decode
+/Length 63 0 R
+/Length1 5610
+/Length2 10822
+/Length3 551
+>>
+stream
+$47+d+@C'dH#dV3BQP@F6Ra-43B8i;<+ohc<+T0NCi=?&FDl2@+@C'fE,Tc*FD5Z2$47m_$:\rOF@9
+h`ARfh#Ed9<99iOhY+DYk5GA_a\;GC+b8K_VZDId?tDKI"3F`9!6DJ=*5AP#94CMn'7DL5o:E!cq*<
+GlMjF_+-4+D58-+>ki-3&rfR+D#O8AU%]u01KktFB!O)AKYVsF<E:\AT8i$DIe0BE,T\<AmoLsAUS9
+)AScF!$4;-$@<Q3)FE2M8I=#R7Cia09BkCpmF(KcHAmoLsAUS9)AScF!$48LC+Co1rF<G%(B5)5j$8
+4keDKJHfAoAeP+Co1rF<G+:E$/V$B5)5j$6V!FATDj+Df-[G0eP./+ED%%A8c@%Gp$X/AdSkf01L)#
+CeeDUAKWC!9iOhY.3NYB@:X:oCj@.6AS)8V+>62mD/!g3:18!N+=KrmFD+WfD.P.=Eb/ZiDf0B:+Co
+%q$47n/=(Q)YBQP@F9k@jLF_rQMEb/ZiDf0B:+Co%q$47n/8T\BWBk'GHB5D-%0Han;AdSkf055JsB
+m=3":hb#]BHUnqCia/1A7]?[$6V!%DId=!Ch[cu:iCDhFD5Z2+>#<(2BZOAAdSkf03)n#ATDU$DIld
+\Bk(prATMo80fL4cAS)8V+>6K.FD55r+=JZ]Eb/ZiDf0B:+Co%q$4:?^A0>o(@:X:oCj@.6AS)8V01
+KktFA?7]AKWX(9iOhY+Co%q$48FTDI[TqBl7Q+1,Us4@<-BsGmXmhF`8HW02>M@+E2IF+CoV6+>GN<
+FD)e9F`\a:F`8HY04f6=+E2IF+CoV6+>YZEF)59+BHV8:F:&@cF`8H[05P]G@<6*)E-67FA9Di62(q
+m<@<-:(+E2IF+CoV6+>tlo@psCrDBNn@F<G+:E$.(m=^bf_FCcS6F`[rtA9Di63%oPc@s)m)+E2IF+
+CoV6+?;)G<$6.&F<G+:E$-kh02+hXE-67FA9Di60ek=\BQ%p/+E2IF$4:<dE$-kj06ClGEc*"=F`\a
+:F`8HX1G;*n+E2IF+CoV6+>G]+>%:u]Df-\:F`\a:F`8HX2(s8c@<-:(+E2IF$4:<dE$-kn018K&+E
+2IF+CoV6+>Gf.6pi[OE-67FA9Di60fUgS6S]d'F`\a:F`8HX3A3cf1E^XZF:&@cF`8HY0J>g]1a$a[
+F<G+:E$-nj05k`>BOP^h+E2IF+CoV6+>P]*Df0-+F^]<4ATAo4F`\a:F`8HY1G<ZaATN!5ATDL'EZf
+=DF:&@cF`8HY1bWraEb/g%F^]<4ATDi7E-67FA9Di61,U_,BQ@ZqF*2G5EbTH4+E2IF+CoV6+>Pi.F
+E_YEF`:o4BlA#7E-67FA9Di61,gjqEc5`)DIR$p+E2IF$4:<dE$-nq05YE@F`S[EF`\a:F`8HY3A55
+lCijB1Cj@.BF`\a:F`8HZ0J?=&+E2IF+CoV6+>Y`*<Dt#ZF`[rtA9Di61GUV)E+*6f+E2IF+CoV6+>
+Yf,AU%^$@;R-+F`\a:F`8HZ1bWikDffQ$@Vd0+F`\a:F`8HZ2(riiD.7'sF(o9)+E2IF$4:<dE$-qp
+04]!;Cgh?,E-67FA9Di61H-t+ATD9lDKI"?F`\a:F`8HZ3%n]WE+O'2@;]TuE-67FA9Di61H@+.F`2
+A5F(oN)Ch4`.F`[rtA9Di61b^S%@<,psCh74#+E2IF+CoV6+>bf+E+*cuDK9H(BQPA9F`\a:F`8H[1
+,!'WFCfK,F))n;F`\a:F`8H[1G<]`F`S[EF`[rtA9Di61c-jqDf'?"+E2IF+CoV6+>br/BR+Q1ASrW
+0F`\a:F`8H[2D9#\EbTH&+E2IF+CoV6+>c#1F)59+BHV8:F:&@cF`8H[3%oShEc3(>F`\a:F`8H[3A
+5;gAKYr7F<G+:E$."l06DDV+E2IF+CoV6+>kl,FD,]+AKYr7F:&@cF`8H\1,!6XF`JUDF`\a:F`8H\
+1G<?SG%De8F`\a:F`8H\1bWoaGT^sJF<G+:E$."q06:]JASrW0F`[rtA9Di62)[+!BkM+$+E2IF+Co
+V6+>l)2DJ=!"+E2IF+CoV6+>l,3@rH1%DBNn@F<G+:E$."u06:]ABk)'tDf-\:F`[rtA9Di62D?e#A
+TMo8E-67FA9Di62DHjrEHP]++E2IF+CoV6+>tu.B6%QlFCfJ8E-67FA9Di62D["+F_,W9Bl@l3E-67
+0$=n9u+>u&0@<<W2F`\a:F`8H]2(q6<E-67FA9Di62E!3T+E2IF+CoV6+>u/36Qg>jF:&@cF`8H]3%
+mZBE-67FA9Di62E<EZ+E2IF+CoV6+?(u-7NcYmF<G+:E$.(o01R.(F`[rtA9Di62_m$W+E2IF+CoV6
++?))08K_tpF<G+:E$.(r01m@+F`\a:F`8H^2(qTFE-670$=n9u+?)239H\:sF<G+:E$.(u023R.F`\
+a:F`8H^3%n#LE-67FA9Di62`WNe+E2IF$4:<dE$.+o02Nd1F`\a:F`8H_0eZBHE-67FA9Di63&3-b+
+E2IF+CoV6+?2/1;]p%%F:&@cF`8H_1bVfNE-67FA9Di63&N?h+E2IF+CoV6+?284<Zl@(F<G+:E$.,
+!03998F`[rtA9Di63&iQn+E2IF+CoV6+?2A7=Wh[+F<G+:E$..p03TK;F`\a:F`8H`0e[!V@:O(aFD
+PN#F<GOFF:&@cF`8H`1,!*F@r$.%@<6*)E-67FA9Di63AW<tEa`HnATVs,B4uB0E-67FA9Di63A`Bt
+F(8ou@qfsnF_r7?F`\a:F`8H`2(s)iA7]e&@rHC!+E2IF$4:<dE$./!05#<6G%De8F`\a:F`8H`2_S
+S^E-67FA9Di63B/[$+E2IF+CoV6+?;G8@j#`5F:&@cF`8HX0JG.j+E2IF+CoV6+>GQ)04c8FF`\a:F
+`8HX0JY:n+E2IF+CoV6+>GQ+04uDHF`[rtA9Di60ebF;BHV8:F<G+:E$-kh2(rYdE-67FA9Di60ebL
+=C*7J<F<G+:E$-kh2_SqhE-670$=n9u+>GQ005MbMF`\a:F`8HX0KCe'+E2IF+CoV6+>GT)05_nOF`
+\a:F`8HX0ek>"+E2IF$4:<dE$-ki1,!ShE-67FA9Di60ekI;E?K4CF<G+:E$-ki1bWklE-67FA9Di6
+0ekO=F!,FEF:&@cF`8HX0fC\,+E2IF+CoV6+>GT006JCVF`\a:F`8HX0fUh0+E2IF+CoV6+>GT206\
+OXF`[rtA9Di60etF9GT^sJF<G+:E$-kj0e[epE-67FA9Di60etL;H6@0LF<G+:E$-kj1G<3X@:NkbA
+S-$,E-670$=n9u+>GW.04J@1+E2IF+CoV6+>GW/04Js1@qB[pB4uB0E-67FA9Di60etX?@<5pmBln'
+*A7Zm&F`\a:F`8HX1,gjS78+hCF`[rtA9Di60et^A6"F\@Eb0<+F!,FEF<G+:E$-kj3A3[=Bl7Q+E-
+67FA9Di60f(L:6Xs\<Bl%To+E2IF+CoV6+>GZ,01B;ZF`_1;E-670$=n9u+>GZ-02?V'Ch.*"E-67F
+A9Di60f(U=:Ln0NEb0<+F!,FEF<G+:E$-kk1bVj>Bk;<rF(o\<E-67FA9Di60f([?@:<YgFCcS6F`[
+rtA9Di60f(^@@:sUhG%De8F`\a:F`8HX1H-sq@qfsnF_t`,AU#>:F`\a:F`8HX1H7$rA8,UqATMR,+
+E2IF+CoV6+>GZ404As:Ch.*"E-670$=n9u+>G],04Am8DJ()2F`\a:F`8HX1bgXn@qB1bCi!N&E-67
+FA9Di60f1X=ART(kFCcS6F`\a:F`8HX1c$drB6%F(AKYr7F:&@cF`8HX1c-js@qfsnF_t`,AU#>:F`
+\a:F`8HX1c6ptA8,UqATMR,+E2IF+CoV6+>G]2054j)F`_1;E-67FA9Di60f1gBBkMHpG%De8F`[rt
+A9Di60f1jCBk(jt@s)X#Ch7i6E-67FA9Di60f1mDBk1phEb0<+F!,FEF<G+:E$-km0J@<cBl%<k+E2
+IF+CoV6+>G`.05k9/F`_1;E-670$=n9u+>G`/05kKD@<Q3)E-67FA9Di60f:a?De!L%@s)X#Ch7i6E
+-67FA9Di60f:d@De*QnEb0<+F!,FEF<G+:E$-km2(rliBl%<k+E2IF$4:<dE$-km2D92]@s)m)+E2I
+F+CoV6+>G`406LoJ@<Q3)E-67FA9Di60f:pDF^o-+@s)X#Ch7i6E-67FA9Di60f:sEF_#2tEb0<+F!
+,FEF:&@cF`8HX2D?dp@:s4aEZf=DF<G+:E$-kn0e['KB6%Qp+E2IF+CoV6+>Gc004SR2F<GOFF<G+:
+E$-kn1G<fkATDU$DJ()2F`[rtA9Di60fCjAF(Jj'Bl@l3E-67FA9Di60fCmB@WcL'ATT&6F`\a:F`8
+HX2E!4-@<,dhEa`p#+E2IF+CoV6+>Gc505"j:D..<m@Vg*.E-670$=n9u+>Gc6061W:BleB-Eb/c(E
+-67FA9Di60fD$F@rH=3EbT0"F<GOFF<G+:E$-ko0J@Ng@:Wqd@<--+E-67FA9Di60fLg?@:OG%AKYr
+7F:&@cF`8HX2_m$sBk;<rF(o\<E-67FA9Di60fLmADJsW.EHP]++E2IF+CoV6+>Gf300r#LE-67FA9
+Di60fLsC:NL>\F(c\8F`[rtA9Di60fM!DBl7NsDJ=3<+E2IF+CoV6+>Gf605t`MF)>W/F`S[EF`\a:
+F`8HX2`NI,ATMp(EHP]++E2IF+CoV6+>Gf805#<:@<?($AT;j$C`m\>F:&@cF`8HX3&!"2ASrW0F`\
+a:F`8HX3&*('FWbXGF<G+:E$-kp1,!TTEcc#(Ch.6lAfu&8F<G+:E$-kp1G<flD/E^'Bl@l3E-670$
+=n9u+>Gi405trMA9DC(+E2IF+CoV6+>Gi505tVJE-67FA9Di60fV'EBl8$(B6%Es+E2IF+CoV6+>Gi
+705klAAn>gnDJ=!"+E2IF$4:<dE$-kp3%o2jA8Par@s)U%DIjr0F`\a:F`8HX3&rWfD.R?g+E2IF+C
+oV6+>Gl104AE7E-67FA9Di60f^sADf]`'F(c\8F`[rtA9Di60f_!BEHPi6FD5Z2A8c[0+E2IF+CoV6
++>Gl404fB<Cgh0kDg-(AE-67FA9Di60f_'DCi<s#@ps1kDfd+@F`\a:F`8HX3AiI1@:X(^@;I'*F`[
+rtA9Di60f_-FAo)C+Bl5&4F`\a:F`8HX3B&U"E,]i9G\(l;@;I'*F`\a:F`8HX3B/Z[AScHs+E2IF+
+CoV6+>Gl:05#EACi!["Dfff,Aoo/7F`[rtA9Di61,(C8B6@p)Ch7I%FE2).BQPA9F`\a:F`8HY0JP4
+lCi!g)F(o\<E-67FA9Di61,(I:DIR[+@:NjkE-67FA9Di61,(L;6"b4HG%De8F`[rtA9Di61,(O<6$
+-gWA7Zm&F`\a:F`8HY0JtLZFD5Q%AKYr7F<G+:E$-ni2D7ip+E2IF+CoV6+>PW005kDEE-670$=n9u
++>PW104f$3@<6*)E-67FA9Di61,(^AASksdF(c\8F`\a:F`8HY0eb8#F`2A5A7B@kAS-$,E-67FA9D
+i61,1L:EHQ2AARo7dEbT0"F<GOFF:&@cF`8HY0etD%F`2A5Ch74#+E2IF+CoV6+>PZ-06),QFCfK,B
+4uB0E-67FA9Di61,1U=A8-4$A7Zm&F`\a:F`8HY0f:V#DgGu4B4W3)F`[rtA9Di61,1[?H":W#Eb0<
++F!,FEF<G+:E$-nj2_S<EBk;<rF(o\<E-67FA9Di61,1aAAo_<iFD5Z2+E2IF+CoV6+>PZ304T-FEb
+0,uGp%'KF:&@cF`8HY1,(@oF_PZ5Bl7R"Ch74#+E2IF+CoV6+>P],05#EACia<.B5DU&B4uB0E-67F
+A9Di61,:U<An`B,F`\a:F`8HY1,CRqC`m\>F:&@cF`8HY1,LXp@:s4aEb&Wq+E2IF+CoV6+>P]005t
+KCBl@NlASuU$Eb/c(E-67FA9Di61,:a@EHQ2AATMR'B5D$cF(HJ5F`\a:F`8HY1,gk+F`2A5A7B@a@
+<6!&E-670$=n9u+>P]305tKCFD,T8F(&rs+E2IF+CoV6+>P]400s)^Eas6/Ao)%'+E2IF+CoV6+>P`
+,01BAbEas6/Ao)%'+E2IF+CoV6+>P`-00s#VF`_1;E-670$=n9u+>P`.01BDcATD@'BlbD9F`\a:F`
+8HY1G^[QB6%F(AKYr7F<G+:E$-nl1bVF/@s)m)+E2IF+CoV6+>P`101fYfEas6/Ao)%'+E2IF$4:<d
+E$-nl2D7X4Bk;<rF(o\<E-67FA9Di61,CjB8S<'PG%De8F`\a:F`8HY1H7$`@:OG%AKYr7F<G+:E$-
+nl3A40<Bl[^+D.[TqGT^sJF:&@cF`8HY1b^RkE,]W)+E2IF+CoV6+>Pc.02H5$@<Q3)E-67FA9Di61
+,La><FKB[FCcS6F`\a:F`8HY1c$db@qfsnF_t`,AU#>:F`[rtA9Di61,Lg@<G->\G%De8F`\a:F`8H
+Y1c6psDfff,F)u%<E-67FA9Di61,LmB@qfsnF_t`,AU#>:F`\a:F`8HY1cI(0Bl%<k+E2IF$4:<dE$
+-nm3%o,W@rcL*+E2IF+CoV6+>Pc604Js5G%De8F`\a:F`8HY2)$[oDffDt@qBP"+E2IF+CoV6+>Pf/
+061cEB-;/9F:&@cF`8HY2)6gpARoLkCgeH*F`\a:F`8HY2)?n!F`(i#Ecl58@<HZ7E-67FA9Di61,U
+mADeF!+ASWE-F`\a:F`8HY2)R$s@<-:(+E2IF$4:fb@:X:oCj@.6AS)8V02Q(kDKJj'E+L.G+Co%q$
+48FUDf0YrH#R=;0d("<AdSku;fm%uCLpR]A9;K-0Han;AdSku7W30d9jr-aBm<i9/het6+>=ol+>>E
+%0JO\(+>@)AART+fDJXS@A7]?[$85CsBlS9,8OO[Y0JPOI1c?IeAS)8V01KktF@&<4G^D+e/M]%:+?
+;D?+>u25I<&n-A8c@%Gp$X/AdSlTF`MM6DKKE'@rri)DIa(]@s)g4ASuU%Bl%?'AS$*t@g]=:kt6]%
+V!Zi\5o22R0@s]_VHAJuh7BkF<``IdoU\oYV,NV\h09GVUk?G4gIjT/n"Mu>LuTCUPsb9A&M"(3)q=
+^k!T+:8m066jAQaXbduICt-#:aY$cp2r$kRSf\a7kr8XXfjqq3NoKM&iW>u*B37?7a*kiZ`9m>#\QQ
+8cF]"fjV"53bJXR(;U>=YY:D@SLo7#*3)i5LFJs@PYdH:(Ai$W$nTO'6;-1m]>R"S7#S2,'KG(-<AE
+,+_c@lOZt$9a*7<UkO"!0/P+-_:Z9>?!0*]UbI;h/L3[K=ec4YM`(T"&32lkGX:56OEHT"6iLcqoFH
+4sf3h=/15#//5cU_Mbf[-Z/Y-Rn\J_@_/R>BPjN,8USmJR</\6Q2H-ac"F]?2/'_9.`5-KUGE(db->
+pENKX?0Gt?V+=n@s&L,_BV\:u=*_Z-Z%8DqQ+<KgN,0Q2!+q?ZF<2j0?LoTq[8mB4lPt&J4G6,26Lk
+AeGUc6n(),g?1`Q,L?+rm@(q+W!N9jtP&OAPOA<a>$mkKH<".B_Np`KS8J$7c+]J;.-=F5.k:$^2i7
+*[U!Odakb>%CDhI'<'#*h(#:IPM!?5jlJ',6:[gQneS._)!m;^SPkO`Ngn-.Br,E'.j?S(#>(qLfnT
+afItOLKDWOa>6NpOkNd)V[>59-WX@9rT'SM\<\b_1-]q@e(RZQ*Sl5%aep$TG=at5kK(7HRIl]g\RG
+':3mt;,I.u2dn[>DlO_M9@-qPs_=,.?%,Bo$fQC3JN7X90f]dEVt(;jQb;f:77b''gSe.,'>)Pu'Fg
+!!>1?rFmU[]<5Au((T>V"gVGGk>oZP'R8.>ZA$c88T%E#5GP8%5WJih"2RXIf[fl3bmVa=O<,tn.<.
+s9T#20;$rJO$f$;PgVg"WFb3GiSU7k=GQOWrF7j"5J/e^>:;rmksL]f</XPO#_Jsg@fkVi$A.i`IM;
+&e$PqE>3kW:n,O"Q(7(P"6<Q(9Fb#3:Hbl<nm0:;*;;^qs3geKK%EHIc3bjNXeY@F]@W!^2[@LG4?*
+hB/Fl7-dl=@$2DUCAY&:rfNC0f#BXYRS5@J&<2rnN`aHkScgci27(^6dSV?2Z"^2_Gl0a[R*U#HMdc
+M]HZO5!62fR,8[;Dr/Hs3L-fI$]9hUDZ9/?:=FD+g<W83r44)3Oa:#es&52e?od^ChIp73T7ABE_M%
+GYm/fNqR[$6ru](Xam3!cfaap9iaBOIDHp/BqT8!a[Yj"$]*Lp#hrXM&?4t6jRE,&+'"FKptD#CSPE
+lmA.>jF*>BeXg5!kKoGp1ke"^m3]MW<E-Fm$@EG7FH0`[p(4YKnf^4dku/_X]=G_aibf8TFfSYN`bb
+!p;FPCnr@CJ:oSP[cA*rloQ==d`-Jp%8nA#Ia$"5V8s"J>OWqgd[505:bE2&gR8n[urYX*@=Hu`o29
+'R)u&)*cO!CY,WHtEAkjoLu>fKX0.:jSb7/]FSqT+`qdD@%9k$FB=k)^'%![*[h+_e_$D.D-VVt4;9
+aSiS_N$gKc34e^J+>3"h2*-[_lM.Xh9M`9L0F=R/+;\Ho@0fa_oVIB`@+6E!.>Nl8m.r.k^3['Z&/&
+!l/TII?[RUacg_*<W*h2;%Ate/I[Mr/J\8u+\/_g7#ZUa1$qMT(L]o5eP:Dk%j,ekN2`'uEL;>'*rm
+N[/Kp7sho-G><(2CjmM?miS5O/<%$h.##RGaoA^d6]Fs@g1+*/D`rCbe5c)\TAak5aMN46hb?FQ#\O
+a$Wel2\gf\CnPO<,"A6^tTLs97's2qb'Do\&VG:/"4)X(ob/!kf8rAE?WrdK@!^S!dpS\Qsu@^G9qH
+L@k/]%`\+;+k,/U+P$1Wl\CG\3\scs%0bNB!qB9pDQfnUqI\0,5'tL$>c_d!LM[P\7p7;J'[4H`i#R
+)Ve[bT9(B0ln(1NY(R:>FqQk9X-p`kGigU.00tWXi#)U]5c(;Xf(R&oOYbB7$'^<""B"GZ.(P\OqJG
+X4fg4^u&I2$eN9bH!7HrY:u#cJO,T\D"es"+a^/Y!TT?3*1+D&Wn2s5i[,P)$_)MQ]k'Du_&pJ93fc
+\+-CoRic4$"0\%>(b4CTYP\=`&FGTb7H'u:#D(WI?R_q4sq\.7fcR,V/oH)h#fh^t3!mi^=0N=rIO\
+R(cfL0obIA[_TUKL5UoNh>q6hp>oY#?_Uj.liQNpntK2*P;`$2i4hl8kBLiA5q'igXUm3p0@S*29P,
+Err1>pi6dI:./Z?#k)aa$X1S9t;;LfK(+g&@Lh_^\NO);"KargQC\W8E.7(=*USageN&)LUZlkl@6=
+F%&4[jB+`Th$k]ZCD=1]a$creD)/BGoY8^L!0JRMj-Vh6Q(pV%d@O:YIlZ@;ji?+7Zk>Ta5R$g+\&_
+;=3B/L3m&fKDG8+Wr_&RK;Np$V<L4,8CQ6bJE_@eLU$n>/^IbZS1.=AR4^*&6M@?e@Q'otUXFt3H4/
+%%9XM6`@\]UEKT+!+mm*D[lH^i[/GNnJdiTT;._;eAci8GrJT2Qoo3[%o5oioO*OiIPQb.]L;O#Qg/
+IhPeCP_BrT%Be%oXufBP2@Y$+;UWD<TQcH[^>Ih,<=N#i>liV[:q\7=jq8]7#M#P26=[M0N5Qq,o"g
+3KS7@R[8-1qbG7WS6\;IZKI$1'r-BJI&=IU^nB"Y6j]At`[4DRCSB#Cj/8`VG&l](G"nhPpQi"$6fE
+]sL/aloea]D$9of!V12<(rlFg`a\`5&Gm`)e8n&O.1/1O9_*SH`*?Z[$$B0"f1ZL-:A*QrUXE^a1ES
+q\LY_^j]@^;1NDLDo\_eE1HIC:E;m;ffm?R"hiCl2Q3r*'j6_X=eO<M4sA`)K862CZ>foT=CIO]L?r
+2pA8PkIMEutoN)e&d,%<%1E/0eB0[P6&EP&WtW4mK'CO>.]6%b('FqTL(eI0J[4Z?rDM[4oGULkq%p
+gBO]U=#7U`):!Sf`t0T`YXX[jdGGgf"p)d?-Yl16YW[MQjF4Bm[c5*FAr`#[,YWl/k`SmS"l]7`G0d
+LG>\N[-O#CP<>+0k4d;I6o"9>]&DS37pde8ld8tA4PlbCAMB+2U=ZK^RYuJ]G"*!@)`.a1(r&?!Fj*
+-@#WC,fm0Ci_idV$/?."P!'m+16TZo@c]L@m9(qC9%bq*;`<Hp6c!3I`!rL_7()4<dHeEHIOg3S=C:
+R"VcrID$S$mD5Bsf!Gq]Nup2B/CA9_i#fopj@K<g;_V7_8[CR:D,fEQF[1Or!>Zf#NZ:FAp98uBC92
+#JM,WNc(nJ=jZS)YM>tG:MpiB-+'uNq^\kiu6mOZnWJ/b6I$j`=t;7EKpD&7f.)TAS&Shd-US_E&I5
+s(h9"1>D.RMLJVBp\-,D\BgBqR]^n5T18XCb2;f,,o?tq5`3^A$9e$T0u%,fi9N6j#cIFY8t"6Goe-
+:0B317=JuYEZWG#:+PKd^K8KhWXPDF[1`T#nkft.^1qMa,V36@+k_P?Igf;\;<b\j2Q_RZcV0N67Dh
+@CQ#8Jp1Wp06S,TD(U)>#@8Bb]A@>4Z.tlsu_q"6^F";a"[A%.5:Xi#a;>(0&T^pQ"%B9^;BsrGX6,
+IW_8?2UUO8Ip]"Pb4j!+V@nG;/Bml/`igsVoS:RR>rdXI*_X^Am(s38HWOg`P0PbiD?`m*BD^[gR1i
+fE/Mu1o$_^$m^Nb@tY[,##X6i!`g:onn_eL%rhn2t=H*Dl\<J[_UPS$5.Vu6$Hd)oL)L>PEek^D'tK
+t:]A:]\,MiBa9K^UD<^B9t)A5>a7)+']`VA4iCpr2%^-X3:MeRDQhF%7rhSB>Yq.AfU(HW09X4T;D+
+*PSCjHmX,aCkFTc+llH--K,nr,eGLYCs1+$AUJZ/1W#Ok5$m/C9G)2*9DZ`[^=_Mi5NLbmj9'##uOp
+IGG[H0g`X`A!4"E$Dd@mFh%fCQU3:u!H>@^V<P#J2aA$jDBAO=^s'\b_(EnjFaJ]'%#?/*:f&h]#,Y
+p/_2Y^KpG3c58QXW=psHeAns?:h];F,rpa`Mb/l-?`$1:riT@ZM*tCN2fTA(i>\)MY@d&92K$*5PS8
+msOf#PjQa0QeZHct>#J#9)-h3QYe?8_giRrtOSO+ubD"&R1!OP7gZ#5eQ4i[4L`D?^=g/[`EP9;K5M
+OiC)4Go&;dFt4C9q'I5V7>5iWs9uK-L(/%(9$UO;EemP_4`_cissB!-XYe-bec*W(K+!_Eo0\r.r['
+AAAb6r_rURJ_>g'F]r'/b>Q="KGCaQ8S>&Yf3HVZF!KP"cDTf@=IRZ]u=Oc(I?m<M>7CMW7GsOs>7p
+h9R)5bjhnS-8%ij%fZoV0I6R(S`dF/&OE>kDb;r)-ggC(iG,#ksHu]A"I6(Vo0cOjJ@E8Rq_'gW#AE
+oq2<c>Q2A9^(Z(MXfdcj*YN@@&WcRSF0pfE+ubmOM9W.+_#apMdf7HiY-,^197ipq?`mN5lL$qQ!q0
+o-eS*-o-UQ`L'DeXNIOP)W)"_=5]BnVm8O8:j)b?^7Q2i7Y/+ENmLBULloEi'^Z,;eGV&5kD(=acE3
+[kfnn6fT_PsUEJ2D;\t6]nRt,?Gda:p=I(m18Ypqo)f%=;AP,Xjc;,s%"':$^/"]`R=:NaD<79?8B_
+m#[36t,.jNch[8-+/\Ikjnn<Fagnb4*2*J]E;:?$/mH//&8MY@^6Pa[mH^g[0's6+2lW.Ie_WNK,"t
+5?B_.:ZVrE'9s3+sm;AS^DNr;nsYi1@9eJPp]ZAmNCnq*"[2M9DfG/^[F1ZDRum=!H*=b06X/o>J"`
+@h`$\kaQ.fe2t#&:40hmTC8(e;\b:3?(;Zg/@-/W*H6sRWQ^B)kGUaFbB!27*#AAZNWo&;/c_si?Lf
+'*KIWe_Q_fp;qTsb#LeCY'<[<T7"e.<0Xh_2&l"HIPLAW3,mlN4'ktC4FC@/\,>NJ$^_cmg3^E>4tS
+@$.J^GK.4?\b-P(9>[\C;+c!^Q;pk)(3#IV>fui0YuEM:5-ja-ZG24/1F]'lFR'\(Cbti.u>eJ/'nE
+)GuHq&qDZO2F!Q/j4=(jh,IF0=!%4&dBuq_.6XOA?XJX7L,iQ>Z,qst/\^K#M+6KB#P6Df<GY1Oi8X
+LRJEfX6-pN<fT\cVm+Jk8I+5n'VR2@Gm,pO1D2@nj5u^1psX:n-lhi!KZ'3&p'#)qnW=TZ-e!jeKeb
+25Fr+0o/SiSWH`Dc@kh]\g8:Kd7)[LJW65MaI#=LJu)()778[g7WRCsHqYBP"$Ua7id"'.V5F8=T>V
+RM2/RtQK[5]=iek'4XKe#ne>KfdINB.:qldkS\hBY%GfMEJnTb60.D8tEo4_IFP%C_gd`bc9e[RIq8
+X9]*a_)3ARJgiaCrY8S*>\p=%n>t-Og=p0^Hf9@G.]t'h98@sk^?d9$i``JW8-Pg=8Z<d"T6O3>7&@
+ieNT>b?A5bQ?jkBI='Dbu#Z6Nt<hF#?$Fna5T]!slpNXW;Sq2]Y21#C>+(".$75YKj0*-ee*h1fY4a
+V"@Cp&SH-o:c`k2$-CLdnTumn"IJct@/5g,.+(*EB^Fo)0LF$2,M/'t99)&c<a1"ch\](6J90#?N3:
+-e^BNMZo$:0t_3oqp%^%P[bUcrtR?6F3u4cI;Spnlfo?DBiIIS5L2'WH]s`tY\^D,<bVK7IYTB47(R
+PLF9OnL/B^KmaZnop4mo`'<($rtAp-KWkTP;(fI/A?9D<r.&%[P-&UeSE/@&*/&J?'/o:8WK&G1552
+mW>#L+n+OQsac=NsB\5XnWgL#]Be(+_orGTVPML;H0MP<fA'(CO7\u9g^s>A?3<B*W<@R@I0cp-Q/;
+S'cVXFcRar\F#s?CC7WLbYq-\s769kq&bhb!4q.Isja:4O7QI`>_nR`2K0)[^L:ijIp.,A#erN$l(r
+%Qj-@4I/&m"P"n=7>+=1j/i;o0G=+'H53$Ak\>1J>p7J!"!Rk=HC\%sV?n.u?stk-uGgR_@1&lFJ]8
+rI)RY/B^ab*M"d3M6Wf$Br;;3K6b:K#d:.d5^gam]0;Qj9Qo"p"Ot4>+cAa(eRZ7C`c^='fetiD^os
+_>V^bGV1WBb=Ec85bJYoEp@rNdm6aFHFikg`KLgY[t-1H@bVU0`mC:uJhc\LDNefbh'7MK-o\iX8`!
+jRC$Eh1(i]qC)i)+,+Q-?>tocQ1:o>31;U#P#@M.3rEll'/=T&`rW*nhL,fS>,&_r[>kG(FH1q2-:d
+pjo#h.qdt26?(na=))<(PReN=GL8Zqr:]WQ^`L._Y>e"2#"e)mdRe;@+jIn-6R*AO:`!Y^6`[d0BBr
+e%uW>fr>Zb9],3p]Ir.EFQ4/WPLa"$+G\_VkU)0m,<g3e'^VGA>03R!iJm6[I&(QIq@[Zf>YMR8L%X
+YmTDMpuM)WL=PX(X2)_-0sl/QS*Qbs1X.pSBVt"#)m+OVai5!<8Oqc.gndQN:0Iu(Ni"jF-$QL%+(:
+A;R.PEcrK3nTd;KIK[-L!B,7J14`c66a=JfF.3UlsH*]7De:HqAL[6\LX;VO>K:#spOBOr]l4k7?1Z
+DMj97Gh"q6+o:;?H#s.R"5\Xj#l=G+2=6X(t4uG.,kSr(UulV/1Jed91Bk84C,pb3!fXL+$*B1n-ub
+!>3eP2e%-IYK5DO<I=d\ua=J1dJ_`E+Uu*"dVL.a69*'%cCod5K6$%)4SehR#$':OJM7t)+'e2$_(=
+<Qij_)tPdgO5"hC(8Pi*\e:$L="dC16t^oBC#,>:W/+!QqVGJO`PHheo`rDJ4`u=ME`_GBtdNnq`+t
+7q0'YHrQe5a_)kK3(;3C!mS'9)--QPooY;O'N8thnXL/lTPYEP@Z$8&%^Du->R`u1r!h^t>*4=_ZsP
+'-]fO8/O7Y$)PfmC%RJ%d$S3H=Wr#>959&#>jHUh%p7`PalrGHqLXd/]LX=mc^?6mDka9/JX>So$A$
+!6[639TGiIa"uoA$.\N:ZCTQ]V^U>_'s)%BpEE@C`MI)d`=l+*S95kAJMj7"U*ghG2)uQ7e>K3d:5"
+?(Q@I@C$-6GWetZt[:!"aU*nu8+`!3QEhN%!K%`L^\^P*tFb))\CcLlR$"N@hY!n1ec!?(1N&g<K>@
+GZhJN7!AXI>t$a'G/!]8E=<5UN-q9b0pR$f@(\NOod?@"T]Klp#@*Nmnd&5C!Y8BY.h:ITA9>S$^I:
+"#QCI9aSRi:5lsjYM-tb$OhAkfL!,/EPgFA&UOD3>G[oDd6D0T]^^hQdh=:ElhIXn]*`6s'2Q;]^+(
+sH=apK$#7j9t'N7"",1o=+27k?C(LN<1<ZTDr[A$'>Ef];-A!c+*%6:@SKHA??GC<r3'QE0gr=%OD(
+0piLJcL8Yb;D])lPFPf*g>'Ym+BG'9r]oH`s#p7.2jU2+'thejWo"d6a7F40_97W"U9\2`,":HB-Qd
+JNWmp!r#V!93$lOkX0nHq&[-g2X;V;5Jj>YlVQ(!KTNh`k$ImUoMKn+j8lY:>Gc#^V$hf5BA`;?SY'
+NC!_c=ArN1nJf^CSs!b1l:]A/"sZ._'<K\tN?"N+6HHnW\=Wfq&Fu6_i3C0]sVq,B(u/]i*,_X&m]>
+'EN1&'Lii),I&0PP_jfKJr$(jNo-uV)5BtQN!qi68#&@W[e5saL]F(Oe=8b,L43o/!EuJS4'ts"pTk
+fnqfi]H*H."/'#Ynn@PZ7sRZ(]a)'_b3Wsk50>&S0hpA%^4@!-X'^(5RWLlUF_cOT@,OM]'b*NR.ul
+b"i6<c?C$nZ"l^93[LLZjI<d'YTq=fZ_ti$;j96:T:"FSU0Fd#ZD]UJ)nti4N2OX_j62Y,8hN];0V+
+Vf!3^a1Yh($)F]`d1.Qud;sIegpn1@f%jSYWS'La=GQ%*Ij;C7H:-VZ9Fr1Gb.0cg98q^NO;MIEm#8
+eQ.bZe7A9DD(?f4a;Q\pHd8[r^l1JdQ&ZA`t/eA^"%"iR&Uoj:lCHGl2L#^NZ+@`>H3Z#X(qQ,N;1=
+Y^[o]#XVW;JCd(^lj!0:N88:SkKUC'`p/5*+QbN8YU-DIh/21(+t#p!$=Q.bT?/YEI@hU/<ttoR+[<
+gUq,M=agUZuhF%me.Q-^Y7UN"E#=,jkbPU(4J3b$Z<1j?WWn8RUm'F@HIG/)d-<g$/T10GVX66p6UD
+Frk$\D&/L"*C\XY)K;65gZ@^S$8G<cADi+2C<KGT),RddP'<td'mMqCYui(.,2MKEuK>/d(,fp4^eX
+e[^8F56\2(F"Q[ENb41#]Lh2R[s.Y$4s%8Ap/Rn)@U'*%,(C5s]GCGP0gC$RdE&b""@$08iFqmP&*H
+WO):JF-*$GSd_)`6'1qoE!5CJU,j>'+0%@@0pQ?![[L$CRHZFsm/QeQC'cSHE><,@D/_4i`bRp%F;:
+QV36>hl)q`%4*c\&E+a^'JPi-cq"jC[lE0rYqF;VnttFHL%,d.;>c('J]?;Di4@b6=o#W&WuX+<Z8>
+US%R^<;S!$WYE1^Y,&9r^\^ZjlZd#lS!Y$mZZR77V=prTP25L4C(/e2lUrFK<*^"4'9Dfk2TLf0PbP
+!H8LmSQrpP5]c$6QP[+F?,]^?')!#:\'SV-B,f'>GUSp<"Ku+D'dp*b?f[h:&rcI13&HLH&Hj[BuBj
+:"2+6iculpZn)QfKD$<-cg/V*-+49.fh$h1=8-dq"F1kH+cB"+.G@4N*M[$%n]AUI99@5\+7(6&#Fg
+P9]q36)k@XEV*dT5r"Z"bhYk?$dDLg4[:-(K]dJYs1@]<p'"/Y)aO;;KYXd8^9LL(?$-^q!-qZKG&Y
+ORQ6KEZD/$`jnX=$]$oUM>K-8TF'tom)11`g,"p0h$pSZB1qsIAG+0CrGD%:J9NEpph6r4'bCCs>jb
+F(6DS5ZrL0,77d;M&\N]<:)m8)FRm$f-L[H+*5oh=,KsbA&'FnVb]URs&N*LUiG5S2[`t,?2"3=EcY
+`:Ep=Jc7^8Ws(Yq+u*_.G.XT1/RtNX`Rmca2l]09Smj?n.b;-b@>Aa2n&8bR8f7GJ2pM:\(Hu4go9<
+^Z]BFY$`ni`L3i=@VgrY;Ymd$aFIsJ=$%<X1C<YFN[cs/!0tLB,g1;<&8_eL%lrNA)>].'sPm0Sja4
+DC+U#5j5[%;@3h^WQHJiGVD`M1C!Zt9fAmo)0L&$OUOe)@f>M*HQ!*6k>TX.:A+Dgt,0,,RH%>Z#]M
+<Ui#cfj'.o`\Jf'o1GcORiP_1N)"APlU`9>`^?5#^ZcEEkSi>24Kg+QI5)9UJLrG9JIOpT7,e5l)5O
+J^T.p8qU^XNQ1lrd+c&-AcY^;Wedhq5/Xiq?PcehA+]XfIkbZ',',f?"3.E*2eA=9&&#[j.U@pCad8
+u<da$n6'i#";<$hXM<\,haOhiNdN].],T[Ng4sci[21Gjhfk6K.o_Ej6@YLjS=uWF\T6LP4."^H\En
+/OR'UFXX[`JA[`rY%#[jXhO_coF!7VZ16EaU`mCA<[WIh:8hmM_`d6Dl>'>k3Dn'V*+;ds`\CT]Nc_
+AY]EL[2\k<6mq]p^BCn.C%5j-i:$m%LQr>V@I\Iec[*Fkk5_EQ+?SAJl4L`fpY]4p4S5*"r8@8&>,R
+&B%9Zp`W%?f[eXW=AkEjE`h6`J]3D"8JiEI2kI?;)Tb'BB1c/s%ed>^>^rl+b)e%a*G7T8(6q2=h64
+G4_o.d"='p(%\(0i:SkgXUanb1kA2pjf[Db^;5V+,M9k\rX>[4(R_1`a9S4Vp7_QoF_U3a:AY8siN5
+C<tK4/\l=OoR2]DWSa0IZ$68?^@nB3A@>gAUOi?FRJitqM!*['gKu[!Z3]%"Plf!J7,MW028q$U%R^
+cZ9,Eqs(pu7_+[b#[-;WX`[9$%eN]d;r*p]>91/uUmt!tgm7%]k4Ta2B=5;;GWFXhBb3Rc"N[&DFk>
+Z4pH&CH!$m8BYdW;4Zk3/&KB@PigJQ<*818ScL^:m%t&`.,__o_XmUuk:>Egd-Lms5Qq`lIZHXgE"D
+CS[M!WqUQHMdQN7-O8VW4lea5SPbAr^*gY@-Ea&Ho8h)HCX,Oh3M/ScV'<4Ga!XD@r=aH-m/8@;Z$^
+Z+1oHK;8dQV[UZssMI]oE,'$Zb/NO6PZc%%]MjhhZ1M.Sf,09;CO`b.ag2HHL#2XoM2+-5l2k'6%sI
+u<:o?Sq"LI9Cm%1O(X./54@-(6qQu8e.M&.^"kF/UO6s3@Tu`@`Ncu/iD!QJIig`Q+DcXdDid_SW$E
+;!K_`oc^#'P_]RBjA8@jFVJMMeNplsC9tDAOk*dOlAd<mbgW!#CiLU@eGT(d,_-tbVUk$=VNccRJr1
+MsTbqe",TKgck2EG:4_>t3`>]uB8gXG(ckj0CN*WX(6Km+RrlN]:h;NsNr#;9<LaL[]&[AHJq\Sh4a
+;KdNh:>uB@5*/YjO2__,8/PKYc?4!pbs^:<F!c]H(E(-Tk\Z"%FoAZ_W[tQGOeS#sVhe;lTsK@S<8m
+,GkXq*Fl?-bk<;hM@@&-L0</iPd8#N@gEGit_G36!E7@eW:M/9=6Pss`EUZoE3#Q1\HdR6\K8%s:'O
+"4_,H)bf&O0Fc&7.R7A`eU$7QZN*sO%t30:8t!eX.??qHh*CFRLhQ\Hs)m[+t5JMpIlbF2*i"]]X@/
+Kq1Yc"c)9(d*4uaJf;*g6a`9#>RG^BWCJ#K0PQ&Q9qa`dP4LY&>_uQqiO1\sTL1e%@_DR'0])eA4/>
+qmPs7V(/,%\#L$X*XeO`\e4eYN<3>F9D:HN(^53f$]k];9XT->8peiGqc=$Zu(UAe"I]:Y<W@&;H$9
+@Ps*Nj52mi7hcN_cBXm_;1tk@LY(5\SPO_SBW$h7*S.oTK%u'dI1#h`5!2:g8lkO:g%YJ(7o'Y%b30
+I,*pRHuW.+A4Tdl!`O8of:=kAF6C\KI\TKT)n2/:5I+*"WNV3TOV%EANAL:sMK^kq(3]8/aS,['bR0
+b]71B@ce?J7<9j?3C48ML8(*S<u4F8S7ll;!9c8U]q\>?.s[/(sAEb=UMrE)[It@@AfEniuVhqCYTb
+"@6![:n?3,F('fBF^=n2MV//dhO#\Q=a1lMsi\^nUZf3B@,*d5N.kS:\AuQW"NVTYiok%IJ6`Rtt/`
+/N_:"h!jBqKtF4Q1ld86!;Q>rk2@k``<Tgj?9:b5F;YJ'+SkqMG72s./pbICdCMe1CGm/PcM)74GgV
++b+B<LOMMgXYc`BSrb%bDjH>,ZtojIQ8be8ppC4cF-Rprl']3r^^iNrZ3Il>?1?jYanD,O*#p=C^_,
+m4C-'%,Wg*kP_,='Y8i3)Z?--TI3Nm?<8r;CWNH\O4cE.':;Ti*@lX[bfR(3A7ZWGSgWT_!38V2e2.
+2kD1L/Q5B=,H<SOP#PRd?R%=N`;Ogo]%m2.%X[Vhh%lF$!_:hISOX6ni"?<[;mh8onqmWa@q>`OBjD
+cZ*+&bQSj,U6uk/9&^5p`<:<*cS'XIH^Z0bSl"ZogrR!d@1'Nt5R&a1%:>/pN;]c0?>RGiFn+EYdAV
+054a`)CdWRmF/N<-]Zj21k#IB:o;I9Ydcq7(EoA=%.gj1lP8(/_LX4;b`)C>pT-_A.RbEa.4\q.PSX
+>W]t.2h<'B+BVn[rO+"^/64.T(WfT+S5`f"'Y8(81X5.obS#.U6MK(C3O)I9RTJ-B:iu,Nll$#J%P+
+ZE"T^0J'4Z+ZdQY`idhNB/[1VO[G36#5PRY1O8JEVhC=6&$C3E3,BZI0Ia1!;.BkF]EgfoK6[=6*>R
+&\L8XP+3;DM_k6lgu+'ojKL[@6X!"kI$!-eNh(j#bY`V("(Sj4krK,q/oMiGWD6rK/g$]N3[j6l[Ie
+o[TcRj@;oC%06%0Hm.2hUjd8H`Hq>^rp[pJRndmBZKt(D:IA-FWECp:WPK!GJl[)!Z'HD-i20l#^.g
+h(5"9\(eB>-B2A)diB?;YN".!,JamE6C-JW<UtZ0GR>&IsTlR?aN#^cf6q39thDA@Sb+/b>37h:XQ#
+Gl]]OJE$`f_aRuA<LPP:mp*L112P2Dm>6*ql-=gFFfio2YglQ=]n-^U=t:_NhMr]M0S7ikoKSeU)7b
+H2Wa>_3'#mDL+1;%0NdXYBbti"j"Oe`Z4l.m+b_aiGj>05R3hF4"OGM41/PocT.Qcb-NZFhp"$gN!]
+dK<9Fd_D"S5$'Vr\GtLn,4Vom1]D?/R%A4',+2&(id?_s-d/MmiL^(8qYi=6M!nh\'<En9ifTKO-NZ
+tPScgP:tcph_gIP&VG\=[<UUt4gSi!b!\&SN<e,L&nsU$(qNlo^F2,819,OpO/RCpXIT5E[*No6#4-
+DoCZ5lDZ2'(75cjluGHEa;(/6LiXLnM011<'fr-sIX2EKX?4)B+e0lpSCK`?P\b>tDs7o*-SqR;Upc
+]n@_nQj,\%XMZkkZmQaMkiR6T:,3-Bk!;I@9F9:8[1#[<ksD;7<3D9)=rTG72f`Rkq0QE/5YE4%\go
+;h$JRC!<t!jl&'gE.28GbVA5Mu(K4a\diJ`Ef$j<"fI:?_9W>8G`ZT*>B*a.#;M,P/81jiV4U[sM\?
+!DZ%F#q9V-,`2!I3(^]TuA9G2)[e8B+,]E:4R>F8p0[S\a,tlM.'D&H6a<d<ZOTm9]2ZQ_'@gC:en&
+KOVZ!"TMoU%D9t*Ga*Ba_SsL2hi*\GSV@^F+BV<p.LTmYXM(k1^W;b.4p5Yh%_u?s;"k&&W4('5]e)
+DUYQ:'*n#ltLVbR.44#rP582+@;"+.lOA!MO#BoH5d-Xq6BJ`b\L.P\`KaY'@\kH-T0$h5t^iG)fJ+
+ID2't:0lAKK%$MQ5DrZ^4TBAsee(4408ZDi0<Rg#`NQL(%j1APkDki8NZsqnNCnAFGF<j@MUf;JqG,
+ti1V:i=D3+ru"tt<U/Xfl>B"m7C8i`\dMUJY#gBo3GhQmmD&;8b*4&9Buf,%E&NhH2-hONDY+irSWM
+?iTk8QP>Hkecd2_-c[pTgKcJ=T9)-onl_@PN-3\S:I36H[4Z+_0YW!DCqg];e'8up9t$YgdPBF&T@/
+R&CZe,`&c5M*4'?PElIA-j,rLS^:et8>A-7$NFsPB='=2l*>\:cC28h$TY,&R22U^QVe5SMMLPW8LX
+$"eH&MQX?lsI[."+><:r-fCko*6o:E\%,is-lkN-eR%b`Nlo2M+EN&)>*4?RH?kqum<=`=YKMd.bah
+?BYjMTG1O-e6@;4h7MKc@#ALW6DOR(b<$H3T)@(L5m]6SS#];,$I.mkFKFM]J_#'dXrdGQReNW>R/Z
+F0N%^ij,-FR0WO0Yi)MAP9Tc1pEBgoiQB!DQTEMK+33lQ,Q1`B\GRd$ElUX0$en[Y]tkJ<@lKK;aUS
+V(=f&!e8-C@1;#`t5X`qD/7`/u41-m;)>VYHlVfGhsSBX(9i/k1SI12?.fb>1n]YVp#cGj@"b#G,^#
++>2"#2F,0fj?RR%P+Ph2rfQR%@W/iqeW:5`0REX0S%X%+41ZIXuo8p?J,ir;nac131p'*;Y4pLtU=F
+sb<8q4+320TYl3Cl<FjkmLoo!:15d)=CqG4a#YhuMQNM7dkl8BM?c^D()=#Pp@25_4bbh:<e"hP*"Q
+mJe!VPj>f8_%%?LO4s@WEe#6NhYlri<N(*ioS0VPN]s5/JCO?nK7I`9O[Q4r!2cHL>CJuhe&uYCGdO
+X"'bT$`M<fO-IFrMhaRnpqa"PAT%!h\kp>*ke)DKgdZI<\nqu5<E5rT'dWD$3$eZ5[/<;<tLH3V?Sr
+Pfr:5o)sf0P8HaN)$cuW6bIF##GPOl8K$.]\G0NB>6&3YWDY<,EGl2[\"A69L'Ym[Vh2:h=1>5o-au
+b8-(V[(QeS\1<]8jcZ^T4qsWF90JG170JG170JG170JG170JG170JG170JG170JG170JG170JG170J
+G170JG170JG170JG170JG170JG17$48I@0JG170JG170JG170JG170JG170JG170JG170JG170JG17
+0JG170JG170JG170JG170JG170JG170JEh@0JG170JG170JG170JG170JG170JG170JG170JG170JG
+170JG170JG170JG170JG170JG170JG170JG17$48I@0JG170JG170JG170JG170JG170JG170JG170
+JG170JG170JG170JG170JG170JG170JG170JG170JEh@0JG170JG170JG170JG170JG170JG170JG1
+70JG170JG170JG170JG170JG170JG170JG170JG170JG17$48I@0JG170JG170JG170JG170JG170J
+G170JG170JG170JG170JG170JG170JG170JG170JG170JG170JEh@0JG170JG170JG170JG170JG17
+0JG170JG170JG170JG170JG170JG170JG170JG170JG170JG170JG17$48I@0JG170JG170JG170JG
+170JG170JG170JG170JG170JG170JG170JG170JG170JG170JG170JG170JEh@@r,^bEcc5:@<-.1E
+b0<6DfTE;Bk@\~>
+endstream
+endobj
+50 0 obj
+<<
+/CreationDate (Sun Nov  2 10:20:48 1997)
+/Producer (PStill V1.10 by Frank M. Siegert frank@this.net)
+>>
+endobj
+51 0 obj
+3165
+endobj
+52 0 obj
+6960
+endobj
+53 0 obj
+8871
+endobj
+54 0 obj
+9991
+endobj
+55 0 obj
+9570
+endobj
+56 0 obj
+8547
+endobj
+57 0 obj
+8174
+endobj
+58 0 obj
+8363
+endobj
+59 0 obj
+9074
+endobj
+60 0 obj
+9632
+endobj
+61 0 obj
+7760
+endobj
+62 0 obj
+22526
+endobj
+63 0 obj
+21504
+endobj
+xref
+0 64
+0000000000 65535 f 
+0000000015 00000 n 
+0000000080 00000 n 
+0000000126 00000 n 
+0000000280 00000 n 
+0000000319 00000 n 
+0000000481 00000 n 
+0000003699 00000 n 
+0000003839 00000 n 
+0000010852 00000 n 
+0000010982 00000 n 
+0000019907 00000 n 
+0000020071 00000 n 
+0000030116 00000 n 
+0000030247 00000 n 
+0000039871 00000 n 
+0000040002 00000 n 
+0000048603 00000 n 
+0000048734 00000 n 
+0000056962 00000 n 
+0000057093 00000 n 
+0000065510 00000 n 
+0000065652 00000 n 
+0000074780 00000 n 
+0000074922 00000 n 
+0000084608 00000 n 
+0000084750 00000 n 
+0000092564 00000 n 
+0000092689 00000 n 
+0000094016 00000 n 
+0000095209 00000 n 
+0000096536 00000 n 
+0000096725 00000 n 
+0000097920 00000 n 
+0000099247 00000 n 
+0000099439 00000 n 
+0000100634 00000 n 
+0000100702 00000 n 
+0000100890 00000 n 
+0000101013 00000 n 
+0000102340 00000 n 
+0000103527 00000 n 
+0000105094 00000 n 
+0000105286 00000 n 
+0000127931 00000 n 
+0000128059 00000 n 
+0000129386 00000 n 
+0000130570 00000 n 
+0000132137 00000 n 
+0000132322 00000 n 
+0000153945 00000 n 
+0000154068 00000 n 
+0000154089 00000 n 
+0000154110 00000 n 
+0000154131 00000 n 
+0000154152 00000 n 
+0000154173 00000 n 
+0000154194 00000 n 
+0000154215 00000 n 
+0000154236 00000 n 
+0000154257 00000 n 
+0000154278 00000 n 
+0000154299 00000 n 
+0000154321 00000 n 
+trailer
+<<
+/Size 64
+/Root 1 0 R
+/Info 50 0 R
+>>
+startxref
+154343
+%%EOF

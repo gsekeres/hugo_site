@@ -61,7 +61,7 @@ If you are a Cornell student, SIEPR predoc, Stanford student, or a friend of a f
   <p>Included here are full course materials for my graduate courses, divided into semesters. Clicking the links below will download a .zip file containing the course materials, as well as a usage file with instructions for how to use them and what is included. These materials contain problem set solutions, code, and lecture notes provided directly by professors. These are not meant to be public materials, please do not post them online. Feel free to share them directly with others.</p>
 
   <ul>
-    <li><a href="/resources/private/fall_2024/">Fall 2024</a>: Includes materials for ECON 6090: Microeconomics I, ECON 6130: Macroeconomics I, ECON 6170: Intermediate Mathematics for Economists, and ECON 6190: Econometrics I.</li>
+    <li><a href="/resources/private/fall_2024.zip">Fall 2024</a>: Includes materials for ECON 6090: Microeconomics I, ECON 6130: Macroeconomics I, ECON 6170: Intermediate Mathematics for Economists, and ECON 6190: Econometrics I.</li>
   </ul>
 </div>
 
