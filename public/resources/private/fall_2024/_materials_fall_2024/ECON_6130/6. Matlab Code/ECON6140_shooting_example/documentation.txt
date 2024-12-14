@@ -1,5 +1,0 @@
-To get started
-
->> main_prog
-
-For more details, see comments in main_prog

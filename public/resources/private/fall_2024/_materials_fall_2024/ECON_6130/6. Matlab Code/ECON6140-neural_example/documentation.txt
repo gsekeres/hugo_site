@@ -1,6 +1,0 @@
-To get started
-
->> linear_model
->> solve_projection
-
-For more details, see comment in solve_projection. 
