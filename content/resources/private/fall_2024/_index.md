@@ -26,7 +26,7 @@ _build:
 The full zip file contains the following:
 
 <div style="position: relative; padding-bottom: 100%; height: 0; overflow: hidden;">
-    <iframe src="/resources/private/fall_2024/materials_fall_2024/usage.pdf" 
+    <iframe src="/resources/private/fall_2024/_materials_fall_2024/usage.pdf" 
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
     </iframe>
 </div>
