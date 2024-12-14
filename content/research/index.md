@@ -18,3 +18,11 @@ Multiple papers with [Eric Sun](https://profiles.stanford.edu/eric-sun), my pred
 ## Research Statement:
 
 Check back when I'm on the job market.
+
+## A random equation that I've been thinking about:
+
+$$
+\sigma(z) = \frac{1}{1 + e^{-z}}
+$$
+
+(updated 12/14/2024)
