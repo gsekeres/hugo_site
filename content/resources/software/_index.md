@@ -1,7 +1,7 @@
 ---
 title: "Software Recommendations" 
 date: 2024-11-02
-lastmod: 2024-11-02
+lastmod: 2024-12-15
 tags: []
 author: ["Gabriel Sekeres"]
 description: "My current software setup." 
@@ -12,7 +12,7 @@ I've stolen a lot from my friend [Zahra Thabet](https://zahrathabet.com/). She h
 
 ##### IDE
 
-Everything I write is in [Cursor](https://www.cursor.com/). It's 2024, it's time to accept LLMs into our life. Also it makes me like 80% faster at coding.
+Everything I write is in [Cursor](https://www.cursor.com/). It's 2024, it's time to accept LLMs into our life. Also it makes me like 80% faster at coding. I've found myself using Claude Opus more than Chat GPT, it tends to be better at executing my ideas quickly and accurately, while I've found Chat GPT to be better at ideation in general.
 
 ##### Hugo
 
