@@ -35,7 +35,31 @@ If you are a Cornell student, SIEPR predoc, Stanford student, or a friend of a f
     50% { transform: translateY(-5px); }
 }
 
+#passwordForm {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#passwordForm label,
+#passwordForm input,
+#passwordForm button {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+#passwordForm input {
+    margin-right: 10px;
+    padding: 8px;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    background-color: var(--entry);
+}
+
 .easter-button {
+    padding: 10px 15px;
+    min-height: auto;
+    max-width: 100px;
     display: flex !important;
     align-items: center !important;
     justify-content: center !important;
