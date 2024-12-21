@@ -1,7 +1,7 @@
 ---
 title: "The Politics of the Slippery Slope" 
-date: 2024-11-10
-lastmod: 2024-11-10
+date: 2025-01-01
+lastmod: 2025-01-01
 tags: ["microeconomic theory","political economy","learning","policy momentum"]
 author: ["Giri Parameswaran","Gabriel Sekeres","Haya Goldblatt"]
 description: "We present a model of policy provision under endogenous policy momentum and a divided, misinformed polity. Forthcoming in the *Journal of Politics*." 
@@ -9,8 +9,6 @@ summary: "We present a model of policy provision under endogenous policy momentu
 editPost:
     URL: "https://www.journals.uchicago.edu/doi/10.1086/732965"
     Text: "Journal of Politics"
-
----
 
 ---
 
@@ -51,9 +49,9 @@ slippery slope dynamic.
 Parameswaran, Giri, Gabriel Sekeres, and Haya Goldblatt. Forthcoming. "The Politics of the Slippery Slope." *Journal of Politics*. doi: [10.1086/732965](https://doi.org/10.1086/732965)
 
 ```BibTeX
-@article{PSG24,
+@article{parameswaran2025slippery,
 author = {Giri Parameswaran and Gabriel Sekeres and Haya Goldblatt},
-year = {2024},
+year = {2025},
 title ={The Politics of the Slippery Slope},
 journal = {Journal of Politics},
 url = {https://doi.org/10.1086/732965}
