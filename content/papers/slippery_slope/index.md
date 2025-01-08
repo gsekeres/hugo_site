@@ -29,6 +29,8 @@ dynamics arise. Additionally, we provide conditions under which, in equilibrium,
 phisticated agents will successfully manipulate policy to either induce or prevent a
 slippery slope dynamic.
 
+test
+
 ---
 ##### Figure 1: Violations of Single-Peakedness
 
