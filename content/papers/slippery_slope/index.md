@@ -22,14 +22,7 @@ editPost:
 
 ##### Abstract
 
-Slippery slope arguments — the idea that otherwise beneficial reforms should be re-
-jected lest they beget further undesirable one — are ubiquitous in political discourse.
-We provide a learning-based policy-feedback mechanism to explain why slippery slope
-dynamics arise. Additionally, we provide conditions under which, in equilibrium, so-
-phisticated agents will successfully manipulate policy to either induce or prevent a
-slippery slope dynamic.
-
-test
+Slippery slope arguments — the idea that otherwise beneficial reforms should be rejected lest they beget further undesirable one — are ubiquitous in political discourse. We provide a learning-based policy-feedback mechanism to explain why slippery slope dynamics arise. Additionally, we provide conditions under which, in equilibrium, sophisticated agents will successfully manipulate policy to either induce or prevent a slippery slope dynamic.
 
 ---
 ##### Figure 1: Violations of Single-Peakedness
