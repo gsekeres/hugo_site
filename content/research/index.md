@@ -9,7 +9,7 @@ The intersections of micro theory, econometric theory, and machine learning.
 
 How do researchers act? How do they learn? How do they make decisions? What changes when researchers are algorithms?
 
-Also, what is the difference between optimizing a smooth nonlinear function over Euclidean space and optimizing a linear function over a Riemannian manifold? What are the duality implications?
+Also, what is the difference between optimizing a smooth nonlinear function over Euclidean space and optimizing a linear function over a smooth Riemannian manifold? What are the duality implications?
 
 ## Specifically Working On:
 
