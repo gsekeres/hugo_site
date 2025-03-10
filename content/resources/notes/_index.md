@@ -29,4 +29,11 @@ I've included more complete course materials in the [private](/resources/private
 - [Macroeconomics I](/resources/private/fall_2024/econ_6130_notes.pdf), taught by [Mathieu Taschereau-Dumouchel](https://www.mathtd.info/) and [Ryan Chahrour](https://www.chahrour.net/). Prof. Taschereau-Dumouchel's part covered canonical macroeconomic models, and Prof. Chahrour's part covered several solution methods to the Labor Search and Real Business Cycle models.
 - [Econometrics I](/resources/private/fall_2024/econ_6190_notes.pdf), taught by [Chen Qiu](https://sites.google.com/view/chen-qiu). Covers the first semester of Econometrics: introduction to statistical inference, asymptotics, estimation, hypothesis testing, and confidence intervals.
 
+## Semester II Notes (IN PROGRESS, INCOMPLETE, NOT QUICKLY UPDATED)
+
+- [Microeconomics II](/resources/private/spr_2025_in_progress/ge_notes.pdf) (General Equilibrium), taught by Larry Blume
+- [Microeconomics III](/resources/private/spr_2025_in_progress/game_theory_notes.pdf) (Game Theory), taught by Marco Battaglini
+- [Macroeconomics II](/resources/private/spr_2025_in_progress/macro_notes.pdf) taught by Julieta Cauneda
+- [Econometrics II](/resources/private/spr_2025_in_progress/metrics_notes.pdf) taught by Jorg Stoye
+
 
