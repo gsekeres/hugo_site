@@ -33,7 +33,7 @@ I've included more complete course materials in the [private](/resources/private
 
 - [Microeconomics II](/resources/private/spr_2025_in_progress/ge_notes.pdf) (General Equilibrium), taught by Larry Blume
 - [Microeconomics III](/resources/private/spr_2025_in_progress/game_theory_notes.pdf) (Game Theory), taught by Marco Battaglini
-- [Macroeconomics II](/resources/private/spr_2025_in_progress/macro_notes.pdf) taught by Julieta Cauneda
+- [Macroeconomics II](/resources/private/spr_2025_in_progress/macro_notes.pdf) taught by Julieta Caunedo
 - [Econometrics II](/resources/private/spr_2025_in_progress/metrics_notes.pdf) taught by Jorg Stoye
 
 
