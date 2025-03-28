@@ -83,13 +83,35 @@ function openRandomLongreadsArticle() {
     // For Safari compatibility, use location.href instead of window.open
     // but first check if we should open in a new tab
     const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+    const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
     
-    if (isSafari) {
-      // For Safari, create and click a temporary link
+    if (isIOS) {
+      // For iOS Safari, we'll use window.location directly
+      // First create a visible notification that we're redirecting
+      const notification = document.createElement('div');
+      notification.style.position = 'fixed';
+      notification.style.top = '50%';
+      notification.style.left = '50%';
+      notification.style.transform = 'translate(-50%, -50%)';
+      notification.style.padding = '20px';
+      notification.style.backgroundColor = 'rgba(0,0,0,0.8)';
+      notification.style.color = 'white';
+      notification.style.borderRadius = '10px';
+      notification.style.zIndex = '9999';
+      notification.textContent = 'Opening article...';
+      document.body.appendChild(notification);
+      
+      // Then redirect after a short delay
+      setTimeout(() => {
+        window.location.href = article;
+      }, 500);
+    } else if (isSafari) {
+      // For desktop Safari, create and click a temporary link
       const tempLink = document.createElement('a');
       tempLink.href = article;
       tempLink.target = '_blank';
       tempLink.rel = 'noopener noreferrer';
+      tempLink.style.display = 'none';
       document.body.appendChild(tempLink);
       tempLink.click();
       document.body.removeChild(tempLink);
