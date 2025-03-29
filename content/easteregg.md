@@ -159,7 +159,7 @@ function openRandomLongreadsArticle() {
 
 <div class="button-container">
     <a href="/" class="easter-button">Return Home</a>
-    <button onclick="openRandomLongreadsArticle()" class="easter-button">Read a Random Article</button>
+    <a href="https://longform.org/random" class="easter-button">Read a Random Article</a>
     <a href="https://zoo.sandiegozoo.org/cams/ape-cam" class="easter-button">Ape Cam</a>
 </div>
 
@@ -180,11 +180,15 @@ function openRandomLongreadsArticle() {
 
 ## The Random Article Button
 
-At some point in March 2025, my favorite button on the entire internet, the "Get a Random Article" button on the [longform.org](https://web.archive.org/web/20250311104911/https://longform.org/) website, stopped working. The longform archive is [preserved in the wayback machine](https://web.archive.org/web/20250114190750/https://longform.org/sections), but the random button no longer works at all. In order to even slightly approximate that feature, I scraped the longreads.com website to compile a list of approximately 500 articles from their year-end lists. The random button now selects from this list. It is significantly worse, but it exists! The code to do everything is [in the repo](https://github.com/gsekeres/hugo_site), in the `scraper.py` file and the `content/easteregg.md` file. If you can figure out a better implementation, I'll love you forever.
+At some point in March 2025, my favorite button on the entire internet, the "Get a Random Article" button on the [longform.org](https://longform.org/) website, stopped working. I started panicking, and tried to recreate it for my own usage. In order to even slightly approximate that feature, I scraped the [longreads.com](https://longreads.com/) website to compile a list of approximately 500 articles from their year-end lists. 
 
+Then, three days later, [longform.org](https://longform.org/) was back again, with my favorite button working as expected. I have no idea what happened, but my (shoddy) work still exists. The main button above again links to [longform.org/random](https://longform.org/random), but the button below is my own implementation. 
 
+The code to do everything is [in the repo](https://github.com/gsekeres/hugo_site), in the `scraper.py` file and the `content/easteregg.md` file. I plan on updating this with newer articles when I remember to do so, so it might serve as a random new article button? Stay tuned.
 
-
+<div class="button-container">
+      <button onclick="openRandomLongreadsArticle()" class="easter-button">Read A Random Article: Gabe's Version</button>
+</div>
 
 
 
