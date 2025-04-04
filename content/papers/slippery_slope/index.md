@@ -41,7 +41,7 @@ Slippery slope arguments — the idea that otherwise beneficial reforms should b
 
 ##### Citation
 
-Parameswaran, Giri, Gabriel Sekeres, and Haya Goldblatt. 2025. "The Politics of the Slippery Slope." *Journal of Politics* 87(2): XXX. doi: [10.1086/732965](https://doi.org/10.1086/732965)
+Parameswaran, Giri, Gabriel Sekeres, and Haya Goldblatt. 2025. "The Politics of the Slippery Slope." *Journal of Politics* 87(2): 709-723. doi: [10.1086/732965](https://doi.org/10.1086/732965)
 
 ```BibTeX
 @article{parameswaran2025slippery_slope,
@@ -51,7 +51,7 @@ title ={The Politics of the Slippery Slope},
 journal = {Journal of Politics},
 volume = {87},
 number = {2},
-pages = {XXX-XXX},
+pages = {709-723},
 url = {https://doi.org/10.1086/732965}
 }
 ```
