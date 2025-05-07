@@ -1,0 +1,39 @@
+\documentclass[10pt]{article}
+
+\input{/Users/gabesekeres/Dropbox/LaTeX_Docs/pset_preamble.tex}
+
+\course{ECON 6110}
+\pset{3}
+\begin{document}
+\maketitle
+
+\subsection*{Problem 1}
+
+\begin{itemize}
+	\item[(a)] Observe that there are two pure-strategy Nash equilibria, $(B,Y)$ and $(C,Z)$. Take the perspective of Player 1. Observe that they can guarantee at least 3 for themselves in every stage by choosing $C$. In a strategy where $(A,X)$ was played in the first period, and then one of the pure Nash equilibria was played in the second, Player 1 would attain either 8 or 9 total payoff. However, deviating to $C$ would get them 7 in the first period, and then the minimax payoff, which is 3. Thus, deviating would get a strictly higher payoff. The same logic holds for Player 2, where they can guarantee at least 3 by playing $Y$. Thus, when $T=1$ there is no SPE in which $(A,X)$ is played in the first period, since both players would prefer to deviate and be punished.
+	
+	\item[(b)] Observe that if the strategy of having $(A,X)$ in the first period and then one of the two pure stage Nash equilibria is played, then at least one of the players (the one who gets 3 in the stage Nash) can strictly improve by deviating in the first period and then guaranteeing their minimax forever. Instead, consider the following set of strategies: Play $(A,X)$ in period 1. Thereafter, play $(B,Y)$ in even periods and $(C,Z)$ in odd periods. If player 1 deviates, player 2 will play $Z$ forever, and if player 2 deviates, player 1 will play $B$ forever. Neither player will deviate from the stage Nash payoffs, clearly. Player 1 will not deviate in the first period if $T$ is sufficiently large that \[u_1(C,s_{-i}) = 7 + \sum_{i=1}^T 3 \le 5 + \sum_{i=1}^T 4 \cdot \ones_{i = 2k} + \sum_{i=1}^T 3 \cdot \ones_{i = 2k+1} = u_1(A,s_{-i})\]Which reduces to \[7 + 3T \le 5 + 3.5 T \Longrightarrow T \ge 4\]Similarly, Player 2 will not deviate in the first period if $T$ is sufficiently large that \[u_2(Y,s_{-i}) = 7 + \sum_{i=1}^T 3 \le 5 + \sum_{i=1}^T 3 \cdot \ones_{i = 2k} + \sum_{i=1}^T 4 \cdot \ones_{i = 2k+1} = u_1(X,s_{-i})\]Which again reduces to \[7 + 3T \le 5 + 3.5 T \Longrightarrow T \ge 4\]Thus, for $T \ge 4$, the described strategy is a subgame perfect equilibrium where $(A,X)$ is played in the first period.
+\end{itemize}
+
+\subsection*{Problem 2}
+
+\begin{itemize}
+	\item[(a)] First, it's useful to characterize the optimal deviation. Observe that the function $(1-p_i)(p_i-0.5)$ is everywhere strictly concave, and the first order condition gives us \[1 - 2p_i + 0.5 = 0 \Longrightarrow p_i\opt = 0.75\]If $p_{-i} = 0.75$, the optimal choice in the stage game is $p_i = \max\{[0,0.75)\}$, which of course is not well-defined. We will say that the optimal stage game choice is $p'_i = 0.75 - \varepsilon$ which, for sufficiently small $\varepsilon$ attains a payoff of \[\pi_i(p_i',p_{-i}\opt) = (1-0.75 + \varepsilon)(0.75 - \varepsilon - 0.5) = 0.0625 - \varepsilon^2 \ge \frac{1}{2} \cdot 0.0625 = \pi_i(p_i\opt,p_{-i}\opt)	\]Observe that when $p_{-i} = c$, $u_i(c,c) = 0 \ge u(p_i,c) = 0 \forall p_i \ne c$, so there will be no deviations in the punishment stage. We need only to check for deviations in the initial stage. Fixing some $\delta \in (1/2,1)$, from the one-shot deviation principle, we need to find $T$ such that \[\sum_{t=0}^T \delta^t \cdot \pi_i(p_i\opt,p_{-i}\opt) \ge \pi_i(p_i',p_{-i}\opt) + \sum_{t=1}^T \delta_t \cdot \underbrace{\pi_i(c,c)}_{=0}\]Since this must hold for any $\varepsilon > 0$, we set $\varepsilon = 0$, and get that $\pi_i(p_i',p_{-i}\opt) = 0.0625$. Then this condition becomes \[\frac{1}{2} \cdot 0.0625 \cdot \frac{1-\delta^{T+1}}{1-\delta} \ge 0.0625 \Longrightarrow 1-\delta^{T+1} \ge 2 - 2\delta \]and since $\delta \in (1/2,1)$, the RHS is strictly less than 1, meaning that there exists $T$ sufficiently large such that the inequality holds, since $\lim_{t\to\infty} \delta^t = 0$.
+	\item[(b)] There is not a value of $\delta$ for which this strategy is a SPE. Observe that a deviation to $p_i' = 0.75 - \varepsilon$ for small $\varepsilon$ is optimal if\[\pi_i(p_i',p_{-i}\opt) + \sum_{t=1}^\infty \delta^t \cdot \pi_i(p_i',p_{-i}')  > \sum_{t=0}^\infty \delta^t \cdot \pi_i(p_i\opt,p_{-i}\opt)\]which simplifies to\[0.0625 - \varepsilon^2 + \frac{\delta}{1-\delta}\parl \frac{1}{2} (0.0625 - \varepsilon^2)\parr > \frac{1}{1-\delta} \parl \frac{1}{2} \cdot 0.0625\parr\]and that becomes\[\frac{1}{2} \cdot 0.0625 + \frac{1}{1-\delta}\cdot  \frac{1}{2}\cdot 0.0625 -  \frac{1}{1-\delta}\cdot  \frac{1}{2}\cdot 0.0625> \varepsilon^2 \cdot \parl 1 - \delta + \frac{1}{2}\parr \Longrightarrow \varepsilon^2 < \frac{0.03125}{1-\delta + 0.5}\]Since the RHS is strictly greater than 0, there exists $\varepsilon > 0$ such that a deviation to $0.75 - \varepsilon$ will always be optimal, for any $\delta$. Thus, this strategy cannot be a SPE because there will always be a deviation.
+\end{itemize}
+
+\subsection*{Problem 3}
+
+\begin{itemize}
+	\item[(a)] Observe that $(A,A)$ is a Nash equilibrium of the stage game, as any deviation will lead to strictly less payoff for both players. Thus, each player playing $A$ in each period is a subgame perfect equilibrium and each player will attain 4 in each period.
+	\item[(b)] Observe that the minimax payoff for a deviation to $A$ is 1 in each period forever. Thus, receiving 0.5 is not individually rational since player 1 would rather play $A$ and attain 1 forever, so there is no SPE under which player 1 gets 0.5 forever.
+	\item[(c)] We construct the following SPE. In Stage I, both players play $B$. If player $i$ deviates, move to Stage II, where player $-i$ plays $C$ forever. There will be no deviations as long as\[u_i(B,s_{-i}) = \sum_{t=0}^\infty \delta^t \cdot 2 \ge 3 + \sum_{t=1}^\infty \delta^t \cdot 1 = u_i(A,s_{-i})\]which holds as long as \[\frac{2}{1-\delta} \ge 2 + \frac{1}{1-\delta} \Longrightarrow \delta \ge \frac{1}{2}\]which condition is met by our assumption that $\delta = 0.99$.
+\end{itemize}
+
+\subsection*{Problem 4}
+
+We construct the following strategies for the workers: If a wage $w \ge c$ was paid in each period $1,\dots,t-1$, expend effort at cost $c$. Otherwise, do not expend effort. The firm will play the \emph{ex ante} fair strategy where they pay the worker $w = c$ if they expend effort and 0 otherwise. First, note that this strategy is (weakly) optimal for the worker if they expect the firm to adhere to their strategy. It remains to demonstrate that there are no deviations for the firm. The firm will follow their strategy and pay the worker $c$ if (and only if!)\[u(c,s_{-i}) = \sum_{t=0}^\infty \delta^t \cdot (y - c) \ge y + \sum_{t=1}^\infty \delta^t \cdot 0 = u(0,s_{-i})\]Which will hold as long as \[y - c \ge y - y\cdot \delta \Longrightarrow \delta \ge \frac{c}{y}\]So the necessary and sufficient condition for this SPE to exist is that $\delta \ge c / y$.
+
+
+
+\end{document}

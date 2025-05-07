@@ -1,0 +1,38 @@
+\documentclass[10pt]{article}
+
+\input{/Users/gabesekeres/Dropbox/LaTeX_Docs/pset_preamble.tex}
+
+\course{ECON 6100}
+\pset{6}
+\begin{document}
+\maketitle
+
+
+\begin{enumerate}
+	\item Find cost functions for the production functions. For every production function, the cost function is determined by \[C(w_k,w_l,q) = \min_{k,l} w_k \cdot k + w_l \cdot l \st f(k,l) \ge q\]We will use the fact that many cost functions are always homogenous of degree 1, to find $C(\cdot,\cdot,1)$. \begin{enumerate} \item Cobb-Douglas: The cost function is: \[\min_{k,l} w_k \cdot k + w_l \cdot l \st k^\alpha l^{1-\alpha} \ge q \]so we have that \[C(w_k,w_l,1) = \alpha^{-\alpha} \beta^{-\beta} w_k^\alpha w_l^\alpha  \Longrightarrow C(w_k,w_l,q) = \alpha^{-\alpha} \beta^{-\beta} w_k^\alpha w_l^\alpha q\] \item CES: The cost function is \[C(w_k,w_l,1) = \min_{k,l} w_k \cdot k + w_l \cdot l \st ak^r + bl^r \ge 1\]so we have that \[C(w_k,w_l,1) = \barl \parl \frac{w_k^r}{a}\parr^{\frac{1}{r-1}} +  \parl \frac{w_l^r}{b}\parr^{\frac{1}{r-1}} \barr^{\frac{r-1}{r}} \Longrightarrow C(w_k,w_l,q) = q \cdot \barl \parl \frac{w_k^r}{a}\parr^{\frac{1}{r-1}} +  \parl \frac{w_l^r}{b}\parr^{\frac{1}{r-1}} \barr^{\frac{r-1}{r}}\] \item Linear: The cost function is \[C(w_k,w_l,q) = \min_{k,l} w_k \cdot k + w_l \cdot l \st ak + bl \ge q\]which simplifies to \[C(w_k,w_l,q) = \min\curll \frac{w_k \cdot q}{a}, \frac{w_l \cdot q}{b}\curlr\] \item Leontief: We must have, in a Leontief model, that $k = \frac{q}{a}$ and $l = \frac{q}{b}$, so the cost function is \[C(w_k,w_l,q) = \frac{w_k \cdot q}{a} + \frac{w_l \cdot q}{b}\] \item von Th\"{u}nen: There is no closed form in general for this cost function, as this problem is not convex and not homogeneous of degree 1.\end{enumerate}
+	\item Two-country world. \begin{enumerate} \item \begin{proof} FSOC, assume that the price of a factor $g$ is strictly less than its marginal product in equilibrium, meaning that there is some profit, which does not go to the factors. Then we will have that $c_g(\cdot) > p_g$, meaning that the factor demand is not profit-maximizing and thus this is not an equilibrium. That is a contradiction. \end{proof} \item If $p_A$ increases, the capital share of the national product will increase as long as the price of capital decreases, which will happen (by Stolper-Samuelson) as long as good $A$ is labor-intensive. This implies that $\nabla_\ell f_A < \nabla_\ell f_B$.\end{enumerate}
+	\item Assume that an endowment is in the cone in the two-sector model, and assume that the quantity of a factor $g$ slightly increases. Output will strictly increase, since we assume that $f$ is strictly increasing in both factors and that output prices are positive. This means that the country can produce more output while profit-maximizing, so they will do so.
+	\item Here is another two-sector model. Sector 1 produces investment goods (capital goods). Sector 2 produces consumption goods. Each sector is characterized by a neoclassical production function (strictly concave, $\cont^2$, Inada conditions at 0) with constant returns to scale. Write $Y_i = F_i(K_i,L_i)$ for output in sector $i$ as a function $F_i$ of capital $K_i$ and labor $L_i$ employed in sector $i$. \begin{enumerate} \item We have that $y_i = F_i(k_i,1) = f_i(k_i)$. The previous assumptions imply that $F_i$ is homogeneous of degree 1, so $f_i$ is also homogeneous of degree 1, strictly concave, $\cont^2$, and has Inada conditions at $k_i = 0$. \item The conditions imply that the factor input costs are equal to the marginal product (scaled to dollar terms) of the input, that the markets for capital and labor clear in every individual market, and that the total demand for capital goods is equal to the total product of capital goods, with the same for the consumption goods being equal to the total product of labor. \item These conditions become \begin{align*} y_i &= f(k_i) \\ f_i'(k_i) &= \frac{r}{P_i} &&\frac{w}{P_i} = f_i(k_i) - k_i f'_i(k_i) \\ \Longrightarrow \omega &= \frac{f_i(k_i) - k_if'_i(k_i)}{f'_i(k_i)}\\ k_1 + k_2 &= k &&1 \;\;\;= \ell_1 + \ell_2\\ y_1 &= \frac{k}{\omega} &&y_2\; =  \omega  \\ \Longrightarrow \frac{y_1}{y_2} &= k\end{align*} \item Using Implicit Function Theorem, we define \[G(k_i,\omega) = \omega \cdot f'_i(k_i) - f_i(k_i) + k_i f'_i(k_i)\]and since the conditions hold, we can say that \[\frac{\partial k_i}{\partial \omega} = -\frac{\frac{\partial G}{\partial \omega}}{\frac{\partial G}{\partial k_i}} = -\frac{f'_i(k_i)}{f''_i(k_i)(\omega + k_i)}\]By the Implicit Function Theorem, there is a unique function $k_i(\omega)$ that determines the optimal capital level for any given wage / rent ratio. \item We have that from part (c), $\omega = \frac{k}{f(k_1)}$. This implicitly defines the wage / rent ratio as a function of the capital / labor ratio, $k = \frac{K}{L}$.\end{enumerate}
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

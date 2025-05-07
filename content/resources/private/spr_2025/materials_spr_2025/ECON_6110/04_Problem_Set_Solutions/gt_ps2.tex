@@ -1,0 +1,41 @@
+\documentclass[10pt]{article}
+
+\input{/Users/gabesekeres/Dropbox/LaTeX_Docs/pset_preamble.tex}
+
+\course{ECON 6110}
+\pset{2}
+\begin{document}
+\maketitle
+
+\subsection*{Problem 1}
+
+\begin{enumerate}
+	\item Observe that the best response of the firm to a choice $w$ is \[q \in \argmax_{q \in \reals_+} q((1-q)-w)\]which admits the first order conditions \[1 - 2q - w = 0 \Longrightarrow q = \frac{1-w}{2}\]This clearly admits a corner, where the firm will choose $q=0$ when $w > 1$. Thus, in the subgame where the union chose $w$, the firm will choose \[q = \begin{cases} \frac{1-w}{2} & w \le 1 \\0 & w > 1\end{cases}\]Knowing this, the union solves the problem \[w \in \argmax_{w \in \reals_+} (w-l)\frac{1-w}{2} = \argmax_{w \in \reals_+} \frac{w - l + wl - w^2}{2}\]which admits the first order condition\[\frac{1}{2} + \frac{l}{2} - w = 0 \Longrightarrow w = \frac{1+l}{2} \]and since $l \in (0,1)$, we don't attain the corner. Thus, the subgame perfect equilibrium is \[w = \frac{1+l}{2} \qquad \text{ and } \qquad q = \frac{1-l}{4}\]the attained values will be \begin{align*} v_1 &= \parl \frac{1+l}{2} - l\parr \frac{1-l}{4} = \frac{(1-l)^2}{8} \\ v_2 &= \frac{1-l}{4}\parl \parl 1 - \frac{1-l}{4}\parr - \frac{1+l}{2}\parr = \frac{(1-l)^2}{16}\end{align*}So we see a version of the first mover advantage in this model.
+	\item Consider the following Nash equilibrium: The union always chooses $w = 100$, and the firm always chooses $q = 0$. Given that the union is choosing $w = 100$, any choice other than $q = 0$ would attain strictly negative payoff. Given that the firm is choosing $q = 0$, the union can never attain more than 0 payoff, so $v_1(100) = 0$ is their (weak) maximum. This is not subgame perfect as deviating to $w \in (0,1)$ would lead to positive production, but it is a Nash equilibrium as there are no profitable one-stage deviations.
+\end{enumerate}
+
+\subsection*{Problem 2}
+
+\begin{enumerate}
+	\item Consider the following strategy: Player 1 chooses $S$ in the first period, Player 2 chooses $S$ in the second period, and each player chooses $C$ otherwise. Note that Player 1 is not incentivized to deviate, since they would attain 0 instead of 1, and that Player 2 attains 0 no matter what they do, so they are not incentivized to deviate. This is a case where the subgames are never reached.
+	\item Note that though other Nash equilibria exist, no other outcome except for the SPE outcome where the players get $(1,0)$ is attainable. For a quick proof, we reason towards a contradiction. Assume that some other outcome, attained by either some player choosing $S$ at time $i > 1$ or by both players choosing $C$ forever, is attained, where the players get $(x,y)$. Then the player who moves at time $i - 1$ could attain some greater amount by choosing $S$ in the previous period, contradicting the fact that $(x,y)$ is an equilibrium outcome. Thus, the only equilibrium outcome is $(1,0)$, which is the SPE outcome.
+\end{enumerate}
+
+\subsection*{Problem 3}
+
+\begin{proof}
+	Observe that, moving to the subgame after the child has chosen $A$, the parent maximizes their (total, altruistic) utility by choosing \[B \in \argmax_{B \in \reals} V(I_P(A) - B) + k U(I_C(A) + B)\]which admits the first order condition \[V'(I_P(A)-B) = kU'(I_C(A)+B)\]Since the utility functions are strictly concave, this condition admits a unique solution for each $A$. Observe that this condition must hold in equilibrium, so a choice of $A$ that decreases $I_P(A)$ will decrease, by the same amount, $B$. Conclusion will follow from demonstrating that the child's utility is the same for any $A,A'$ such that $I_P(A) + I_C(A) = I_P(A') + I_C(A')$, even if $I_C(A') > I_C(A)$. Define $B(\cdot)$ as the optimal bequest choice for a given action. Then we have that $B(\cdot)$ solves: \[V'(I_P(A)-B(A)) = kU'(I_C(A)+B(A)) \qquad \text{ and } \qquad V'(I_P(A')-B(A')) = kU'(I_C(A')+B(A'))\]If $I_C(A') > I_C(A)$, then since $V$ and $U$ are strictly concave, their derivatives are monotonically strictly decreasing. This means that they are equal in both cases if and only if the arguments are the same in both cases. Thus, $I_C(A) + B(A) = I_C(A') + B(A') \Longrightarrow B(A') < B(A)$. For fixed family income, the parent will keep the child at the same income (and thus utility) regardless of the action choice and the relative income to the child or parent. Thus, maximizing the child's utility is equivalent to maximizing the total family income, even though only the parent is altruistic.
+\end{proof}
+
+\subsection*{Problem 4}
+
+We take $(V,R,\delta)$ as given. Further, fix some contribution from the first player $c_1$, and focus on the second player's problem. Clearly, since contribution is costly, they will contribute either $R-c_1$ to perfectly complete the process, and 0 otherwise. Formally, we have that\[c_2 = \begin{cases} R - c_1 & (R-c_1)^2 \le V \\ 0 & (R-c_1)^2 > V \end{cases}\]Taking $c_2$ as a direct function of $c_1$, we can compute the payoffs for player 1 for any choice of $c_1$. Observe that they have essentially three choices: entirely complete the work in the first period, complete exactly enough that player 2 completes the rest (\ie they will set $c_1 = R - \sqrt{V}$), and complete nothing. They will choose based on (i) the difference between the payoff between the task being completed in the first versus the second period, and (ii) whether, for a given $c_1$, the work will be completed at all. We can see policy sharply shifting at three places: when $R = \sqrt{V}$, above which one player would never be incentivized to complete the work alone; when $\delta V = V - R^2$, above which player 1 will prefer to force player 2 to do all the work; and when $\delta V = (R-\sqrt{V})^2$, above which even working together cannot attain a positive payoff for player 1. Formally, their strategy is defined as: \[c_1 = \begin{cases} 0 & R \le \sqrt{V} \text{ and } \delta V \ge V - R^2 \\ R & R \le \sqrt{V} \text{ and } \delta V < V - R^2 \\ R - \sqrt{V} & R > \sqrt{V} \text{ and } \delta V > (R-\sqrt{V})^2 \\ 0 & R > \sqrt{V} \text{ and } \delta V \le (R - \sqrt{V})^2 \end{cases} \]In the first case, player 2 will contribute $R$. In the second they will contribute 0, and in the third they will contribute precisely $\sqrt{V}$. In the last case, they will contribute 0. We have that the unique backwards induction strategies of this game are \[(c_1,c_2) =  \begin{cases} (0,R) & R \le \sqrt{V} \text{ and } \delta V \ge V - R^2 \\ (R,0) & R \le \sqrt{V} \text{ and } \delta V < V - R^2 \\ (R - \sqrt{V},\sqrt{V}) & R > \sqrt{V} \text{ and } \delta V > (R-\sqrt{V})^2 \\ (0,0) & R > \sqrt{V} \text{ and } \delta V \le (R - \sqrt{V})^2 \end{cases}\]which admit payoffs \[(u_1(c_1,c_2),u_2(c_1,c_2)) =\begin{cases} (\delta V, V - R^2) & R \le \sqrt{V} \text{ and } \delta V \ge V - R^2 \\ (V - R^2, V) & R \le \sqrt{V} \text{ and } \delta V < V - R^2 \\(\delta V - (R-\sqrt{V})^2, 0) & R > \sqrt{V} \text{ and } \delta V > (R-\sqrt{V})^2 \\ (0,0) & R > \sqrt{V} \text{ and } \delta V \le (R - \sqrt{V})^2 \end{cases}\]
+
+
+
+
+
+
+
+
+\end{document}

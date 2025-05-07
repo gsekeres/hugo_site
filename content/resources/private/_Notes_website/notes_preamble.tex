@@ -4,10 +4,11 @@
 \usepackage[T1]{fontenc}
 \usepackage[usenames,dvipsnames]{xcolor}
 \usepackage{amssymb, amsfonts, amsmath, mathrsfs, enumitem, tcolorbox, bbm, graphicx, fullpage, parskip, mathtools, float, amsthm}
-\usepackage{tikz,sgame,bbm,todonotes, setspace, soul, array}
+\usepackage{tikz,sgame,bbm,todonotes, setspace, soul, bm, multirow}
+\usetikzlibrary{decorations.pathreplacing,calligraphy}
 \usepackage[english]{babel}
-\usepackage{pdfpages}
-\setcounter{tocdepth}{3}
+
+\setcounter{tocdepth}{2}
 % Links (and references)
 \definecolor{linkblue}{RGB}{40, 50, 200}
 \usepackage[colorlinks=true, allcolors={linkblue}]{hyperref}
@@ -57,16 +58,18 @@
 % Statistics
 \newcommand{\cov}{\mathop{\rm cov}} % covariance
 \newcommand{\corr}{\mathop{\rm corr}} % correlation
-\newcommand{\expect}{\mathop{\mathbb{E}}} % expectation
+\newcommand{\expect}{\mathbb{E}} % expectation
 \newcommand{\indep}{\perp \hspace{-1.4ex} \perp} % independence symbol
 \newcommand{\distiid}{\mathop{\overset{\text{i.i.d.}}\sim}} % i.i.d.
 \newcommand{\oversim}[1]{\mathop{\overset{\text{#1}}\sim}} % general text over \sim
 \newcommand{\prob}{\mathbb{P}}
 \newcommand{\mse}{\mathop{\rm MSE}}
 \newcommand{\var}{\mathop{\rm Var}}
+\newcommand{\avar}{\mathop{\rm aVar}}
 \newcommand{\sd}{\mathop{\rm sd}}
 \newcommand{\se}{\mathop{\rm se}}
 \newcommand{\bias}{\mathop{\rm bias}}
+\newcommand{\supp}{\mathop{\rm supp}}
 \newcommand{\toprob}{\overset{p}{\to}}
 \newcommand{\toas}{\overset{a.s.}{\to}}
 \newcommand{\todist}{\overset{d}{\to}}
@@ -80,8 +83,6 @@
 \renewcommand{\exists}{\oldExists\;}
 \let\oldForall\forall
 \renewcommand{\forall}{\;\oldForall\;}
-\let\oldEmptyset\emptyset
-\renewcommand{\emptyset}{\mathop{\varnothing}}
 \newcommand{\parl}{\left(}
 \newcommand{\parr}{\right)}
 \newcommand{\midbar}{\middle|}
@@ -104,7 +105,7 @@
 \theoremstyle{plain}
 \newtheorem{result}{Result}
 \newtheorem{lemma}{Lemma}[section]
-
+\newtheorem{assumption}{Assumption}[section]
 \newtheorem{theorem}{Theorem}[section]
 \newtheorem{proposition}{Proposition}[section]
 \newtheorem{corollary}{Corollary}[section]
@@ -121,7 +122,8 @@
 \newtheorem*{question}{Question}
 \newtheorem*{answer}{Answer}
 \newtheorem*{algorithm}{Algorithm}
-\newtheorem{assumption}{Assumption}[section]
+
+\newcommand{\excleqq}{\overset{!}{=}}
 
 \newcommand{\blue}[1]{\textcolor{blue}{\emph{#1}}}
 \newcommand{\red}[1]{\textcolor{red}{\emph{#1}}}
@@ -142,13 +144,30 @@
         \begin{center}
             \textbf{\@course} \\[0.25em]
             {\Large\textit{\@entitle}} \\[0.5em]
-            \@author \\[0.5em]
+            Gabe Sekeres \\[0.5em]
             \@term
         \end{center}
     \end{tcolorbox}
     \vspace{1em}
 }
 \makeatother
+
+
+\newcommand{\shrug}[1][]{%
+\begin{tikzpicture}[baseline,x=0.8\ht\strutbox,y=0.8\ht\strutbox,line width=0.125ex,#1]
+\def\arm{(-2.5,0.95) to (-2,0.95) (-1.9,1) to (-1.5,0) (-1.35,0) to (-0.8,0)};
+\draw \arm;
+\draw[xscale=-1] \arm;
+\def\headpart{(0.6,0) arc[start angle=-40, end angle=40,x radius=0.6,y radius=0.8]};
+\draw \headpart;
+\draw[xscale=-1] \headpart;
+\def\eye{(-0.075,0.15) .. controls (0.02,0) .. (0.075,-0.15)};
+\draw[shift={(-0.3,0.8)}] \eye;
+\draw[shift={(0,0.85)}] \eye;
+% draw mouth
+\draw (-0.1,0.2) to [out=15,in=-100] (0.4,0.95); 
+\end{tikzpicture}}
+
 
 
 %% Code
@@ -176,6 +195,8 @@
     commentstyle     = \color{ForestGreen},
     showstringspaces = false,
 }
+
+
 
 
 

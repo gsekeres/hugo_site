@@ -1,0 +1,45 @@
+\documentclass[10pt]{article}
+
+\input{/Users/gabesekeres/Dropbox/LaTeX_Docs/pset_preamble.tex}
+
+\course{ECON 6100}
+\pset{8}
+\begin{document}
+\maketitle
+
+\begin{enumerate}
+	\item The integer program for this problem is described as follows. Say that we have $N$ villagers, where $x_{nf} = 1$ if $n$ is assigned to fish, and $x_{nh} = 1$ if $n$ is assigned to hunt. \[\max_x \sum_{n=1}^N \alpha_n \cdot x_{nh} + \beta_n \cdot x_{nf} \]subject to\begin{align*} \st \qquad x_{nh}+x_{nf} &\le 1 \forall n \in \{1,\dots,N\} \\ x_{nh},x_{nf} &\in \{0,1\} \forall n\in \{1,\dots,N\}\end{align*}
+	\item The linear relaxation is\[\max_x \sum_{n=1}^N \alpha_n \cdot x_{nh} + \beta_n \cdot x_{nf} \]subject to\begin{align*} \st \qquad x_{nh}+x_{nf} &\le 1 \forall n \in \{1,\dots,N\} \\ x_{nh},x_{nf} &\ge 0 \forall n\in \{1,\dots,N\}\end{align*}
+	\item Observe that if, for some $n$, $\alpha_n > \beta_n$, a matching is only efficient if $n$ is matched to hunt, because if assigned to fish (by any proportion greater than 0), they could strictly increase their total surplus by choosing to hunt. The only efficient match is if all villagers with $\alpha_n > \beta_n$ hunt and if all villagers with $\beta_n > \alpha_n$ fish. The stable payoffs are anything greater than their lower characteristic.
+	\item The linear relaxation is \begin{align*}\max_x \sum_{n=1}^N&\; \alpha_n \cdot x_{nh} + \beta_n \cdot x_{nf}\\ \st \qquad x_{nh}+x_{nf} &\le 1 \forall n \in \{1,\dots,N\} \\ \sum_n x_{nh} &\le V_h \\ x_{nh},x_{nf} &\ge 0 \forall n\in \{1,\dots,N\}\end{align*}The dual of this relaxation is \begin{align*}\min_q \sum_{n=1}^N &\; q_n + q_0 \cdot V_n \\ \st \qquad q_n + q_0 &\ge \alpha_n \forall n \in \{1,\dots,N\} \\ q_n &\ge \beta_n \forall n \in \{1,\dots,N\} \\ q &\ge 0\end{align*}
+	\item No. Consider the case where $V_n = 1$, $N = 3$, and the three villagers have: \[\{(\alpha_n,\beta_n)\} = \{(10,10),(9,1),(8.9,1)\}\]The efficient match is to assign $1$ and $3$ to fish, and 2 to hunt, regardless of the fact that $1$ is the best hunter.
+	\item Order the villagers in order of their $\alpha_n - \beta_n$. If there are $V_n$ or fewer villagers with $\alpha_n - \beta_n \ge 0$, assign all of those to hunt and the rest to fish. If there are more than $V_n$ villagers with $\alpha_n - \beta_n > 0$, assign the $V_n$ villagers with the largest gap to hunt and the rest to fish. This is feasible as long as the payment to each hunter is less than $\alpha_n$ and the payment to each fisher is less than $\beta_n$, and it is stable as long as the hunter with the lowest $\alpha_n-\beta_n$ is paid at least $\alpha_n - \beta_n$ more to hunt than to fish, and as long as the fisher with the highest $\alpha_n-\beta_n$ is paid at most $\alpha_n - \beta_n$ more to hunt than to fish.
+	\item We now have two capacity constraints. The primal is \begin{align*} \max_x \sum_n &\; \alpha_n \cdot x_{nh} + \beta_n \cdot x_{nf} \\ \st \qquad x_{nh} + x_{nf} &\le 1 \forall n \\ \sum_n x_{nh} &\le V_h \\ \sum_n x_{nf} &\le V_f \\ x &\ge 0 \forall n \end{align*}The dual is \begin{align*} \min_q \sum_n &\; q_n + q^h \cdot V_h + q^f \cdot V_f \\ \st \qquad q_n + q^h &\ge \alpha_n \forall n \\ q_n + q^f &\ge \beta_n \forall n \\ q &\ge 0 \end{align*}
+	\item The efficient assignment will be if we again sort villagers by their $\alpha_n - \beta_n$, and we assign the top $V_h$ to hunt and the bottom $V_f$ to fish. Some villagers will be assigned to both, and will go to wherever they produce higher. One of the constraints will hold, and the other will be slack. WLOG, assume $V_h$ binds. Then $q^h > 0$ and $q^f = 0$, and each hunter is paid $\beta_n$ of the lowest hunter, each fisher is paid nothing. If $V_f$ instead binds, the alternative holds.
+	\item We again order villagers by their $\alpha_n - \beta_n$. The top $V_h$ will hunt, the bottom $V_f$ will fish, and the remaining will be idle. Note that this does not necessarily maximize the total caloric payoffs, but it ensures that the allocation will be stable. 
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

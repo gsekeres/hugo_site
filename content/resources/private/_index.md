@@ -87,6 +87,10 @@ If you are a Cornell student, SIEPR predoc, Stanford student, or a friend of a f
   <ul>
     <li><a href="/resources/private/fall_2024">Fall 2024</a>: Includes materials for ECON 6090: Microeconomics I, ECON 6130: Macroeconomics I, ECON 6170: Intermediate Mathematics for Economists, and ECON 6190: Econometrics I.</li>
   </ul>
+
+  <ul>
+    <li><a href="/resources/private/spr_2025">Spring 2025</a>: Includes materials for ECON 6100: Microeconomics II, ECON 6110: Microeconomics III, ECON 6140: Macroeconomics II, and ECON 6200: Econometrics II.</li>
+  </ul>
 </div>
 
 <script>

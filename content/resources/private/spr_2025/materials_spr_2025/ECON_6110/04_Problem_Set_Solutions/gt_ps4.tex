@@ -1,0 +1,112 @@
+\documentclass[10pt]{article}
+
+\input{/Users/gabesekeres/Dropbox/LaTeX_Docs/pset_preamble.tex}
+
+\course{ECON 6110}
+\pset{4}
+\begin{document}
+\maketitle
+
+\subsection*{Problem 1}
+
+\begin{itemize}
+	\item[(a)] If both players play $C$, then we will have $G$ with probability $p$ and $B$ with probability $1-p$. The expected payoff will be
+	\[
+	g_i(C,C) = p \cdot \parl 1 + \frac{2(1-p)}{p-q}\parr + (1-p) \cdot \parl 1 - \frac{2p}{p-q}\parr = \frac{p-q}{p-q} = 1
+	\]
+	If both players play $D$, then we will have $G$ with probability $r$ and $B$ with probability $(1-r)$. The expected payoff will be
+	\[
+	g_i(D,D) = r \cdot \frac{2(1-r)}{q-r} + (1-r) \cdot \frac{-2r}{q-r} = \frac{0}{q-r} = 0\]
+	If one player plays $C$ and the other plays $D$, we will have $G$ with probability $q$ and $B$ with probability $1-q$. The expected payoff for each of the two player types will be 
+	\begin{align*}
+		g_i(C,D) &= q\cdot \parl  1 + \frac{2(1-p)}{p-q}\parr + (1-q) \cdot \parl 1 - \frac{2p}{p-q}\parr = \frac{q-p}{p-q} =-1 \\
+		g_i(D,C) &= q \cdot \frac{2(1-r)}{q-r} + (1-q) \cdot \frac{-2r}{q-r} = \frac{2q-2r}{q-r} = 2
+	\end{align*}
+	The interpretation of this is that this game is, in stages, a Prisoner's Dilemma. Each player is strictly (in expectation) incentivized to defect, as that will net them a higher expected payoff.
+	\item[(b)] We will use $a = (D,D)$ and $w(G) = v$, $w(B) = v'$. We will first show that $v = (1-\delta) g(a) + \delta \sum_y \pi(y \mid a) w(y)$ (for each player, but the game is symmetric so this is without loss). We have that \[(1-\delta)g(D,D) + \delta \parl (1-r) \cdot \frac{\delta r}{1 - \delta(p-r)} + r \cdot \frac{1-\delta + \delta r}{1-\delta(p-r)}\parr = 0 + \delta \cdot \frac{r}{1-\delta(p-r)} = v\]It remains to show incentive compatibility, which will hold as long as \begin{align*} v &\ge (1-\delta) \cdot(-1) + \delta v + \delta q \cdot (v'-v) \\ (1-\delta)(v+1) &\ge \delta q \cdot (v'-v)\\(1-\delta) \frac{1 - \delta p + 2\delta r}{1-\delta(p-r)} &\ge (1-\delta) \frac{\delta q}{1-\delta(p-r)} \\1 - \delta p + 2\delta r &\ge \delta q \\1 &\ge \delta(p + q - 2r) \end{align*} So this is enforceable as long as $\delta \le \frac{1}{p+q-2r}$.
+	\item[(c)] We will use $a = (C,C)$ and the same $w(\cdot)$ as above. First, we need to show that $v' = (1-\delta) g(a) + \delta \sum_y \pi(y \mid a) w(y)$. We have that\[(1-\delta)g(C,C) + \delta \cdot \parl (1-p) \cdot v + p \cdot v'\parr = (1-\delta) + \delta \cdot v -  \delta \cdot p\cdot v + \delta \cdot p \cdot v'\]which becomes the extremely gross\[\frac{1 - \delta p + \delta r - \delta + \delta^2 p - \delta^2 r + \delta^2 r - \delta^2 p r + \delta p - \delta^2 p + \delta^2 pr }{1 - \delta(p-r)} = \frac{1-\delta + \delta r}{1-\delta(p-r)} = v'\] It remains to show incentive compatibility. We need that \begin{align*} v' &\ge 2(1-\delta) + \delta v + \delta q (v'-v) \\ (1 - \delta \cdot q) v' &\ge 2(1-\delta) + (1-q)\delta \cdot v \\ (1-\delta + \delta r)(1-\delta q) &\ge 2(1-\delta)(1-\delta(p-r)) + (1-q)\delta^2r \\ 1 - \delta + \delta r - \delta q + \delta^2 q - \delta^2rq &\ge 2 - 2\delta - 2\delta p+2\delta^2 p + 2\delta r - 2\delta^2r + \delta^2r - \delta^2rq \\ \delta(2p - r -  q) &\ge 1 - \delta + \delta^2(2p - q - r) \\ \delta (2p - r - q) (1-\delta) &\ge 1 - \delta \\ \delta &\ge \frac{1}{2p-r-q} \end{align*} So this is enforceable as long as $\delta \ge \frac{1}{2p-r-q}$.
+\end{itemize} 
+
+\subsection*{Problem 2}
+
+\begin{itemize}
+	\item[(a)] The action spaces are technically $p_i \in \reals_+$. Since any $p_i > a$ is trivially not rationalizable, we restrict attention to $p_i \in [0,a]$, which is without loss. The state space is $\{b_L,b_H\}^2$, the Cartesian product of the types -- specifically, the state is a tuple of types for each firm. The type space is simply $\{b_L,b_H\}$, and the prior beliefs are the same for each agent, where $p_i(t_j = b_L) = \theta$ and $p_i(t_j = b_H) = 1-\theta$ for each $i$. Pure strategies map each type $b_i$ to a price $p_i$, and are well-defined, so each pure strategy is a tuple $(p_i(b_L),p_i(b_H))$. Finally, utility functions for a type $b_i$ agent are expected utility functions given an agents type and the strategy that the opponent plays. Formally, given a strategy $p$, \[u_i(p; b_i) = \theta\cdot  p_i(b_i) \cdot q_i(p_i(b_i),p_j(b_L)) + (1-\theta) \cdot q_i(p_i(b_i),p_j(b_H))\]
+	\item[(b)] Observe that there can be no symmetric strategies where $p_i = 0$ for all $i$, since $0 \cdot q_i(0,0) = 0 < \varepsilon \cdot q_i(a-\varepsilon,0) > 0$ for any $\varepsilon < a$. For this reason we restrict attention to strictly positive prices. Firm $i$ maximizes their expected utility under symmetric strategies, so they choose $p_i$ to maximize each of\[u_i(p; b_L) = \theta \cdot p_i(b_L)\cdot (a - p_i(b_L) - b_L\cdot p_j(b_L)) + (1-\theta) \cdot p_i(b_L) \cdot (a - p_i(b_L) - b_L\cdot p_j(b_H))\]and \[u_i(p; b_H) = \theta \cdot p_i(b_H)\cdot (a - p_i(b_H) - b_H\cdot p_j(b_L)) + (1-\theta) \cdot p_i(b_H)\cdot (a - p_i(b_H) - b_H\cdot p_j(b_H))\]Since these functions are concave, we can find the maximum using the first order conditions:\[\frac{\partial u_i(\sigma; b_L)}{\partial p_i(b_L)} = \theta\cdot \parl a - 2p_i(b_L) - b_L\cdot p_j(b_L)\parr + (1-\theta) \cdot \parl a - 2p_i(b_L) - b_L\cdot p_j(b_H)\parr = 0\]so we have that\[a - 2p_i(b_L) - b_L\cdot (\theta \cdot p_j(b_L) + (1-\theta) \cdot p_j(b_H)) = 0 \Longrightarrow p_i\opt(b_L) = \frac{a - b_L\cdot (\theta \cdot p_j(b_L) + (1-\theta) \cdot p_j(b_H))}{2}\]Similarly, the second equation gives us that\[p_i\opt(b_H) = \frac{a - b_H\cdot (\theta \cdot p_j(b_L) + (1-\theta) \cdot p_j(b_H))}{2}\]Define $\expect[p_k] = \theta \cdot p_k(b_L) + (1-\theta) \cdot p_k(b_H)$. Since we are restricting our attention to symmetric strategies, we have that \[\expect[p_j\opt] = \theta \cdot p_i\opt(b_L) + (1-\theta) \cdot p_i\opt(b_H)\]So \[\expect[p_j\opt] = \theta \cdot \frac{a - b_L \expect[p_j\opt]}{2} + (1-\theta) \cdot \frac{a - b_H \expect[p_j\opt]}{2} \Longrightarrow \expect[p_j\opt] = \frac{a}{2 + \theta\cdot b_L + (1-\theta)\cdot b_H}\]Finally, we get that\begin{align*} p_i\opt(b_L) &= \frac{a - b_L \cdot \expect[p_j\opt]}{2} = \frac{a}{2}\barl 1 - \frac{b_L}{2+\theta \cdot b_L + (1-\theta) \cdot b_H}\barr \\p_i\opt(b_H) &= \frac{a - b_H \cdot \expect[p_j\opt]}{2} = \frac{a}{2}\barl 1 - \frac{b_H}{2+\theta \cdot b_L + (1-\theta) \cdot b_H}\barr\end{align*}and we can verify that these are strictly positive by the assumption that $2 - \theta(b_H - b_L) > 0$. Thus, this is a symmetric pure-strategy Bayesian Nash equilibrium.
+\end{itemize}
+\newpage
+
+\subsection*{Problem 3}
+
+Observe first that for type $b$, $D$ strictly dominates $U$, so $a_1(b) = D$ always. We first consider pure strategy Bayesian Nash equilibria. For player 2, if $a_1(b) = D$, the best response is to play $R$ when $t_1 = b$. Suppose that player 2 always plays $R$. Then type $a$ also prefers $D$, so one pure strategy Bayesian Nash equilibrium is $(a_1(a) = D,a_1(b)=D,a_2 = R)$. 
+
+Suppose that player 2 always plays $L$. Then type $a$ prefers $U$ strictly, so $a_1(a) = U$, and again $a_1(b)=D$. The expected utility of each action for player 2 is thus:\begin{align*} u(L) &= 0.9 \cdot 2 + 0.1 \cdot -2 = 1.6 \\ u(R) &= 0.9 \cdot 0 + 0.1 \cdot 0 = 0\end{align*}so this is incentive compatible for player 2 as well. Thus, another pure strategy Bayesian Nash equilibrium is $(a_1(a) = U,a_1(b)=D,a_2 = L)$.
+
+We now move to mixed strategy equilibria. Recall that type $b$ will always play $D$, so in any mixed strategy it must be that player 2 plays $L$ with some probability $p$, and type $a$ plays $U$ with some probability $q$. For type $a$ of player 1 to be indifferent, we need that
+\begin{align*}
+	u_1(U;a) &= p \cdot 2 + (1-p) \cdot (-2) = 4p - 2 \\
+	u_1(D;a) &= p \cdot 0 + (1-p) \cdot 0 = 0 \\
+	\text{indifference } &\Longrightarrow p = 0.5
+\end{align*}
+For player 2 to be indifferent, we need that
+\begin{align*}
+	u_2(L) &= 0.9 \cdot \parl q \cdot 2 + (1-q) \cdot -2\parr + 0.1 \cdot (-2) = 3.6 \cdot q - 2 \\
+	u_2(R) &= 0.9 \cdot \parl q \cdot 0 + (1-q) \cdot 0\parr + 0.1 \cdot 0 = 0 \\
+	\text{indifference } &\Longrightarrow q = \frac{5}{9}
+\end{align*}
+So we have exactly one mixed strategy. In summation, we have three equilibria:
+\begin{align*}
+	(a_1(a) = D,a_1(b)&=D,a_2 = R)\\
+	(a_1(a) = U,a_1(b)&=D,a_2 = L) \\
+	\Bigg(a_1(a) = \frac{5}{9} U + \frac{4}{9} D,a_1(b) &= D,a_2 = \frac{1}{2} L + \frac{1}{2}R \Bigg)
+\end{align*}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
