@@ -1171,7 +1171,7 @@ What's important is that (i) random effects has the same identifying assumptions
 
 
 \begin{remark}
-	We are abput to move on to $\sqrt{n}$-asymptotic normality. Are there intermediate assumptions under which we can ensure a rate of convergence without ensuring asymptotic normality? Yes! They relate the curvature of $Q(\cdot)$ at $\theta_0$ to that rate. The rate is $\sqrt{n}$ if $Q(\cdot)$ locally dominates some quadratic function. The proof is van der Vaart \& Wellner's \blue{Argmax Theorem} in \href{https://link.springer.com/book/10.1007/978-1-4757-2545-2}{Weak Convergence and Empirical Processes}.
+	We are about to move on to $\sqrt{n}$-asymptotic normality. Are there intermediate assumptions under which we can ensure a rate of convergence without ensuring asymptotic normality? Yes! They relate the curvature of $Q(\cdot)$ at $\theta_0$ to that rate. The rate is $\sqrt{n}$ if $Q(\cdot)$ locally dominates some quadratic function. The proof is van der Vaart \& Wellner's \blue{Argmax Theorem} in \href{https://link.springer.com/book/10.1007/978-1-4757-2545-2}{Weak Convergence and Empirical Processes}.
 \end{remark}
 
 
@@ -1352,7 +1352,7 @@ Consistency of maximum likelihood follows from the $m$-estimator consistency res
 \begin{proof}
 	We write
 	\begin{align*}
-		\expect \log f(W;\theta) - \expect \log f(W;\theta_0) &= \expect \log \frac{f(W;\theta)}{f(W;\theta_0} \le \log \expect \frac{f(W;\theta)}{f(W;\theta_0} \\
+		\expect \log f(W;\theta) - \expect \log f(W;\theta_0) &= \expect \log \frac{f(W;\theta)}{f(W;\theta_0)} \le \log \expect \frac{f(W;\theta)}{f(W;\theta_0)} \\
 		= \log \int \frac{f(w;\theta)}{f(w;\theta_0)} f(w;\theta_0)dw &= \log \int f(w;\theta) dw = \log 1 = 0
 	\end{align*}
 	where the inequality is Jensen's Inequality, and it is strict unless \[\frac{f(W;\theta)}{f(W;\theta_0)} \text{ constant almost surely } \Longleftrightarrow \prob\{f(W;\theta) \ne f(W;\theta_0)\} = 0\]
