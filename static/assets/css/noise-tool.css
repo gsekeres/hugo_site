@@ -59,26 +59,38 @@
 .noise-process-btn, .noise-download-btn {
     background: #007bff;
     color: white;
-    border: none;
-    padding: 14px 28px;
-    border-radius: 6px;
+    border: 2px solid #0056b3;
+    padding: 16px 32px;
+    border-radius: 8px;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-    transition: background 0.2s, box-shadow 0.2s, transform 0.1s;
+    box-shadow: 0 4px 12px rgba(0,123,255,0.3);
+    transition: all 0.2s ease;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 10px 0;
+    min-width: 200px;
 }
 
 .noise-process-btn:disabled {
     background: #6c757d;
+    border-color: #545b62;
     cursor: not-allowed;
-    box-shadow: none;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    color: #dee2e6;
 }
 
 .noise-process-btn:hover:not(:disabled), .noise-download-btn:hover {
     background: #0056b3;
-    box-shadow: 0 4px 16px rgba(0,0,0,0.18);
-    transform: translateY(-2px) scale(1.03);
+    border-color: #004085;
+    box-shadow: 0 6px 20px rgba(0,123,255,0.4);
+    transform: translateY(-2px);
+}
+
+.noise-process-btn:active:not(:disabled), .noise-download-btn:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 8px rgba(0,123,255,0.3);
 }
 
 .noise-image-display {

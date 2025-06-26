@@ -6,6 +6,7 @@ class ImageNoiseProcessor {
         this.processedCtx = this.processedCanvas.getContext('2d');
         
         this.setupEventListeners();
+        this.debug = false; // Enable debug logging
     }
     
     setupEventListeners() {
@@ -13,16 +14,11 @@ class ImageNoiseProcessor {
         const keyInput = document.getElementById('key-input');
         const processBtn = document.getElementById('process-btn');
         const downloadBtn = document.getElementById('download-btn');
-        const noiseStrength = document.getElementById('noise-strength');
-        const noiseValue = document.getElementById('noise-value');
-        
+
         imageInput.addEventListener('change', (e) => this.handleImageUpload(e));
         keyInput.addEventListener('input', () => this.updateProcessButton());
         processBtn.addEventListener('click', () => this.processImage());
         downloadBtn.addEventListener('click', () => this.downloadImage());
-        noiseStrength.addEventListener('input', (e) => {
-            noiseValue.textContent = e.target.value;
-        });
     }
     
     handleImageUpload(event) {
@@ -74,53 +70,39 @@ class ImageNoiseProcessor {
     }
     
     processImage() {
-        const mode = document.querySelector('input[name="mode"]:checked').value;
         const key = document.getElementById('key-input').value.trim();
-        const noiseStrength = parseFloat(document.getElementById('noise-strength').value);
-        
+        const noiseBits = 8; // Always use 8 bits for maximum noise
+
         if (!this.imageData) return;
-        
+
         const processedData = new ImageData(
             new Uint8ClampedArray(this.imageData.data),
             this.imageData.width,
             this.imageData.height
         );
-        
-        if (mode === 'encode') {
-            this.addNoise(processedData, key, noiseStrength);
-        } else {
-            this.removeNoise(processedData, key, noiseStrength);
-        }
-        
+
+        this.xorNoise(processedData, key, noiseBits);
+
         this.processedCtx.putImageData(processedData, 0, 0);
         document.querySelector('.noise-download-section').style.display = 'block';
     }
     
-    addNoise(imageData, key, strength) {
-        const seed = this.hashCode(key);
+    xorNoise(imageData, key, bits) {
+        // bits: 1-8, use only the lower bits of the random byte
+        const seed = this.hashCode(key + ':' + bits);
         const rng = this.seededRandom(seed);
-        
+        const mask = (1 << bits) - 1; // e.g., 8 bits => 0b11111111
+        let debugArr = [];
         for (let i = 0; i < imageData.data.length; i += 4) {
-            const noise = (rng() - 0.5) * 2 * strength * 255;
-            
-            imageData.data[i] = Math.max(0, Math.min(255, imageData.data[i] + noise));     // R
-            imageData.data[i + 1] = Math.max(0, Math.min(255, imageData.data[i + 1] + noise)); // G
-            imageData.data[i + 2] = Math.max(0, Math.min(255, imageData.data[i + 2] + noise)); // B
+            for (let c = 0; c < 3; ++c) { // R, G, B
+                const noise = Math.floor(rng() * 256) & mask;
+                if (this.debug && debugArr.length < 10) debugArr.push(noise);
+                imageData.data[i + c] = imageData.data[i + c] ^ noise;
+            }
             // Alpha channel (i + 3) remains unchanged
         }
-    }
-    
-    removeNoise(imageData, key, strength) {
-        const seed = this.hashCode(key);
-        const rng = this.seededRandom(seed);
-        
-        for (let i = 0; i < imageData.data.length; i += 4) {
-            const noise = (rng() - 0.5) * 2 * strength * 255;
-            
-            imageData.data[i] = Math.max(0, Math.min(255, imageData.data[i] - noise));     // R
-            imageData.data[i + 1] = Math.max(0, Math.min(255, imageData.data[i + 1] - noise)); // G
-            imageData.data[i + 2] = Math.max(0, Math.min(255, imageData.data[i + 2] - noise)); // B
-            // Alpha channel (i + 3) remains unchanged
+        if (this.debug) {
+            console.log(`Process - First 10 noise values (key: '${key}', bits: ${bits}):`, debugArr);
         }
     }
     
