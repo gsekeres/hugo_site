@@ -32,12 +32,12 @@ menu:
             description: "View publications and preprints."
         - name: Tags
           url: tags/
-          weight: 6
+          weight: 7
           params:
             description: "View tags."
         - name: Archive
           url: archive/
-          weight: 7
+          weight: 8
           params:
             description: "View archive."
 
@@ -45,7 +45,8 @@ params:
     description: "Gabe Sekeres's academic website."
     author: Gabe Sekeres
     # googleAnalyticsID: "G-XXXXX"
-    customCSS: ["/assets/css/common/custom.css"]
+    customCSS: ["/assets/css/common/custom.css", "/assets/css/noise-tool.css"]
+    customJS: ["/assets/js/noise-tool.js"]
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
