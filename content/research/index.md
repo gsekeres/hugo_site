@@ -1,30 +1,42 @@
 ---
 title: "Research"
 hidemeta: true
+math: true
 ---
 
-## Broadly Thinking About:
+## Broadly Thinking About
 
-The intersections of micro theory, econometric theory, and machine learning.
+The intersections of micro theory and computer science.
 
-How do researchers act? How do they learn? How do they make decisions? What changes when researchers are algorithms?
+How do no-regret algorithms act in pricing games? How do reinforcement learning algorithms act? When are supracompetitive prices collusive, and when are they
+just misspecification.
 
-Also, what is the difference between optimizing a smooth nonlinear function over Euclidean space and optimizing a linear function over a smooth Riemannian manifold? What are the duality implications?
+## Specifically
 
-## Specifically Working On:
+I've derived necessary and sufficient conditions for extensive form coarse correlated equilibria to be equivalent to Nash equilibria. I've derived sufficient conditions for normal fome games, but they are not yet tight. I'm working on it! 
 
-People have presented a number of suggestions for solving the replication crisis. These suggestions sometimes do not take into account dynamics; and they almost always do not examine the effects on innovation. [Nic Fishman](https://njw.fish/) and I are thinking about this.
+Thinking, along with [Omar Andujar](https://economics.cornell.edu/omar-andujar) about stable matching under memory constraints, and how we can derive a price of anarchy when we don't have strategy proofness. 
 
-Multiple papers with [Eric Sun](https://profiles.stanford.edu/eric-sun), my predoctoral mentor, on the effects of surgeons (and anesthesiologists) taking leaves on patient outcomes. Updates on this coming soon.
+How would a monopolist trying to second-degree price discriminate under an uncertain state? Can we derive guarantees of how good or bad they'd do? I'm not sure yet!
 
-## Research Statement:
+## Research Statement
 
 Check back when I'm on the job market.
 
-## A random equation that I've been thinking about:
+## Some math I've been working on
 
 $$
-\mu = \argmin_{G \in S_d^+} \sum_{i=1}^N \delta_R^2(G, P_i)
+\mathbb{E}\_{\substack{(h,S\_{-i})\sim\mu \\ d\_c\sim\delta\_c}}
+\Bigl[u\_i\bigl(h,\sigma\_i,S\_{-i},d\_c\bigr)\Bigr]
+\ge
+\mathbb{E}\_{\substack{(h,S\_{-i})\sim\mu\\ d\_c\sim\delta\_c}}
+\Bigl[u\_i\bigl(h,S'\_i,S\_{-i},d\_c\bigr)\Bigr]
 $$
 
-(updated 03/06/2025, credit to [Jeong et al. (2023)](https://arxiv.org/abs/2112.03379))
+for all $S'\_i$ and for all
+
+$$
+\mu \in \Delta \Bigl((h,S\_{-i}) \: h\in I\_i,\ S\_{-i}\in\Sigma\_{-i} \text{, and } \mathbb{P} (h \mid \sigma\_i S\_{-i} \delta\_c) > 0 \Bigr)
+$$
+
+(updated 11/03/2025)
