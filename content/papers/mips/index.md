@@ -1,11 +1,12 @@
 ---
-title: "Association between Anesthesia Group Size and Merit-Based Incentive Payment System Scores" 
+title: "Association between Anesthesia Group Size and Merit-Based Incentive Payment System Scores"
 date: 2024-04-01
 lastmod: 2024-04-01
 tags: ["anesthesiology","medicine"]
 author: ["Gabriel Sekeres","Thomas R. Miller", "Edward R. Mariano", "Laurent G. Glance", "Eric C Sun"]
-description: "This paper explores the effect of group size on Medicare scoring criteria. Published in *Anesthesiology*, 2024." 
-summary: "This paper explores the effect of group size on Medicare scoring criteria, finding that larger groups are associated with higher scores." 
+description: "This paper explores the effect of group size on Medicare scoring criteria. Published in *Anesthesiology*, 2024."
+summary: "This paper explores the effect of group size on Medicare scoring criteria, finding that larger groups are associated with higher scores."
+status: "Published"
 editPost:
     URL: "https://doi.org/10.1097/ALN.0000000000004887"
     Text: "Anesthesiology"

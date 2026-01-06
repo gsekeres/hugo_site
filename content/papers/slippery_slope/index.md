@@ -1,11 +1,12 @@
 ---
-title: "The Politics of the Slippery Slope" 
+title: "The Politics of the Slippery Slope"
 date: 2025-02-07
 lastmod: 2025-02-07
 tags: ["microeconomic theory","political economy","learning","policy momentum"]
 author: ["Giri Parameswaran","Gabriel Sekeres","Haya Goldblatt"]
-description: "We present a model of policy provision under endogenous policy momentum and a divided, misinformed polity. Forthcoming in the *Journal of Politics*." 
-summary: "We present a model of policy provision under endogenous policy momentum and a divided, misinformed polity." 
+description: "We present a model of policy provision under endogenous policy momentum and a divided, misinformed polity. Published in the *Journal of Politics*."
+summary: "We present a model of policy provision under endogenous policy momentum and a divided, misinformed polity."
+status: "Published"
 editPost:
     URL: "https://www.journals.uchicago.edu/doi/10.1086/732965"
     Text: "Journal of Politics"

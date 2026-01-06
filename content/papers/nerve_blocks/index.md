@@ -1,11 +1,12 @@
 ---
-title: "Association of Patient Race and Hospital with Utilization of Regional Anesthesia for Treatment of Postoperative Pain in Total Knee Arthroplasty: A Retrospective Analysis Using Medicare Claims" 
+title: "Association of Patient Race and Hospital with Utilization of Regional Anesthesia for Treatment of Postoperative Pain in Total Knee Arthroplasty: A Retrospective Analysis Using Medicare Claims"
 date: 2024-02-01
 lastmod: 2024-02-01
 tags: ["anesthesiology","medicine","race"]
 author: ["Anjali A Dixit","Gabriel Sekeres","Edward R. Mariano","Stavros M. Memtsoudis","Eric C. Sun"]
-description: "This paper studies the association between patient race and use of regional nerve blocks. Published in *Anesthesiology*, 2024." 
-summary: "This paper studies the association between patient race and use of regional nerve blocks in total knee arthroplasty." 
+description: "This paper studies the association between patient race and use of regional nerve blocks. Published in *Anesthesiology*, 2024."
+summary: "This paper studies the association between patient race and use of regional nerve blocks in total knee arthroplasty."
+status: "Published"
 editPost:
     URL: "https://doi.org/10.1097/ALN.0000000000004827"
     Text: "Anesthesiology"

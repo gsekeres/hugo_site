@@ -54,6 +54,12 @@
   <header class="entry-header">
     <h2 class="entry-hint-parent">
       {{- .Title }}
+      {{- if .Params.status }}
+      {{- $statusClass := "published" }}
+      {{- if eq .Params.status "Forthcoming" }}{{ $statusClass = "forthcoming" }}{{ end }}
+      {{- if eq .Params.status "Working Paper" }}{{ $statusClass = "working-paper" }}{{ end }}
+      <span class="paper-status {{ $statusClass }}">{{ .Params.status }}</span>
+      {{- end }}
       {{- if .Draft }}
       <span class="entry-hint" title="Draft">
         <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" fill="currentColor">
