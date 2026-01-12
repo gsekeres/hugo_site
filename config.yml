@@ -35,6 +35,11 @@ menu:
           weight: 5
           params:
             description: "View location and contact information."
+        - name: Marginalia
+          url: marginalia/
+          weight: 6
+          params:
+            description: "Literature management tool."
 
 params:
     description: "Gabe Sekeres's academic website."
@@ -80,6 +85,8 @@ params:
               url: resources/
             - name: Location
               url: location/
+            - name: Marginalia
+              url: marginalia/
     socialIcons:
         - name: CV
           url: /cv/gabe_sekeres_cv.pdf
