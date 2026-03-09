@@ -45,7 +45,7 @@ editPost:
 Dixit, A. A., Sekeres, G., Mariano, E. R., Memtsoudis, S. M., & Sun, E. C. (2024). Association of patient race and hospital with utilization of regional anesthesia for treatment of postoperative pain in total knee arthroplasty: A retrospective analysis using Medicare claims. *Anesthesiology*, 130(2), 220-230. doi: [10.1097/ALN.0000000000004827](https://doi.org/10.1097/ALN.0000000000004827)
 
 ```BibTeX
-@article{dixit2024nerve_blocks,
+@article{dixitSekeresMarianoMemtsoudisSun2024,
 author = {Anjali A Dixit and Gabriel Sekeres and Edward R Mariano and Stavros M Memtsoudis and Eric C Sun},
 year = {2024},
 title ={Association of patient race and hospital with utilization of regional anesthesia for treatment of postoperative pain in total knee arthroplasty: A retrospective analysis using Medicare claims},

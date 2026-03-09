@@ -42,7 +42,7 @@ The Merit-Based Incentive Payment System was introduced in 2017 by the Centers f
 Sekeres G, Miller T, Mariano E, Glance L, Sun E. 2024. "Association between Anesthesia Group Size and Merit-Based Incentive Payment System Scores." *Anesthesiology* 140 (4): 853–855. doi: https://doi.org/10.1097/ALN.0000000000004887
 
 ```BibTeX
-@article{sekeres2024mips,
+@article{sekeresMillerMarianoSun2024,
 author = {Gabriel Sekeres and Thomas R. Miller and Edward R. Mariano and Laurent G. Glance and Eric C Sun},
 year = {2024},
 title ={Association between Anesthesia Group Size and Merit-Based Incentive Payment System Scores},
