@@ -6,10 +6,6 @@ description: "Gabe Sekeres's mailing and office addresses at Cornell University.
 
 ---
 
-### Office Hours: 4:15--6:15pm Thursdays
-
----
-
 #### Mailing address
 
 Gabe Sekeres  
