@@ -11,11 +11,6 @@ taxonomies:
 
 menu:
     main:
-        - name: Research
-          url: research/
-          weight: 1
-          params:
-            description: "View current research projects."
         - name: Papers
           url: papers/
           weight: 2
@@ -71,8 +66,6 @@ params:
           imageUrl: "headshot.jpg"
           imageLazy: true
           buttons:
-            - name: Research
-              url: research/
             - name: Papers
               url: papers/
             - name: Teaching
