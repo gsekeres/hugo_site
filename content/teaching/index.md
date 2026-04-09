@@ -3,7 +3,9 @@ title: "Teaching"
 hidemeta: true
 ---
 
-In Fall 2025, I am TAing for ECON 6090, Ph.D. Microeconomic Theory. I'm using mainly [my notes](/resources/private/fall_2024/econ_6090_notes.pdf) from Fall 2024. My sections are:
+I am currently (Spring 2026) not teaching. This page serves as a repository for my previous courses and materials used there.
+
+In Fall 2025, I was the TA for ECON 6090, Ph.D. Microeconomic Theory. I used mainly [my notes](/resources/private/fall_2024/econ_6090_notes.pdf) from Fall 2024. My sections are:
 
  - [Section 1](6090%20Sections/6090_section_01.pdf)
  - [Section 2](6090%20Sections/6090_section_02.pdf)
@@ -15,8 +17,5 @@ In Fall 2025, I am TAing for ECON 6090, Ph.D. Microeconomic Theory. I'm using ma
  - [Section 8](6090%20Sections/6090_section_08.pdf)
  - [Section 9](6090%20Sections/6090_section_09.pdf)
  - [Section 10](6090%20Sections/6090_section_10.pdf)
-
-
-
 
 Solutions to the practice problems are [here](6090%20Sections/6090_solutions.pdf).
